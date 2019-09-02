@@ -1,0 +1,43 @@
+# main links
+main:
+  - title: Community
+    url: /community/community_index/
+  - title: "Projects"
+    url: /projects/
+  - title: Activities
+    url: /activities/
+
+# left side bar
+docs:
+  - title: Community
+    children:
+      - title: "Contributors"
+        url: /community/contributors/
+      - title: "Students"
+        url: /community/students/
+      - title: "Robotics Club"
+        url: /community/robotics_club/
+
+  - title: "Projects"
+    children:
+      - title: "Robot Programming Tools"
+        url: /robot_programming_tools/
+      - title: "Robotics-Academy"
+        url: https://jderobot.github.io/RoboticsAcademy/
+      - title: "Deep Learning"
+        url: /deep_learning/
+      - title: "Visual SLAM"
+        url: /visual_slam/
+      - title: "Drones"
+        url: /drones/
+
+  - title: "Activities"
+    children:
+      - title: "GSoC-2019"
+        url: /gsoc/
+      - title: "Robotics courses"
+        url: /robotics_courses
+      - title: "Talks"
+        url: /taks/
+      - title: "Competition 2018"
+        url: /competitions/
