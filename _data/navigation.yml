@@ -34,10 +34,10 @@ docs:
   - title: "Activities"
     children:
       - title: "GSoC-2019"
-        url: /gsoc/
+        url: /activities/gsoc/
       - title: "Robotics courses"
-        url: /robotics_courses
+        url: /activities/robotics_courses/
       - title: "Talks"
-        url: /taks/
+        url: /activities/talks/
       - title: "Competition 2018"
-        url: /competitions/
+        url: /activities/competitions/
