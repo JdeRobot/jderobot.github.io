@@ -1,0 +1,36 @@
+I"�<p>Do you wanna learn and enjoy programming robots, Artificial Intelligence or Computer Vision applications? We have a Robotics Club inside JdeRobot organization for that. Currently there are many active projects in AI and specifically DeepLearning. We are also working hard in new <a href="https://jderobot.org/Tools">tools</a> in JdeRobot. New developers, testers and users are welcome. Take a look at ongoing projects.</p>
+
+<p>To start working in the Robotics Club, just download JdeRobot, run several tutorials. Upload some videos of them on your computer to YouTube. Please send us (josemaria.plaza AT urjc.es) your CV to better know your programming, robotics or computer vision abilities and to better think in a suitable collaboration project for you. Python, C++ or JavaScript capabilities are desirable and useful.</p>
+
+<p>Once accepted you would be assigned a mentor that would help, advise your collaboration and teach you the required abilities, etc… Typically we arrange periodic meetings through video conference (Google Hangouts) to see the following steps. After a few weeks you will have your own github repository on the organization and your wiki page at JdeRobot organization.</p>
+
+<h2 id="ongoing-projects">Ongoing projects</h2>
+
+<ul>
+  <li><a href="https://jderobot.org/Club-dattadebrup">Debrup Datta</a>, Robotics Academy.</li>
+  <li><a href="https://github.com/TheRoboticsClub/2018-colab-FernandoGonzalez">Fernando González</a>, Educational robotics, KiBotics.</li>
+  <li><a href="https://jderobot.org/Club-dlobato">David Lobato</a>, FPGA technologies in JdeRobot, neuralFPGA.</li>
+  <li><a href="https://jderobot.org/Club-PushkalKatara">Pushkal Katara</a>, (GSoC-2018) VisualStates tool.</li>
+  <li><a href="https://jderobot.org/Club-aakhter">Arsalan Akhter</a>, (GSoC-2018) Robotics-Academy.</li>
+  <li><a href="https://jderobot.org/Club-hanqingxie">Hanqing Xie</a>, (GSoC-2018) Robotics-Academy.</li>
+  <li><a href="https://jderobot.org/Club-spaniego">Sergio Paniego</a>, (GSoC-2018) PyOnArduino tool.</li>
+  <li><a href="https://jderobot.org/Club-jianxiong">Jianxiong Cai</a>, (GSoC-2018) Creating realistic 3D map from online SLAM result.</li>
+  <li><a href="https://jderobot.org/Club-RamYoogesh">Ram Yoogesh</a>, DeepLearning on visual control.</li>
+  <li><a href="https://jderobot.org/Club-VinaySharma">Vinay Sharma</a>, (GSoC-2018) DeepLearning, DetectionSuite tool.</li>
+  <li><a href="https://jderobot.org/Ieee-delorean">IEEE Delorean</a>, Wireless car.</li>
+</ul>
+
+<h2 id="previous-projects">Previous Projects</h2>
+
+<ul>
+  <li><a href="https://jderobot.org/Ni9elf-colab">Nigel Fernandez</a> (GSoC-2017), DeepLearning for PeopleTracking.</li>
+  <li><a href="https://jderobot.org/Okanasik-colab">Okan Asik</a> (GSoC-2017), VisualStates Tool.</li>
+  <li><a href="https://jderobot.org/Deep_Reinforcement_Learning_in_Robotics">S.Mehdi Mohaimanian</a> (GSoC-2017), Reinforcement Learning.</li>
+  <li><a href="https://jderobot.org/Raulperula-colab">Raúl Pérula</a>(GSoC-2017), Scratch2JdeRobot Tool.</li>
+  <li><a href="https://jderobot.org/Club-ylalangui">Yerhard Lalangui</a>(TheRoboticsClub-2016), Computer Vision.</li>
+  <li><a href="https://jderobot.org/Hustcalm-colab">Lihang Li</a>, (Contributor) GSoC-2015, Visual SLAM, RGBD, 3D Reconstruction.</li>
+  <li><a href="https://jderobot.org/Militaru92-colab">Andrei Militaru</a>(GSoC-2015), interoperation of ROS and JdeRobot.</li>
+  <li><a href="https://jderobot.org/Chakraborty-colab">Satyaki Chakraborty</a>(GSoC-2015), Interconnection with Android Wear.</li>
+  <li><a href="https://jderobot.org/Robot-RTT">Juan Camilo Gómez</a> (master 2013, advised by <a href="https://www.researchgate.net/profile/Nelson_Munoz_Ceballos">Nelson Muñoz</a>): robot RTT.</li>
+</ul>
+:ET
