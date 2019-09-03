@@ -2,15 +2,390 @@
 permalink: /activities/gsoc/
 title: "GSoC"
 
+youtubeId1: 76QNSUGXFT8
+youtubeId2: VFBL6zuXqgo
+youtubeId3: nBXPE0RO8z4
+youtubeId4: 5SVkvfKPi_s
+youtubeId5:           
+youtubeId6: 7yHDELR7sj4
+youtubeId7: zA7jN7ZR2sk
+youtubeId8: ufvPS5wJAx0
+youtubeId9: gK-LwSBi6co
+youtubeId10: k-xIU_cmcac
+youtubeId11: yKXP3UIAxtg
+youtubeId12: tzxxEyA-LWs
+youtubeId13: s-S5mQp9i1Y
+
 sidebar:
   nav: "docs"
 
-layout: archive
+toc: true
+toc_label: "TOC gsoc"
+toc_icon: "cog"
 
-classes: wide
 ---
 
 
 JdeRobot is a software toolkit for developing robotics and computer vision applications. These domains include sensors (for instance, cameras), actuators, and intelligent software in between. It is mostly written in C++, Python and JavaScript languages and provides a distributed component-based programming environment where the application program is made up of a collection of several concurrent asynchronous components. They may run in different computers and are connected using ICE communication middleware or ROS messages. Components interoperate through explicit interfaces. Each one may have its own independent Graphical User Interface or none at all. It is ROS-friendly and full compatible with ROS-Kinetic.
 
 - [GSoC 2019](/activities/gsoc/2019)
+
+
+This open source project needs further development in these topics: 
+
+## Project #1: Robotics Academy: Migration to ROS and Jupyter of exercises on drones
+
+**Brief Explanation**: JdeRobot’s [Robotics-Academy](https://jderobot.org/Robotics-Academy) is a framework for learning robotics and computer vision. It  consists of a collection of robot programming exercises using Python language where the student has to code the behavior of a given (either simulated or real) robot to fit some task related to robotics or computer vision. 
+
+This framework is mainly ROS-based and openCV-based, but there [several exercises on drones](https://jderobot.org/Robotics-Academy#Exercises_on_drones) from previous releases of Robotics Academy which still run with non-ROS infrastructure. The main idea of this project is to revisit seven available exercises on drone programming and replace the existing infrastructure (ad-hoc drivers, plugin and ICE communication) with full ROS infrastructure using PX4 navigation stack in Gazebo and mavROS. In this project you will learn mavROS basics, drone programming and interfacing robots with ROS. With this MavROS design (MavLink and ROS) the drone applications can be easily migrated from simulator to real drones. 
+
+In addition the exercises will be also integrated in the Jupyter framework, so they can be run from the web release of Robotics Academy framework.
+
+Examples of drone exercises: 
+
+{% include youtubePlayer.html id=page.youtubeId1 %}
+
+<br/>
+
+{% include youtubePlayer.html id=page.youtubeId2 %}
+
+<br/>
+
+
+**Expected results:** ROS-based exercises involving drones
+
+**Knowledge Prerequisite:** Python programming skills.
+
+**Mentors:** Diego Martín (diego.martin.martin AT urjc.es) and José María Plaza (josemaria.plaza AT urjc.es). 
+
+
+## Project #2: Robotics Academy: Migration to ROS and Jupyter of exercises on mobile robots
+
+**Brief Explanation**: JdeRobot’s [Robotics-Academy](https://jderobot.org/Robotics-Academy) is a framework for learning robotics and computer vision. It  consists of a collection of robot programming exercises using Python language where the student has to code the behavior of a given (either simulated or real) robot to fit some task related to robotics or computer vision. 
+
+Examples of exercises: 
+
+{% include youtubePlayer.html id=page.youtubeId3 %}
+
+<br/>
+
+{% include youtubePlayer.html id=page.youtubeId4 %}
+
+<br/>
+
+
+This framework is mainly ROS-based and openCV-based, but there several [exercises on autonomous vehicles](https://jderobot.org/Robotics-Academy#Exercises_on_autonomous_cars) and [on mobile robots](https://jderobot.org/Robotics-Academy#Exercises_on_mobile_robots) from previous releases of Robotics Academy which still run with non-ROS infrastructure. The intention of this project is to port those exercises to ROS, so the robots use ROS plugins and allow the student to forget about the hardware and drivers details and concentrate on behavior programming. With this, you will learn ROS basics, interfacing robots with ROS and building ROS-based back-end for robot applications. 
+
+
+In addition the exercises will be also integrated in the Jupyter framework, so they can be run from the web release of Robotics Academy framework.
+
+**Expected results:** ROS-based exercises involving autonomous cars, vacuums,...
+
+**Knowledge Prerequisite:** Python programming skills.
+
+**Mentors:** Carlos Awadallah (carlosawadallah AT gmail.com) and JoséMaría Plaza (josemaria.plaza AT urjc.es). 
+
+
+## Project #3: Robotics-Academy: Robotic arm manipulation with moveit!
+
+**Brief Explanation**: JdeRobot’s [Robotics-Academy](https://jderobot.org/Robotics-Academy) is a framework for learning robotics and computer vision. It consists of a collection of robot programming exercises using Python language where the student has to code the behavior of a given (either simulated or real) robot to fit some task related to robotics or computer vision. It is ROS and Gazebo based. 
+
+The idea for this project is to introduce the robotic arms into Robotics-Academy developing exercises with robotic arms and the library moveit!. For a first approach we'll developing the classic [pick and place](http://docs.ros.org/kinetic/api/moveit_tutorials/html/doc/pick_place/pick_place_tutorial.html) exercise with python and gazebo. Once we reached the first approach, we'll continue increasing the complexity of algorithms and environments. There are similar works in [ARIAC competition](http://gazebosim.org/ariac), [udacity](https://github.com/udacity/RoboND-Kinematics-Project), [here](https://github.com/fjnunes/RoboND-Kinematics-Project) and on [this video](https://www.youtube.com/watch?v=r3gGQV-yjX0). Preliminar developments can also be found in the Final Degree thesis of [Ignacio Malo](https://jderobot.org/Imalo-tfg). 
+
+In addition the exercises will be also integrated in the Jupyter framework, so they can be run from the web release of Robotics Academy framework. 
+
+
+<img src="/assets/images/activities/gsoc/arms.png" width="100%" height="60%">
+
+**Expected results:** a set of exercises for robotics arms and gazebo (description + code + worlds).
+
+**Knowledge Prerequisites:** python, ROS and gazebo
+
+**Mentors:** Alberto Martín (alberto.martinf AT urjc.es) 
+
+
+## Project #4: Improving DetectionSuite deep learning tool
+
+**Brief Explanation**: [DetectionSuite](https://github.com/JdeRobot/DetectionSuite) is an on-development tool to test and train different DeepLearning architectures for object detection on images. It accepts several known international datasets like Pascal VOC, COCO, Imagenet, etc and allows the comparison of several Deep Learning architectures over exactly the same test data. It computes several objective statistics and measures their performance. Currently it supports TensorFlow, Keras, Caffe and Darknet frameworks. The goal of this project is to add a tool to label images using Object Detection Networks and a user friendly interface. This year's scope would also include adding support for new architectures and maybe adding a new framework all together and testing the same if time permits. This project also aims to develop a Web node to access the support tools, apart from just Qt based GUI. We also welcome ideas regarding new functionalities from students regarding this project. 
+
+<img src="/assets/images/activities/gsoc/detectionsuite.png" width="100%" height="60%">
+
+{% include youtubePlayer.html id=page.youtubeId5 %}
+
+<br/>
+
+**Some Cool videos on work done previous year** [http://jderobot.org/Club-VinaySharma](http://jderobot.org/Club-VinaySharma)
+
+**Expected results:** A new functionality for labelling images using Deep Learning networks and a web node to access this tool using a browser.
+
+**Knowledge Prerequisite:** C++, Python and Web development.
+
+**Mentors:** Vinay Sharma ( vinay0410sharma AT gmail.com) and José María Cañas (josemaria.plaza AT urjc.es) 
+
+
+## Project #5: A parameterized automata Library for VisualStates tool
+
+**Brief Explanation**: [VisualStates](https://github.com/jderobot/VisualStates) is a tool for programming robot behaviors using automata. It combines a graphical language to specify the states and the transitions with a text language (Python or C++). It generates a ROS node which implements the automata and shows a GUI at the runtime with the active state, for debugging. There is always a root state, if a user creates a single level automata behavior, the states defining the behavior are added as children to the root state. Every automata is also a state. Therefore, every automata can be added as a child to any other state. That way, the user is able to compose reactive behavior hierarchies. 
+
+
+The tool provides import functionality, when the user imports an already created automata, the whole one is copied into the current automata. Each hierarchy of behavior contains local namespace for its specific auxiliary code and the overall behavior can access the global namespace which contains the ROS related data and globally accessible auxiliary data.
+
+In the scope of the project, following improvements are targeted: 
+
+* **Automata Parameterization**: We would like to extend the import functionality with parameterization. A new automata specification that enables users to configure parameters for each automata is needed. Parameters allow small variations in the behavior of the automata and its configuration. For example, let’s assume we would like to integrate an existing wall following automata for TurtleBot robot into a new application and slightly change its behavior. The wall following automata decides to turn away from the wall based on threshold parameter implemented on the Laser sensor. To adapt it to the new application we might need to fine tune that threshold parameter, hence a configurable parameter interface is required while importing. 
+
+* **Automata Library**: Currently the user may import automata that are available locally on the user computer. We would like to create an online public general repository of automatas such that any user can access the repository for an import. This can be designed as a github repository such that the users publishing their automatas can do it via pull request. We need a new GUI in the tool that will let the user to easily search the available behaviors with a detailed description. This GUI also needs to show all required information such as dependencies and parameters. Another GUI should provide an easy to use interface to add the already created automata to the repository. Under the hood, that should create a pull request in github repository. 
+
+{% include youtubePlayer.html id=page.youtubeId6 %}
+
+<br/>
+
+{% include youtubePlayer.html id=page.youtubeId7 %}
+
+<br/>
+
+
+**Expected results:** Parameterized Automata Library for VisualStates tool.
+
+**Knowledge Prerequisite:** Python and C++ programming skills.
+
+**Mentors:** Okan Asik (asik.okan AT gmail.com), Pushkal Katara (katarapushkal AT gmail.com) 
+
+
+## Project #6: Improving SLAM-testbed tool
+
+**Brief Explanation**: Simultaneous Localization and Mapping (SLAM) algorithms play a fundamental role for emerging technologies, such as autonomous cars or augmented reality, providing an accurate localization inside unknown environments. There are many approaches available with different characteristics in terms of accuracy, efficiency and robustness ([ORB-SLAM](https://webdiis.unizar.es/~raulmur/orbslam/), [DSO](https://vision.in.tum.de/research/vslam/dso), [SVO](http://rpg.ifi.uzh.ch/svo2.html), etc), but their results depend on the environment and resources available. 
+
+[SLAM-testbed](https://github.com/JdeRobot/slam-TestBed) is a graphic tool to compare objectively different Visual SLAM approaches, evaluating them using several public benchmarks and statistical treatment, in order to compare them in terms of accuracy and efficiency. The main goal of this project is to refine current release, increase the compatibility of this tool with new benchmarks and SLAM algorithms, so that it becomes an standard tool to evaluate future approaches.
+
+The next video shows one of the SLAM algorithms (called ORB-SLAM) that will be evaluated with this tool: 
+
+{% include youtubePlayer.html id=page.youtubeId8 %}
+
+<br/>
+
+**Expected results:** Add new benchmarks and SLAM algorithms to SLAM-testbed tool.
+
+**Knowledge Prerequisite:** C++ programming skills
+
+**Mentors:** [Eduardo Perdices](https://gsyc.urjc.es/~eperdices/) (eperdices AT gsyc.es) 
+
+
+## Project #7: PyOnArduino-II: compiling Python to Arduino
+
+**Brief Explanation**: [PyOnArduino](https://github.com/JdeRobot/PyOnArduino) is a tool that can translate Python-like code to Arduino code. The purpose of the tool is to program an educational robot that uses an Arduino microprocessor using Python. Using this tool the kids program typical robot behaviors like follow-line using Python. The experiments are mostly centered in the mbot robot, from makeblock, which is an Arduino based robot. Arduino is limited on computer power so it is not enough to run a Python interpreter. The goal of this project is to "compile" the Python application to Arduino microprocessor. This way the kid program can be fully downloaded on the Mbot robot and run completely autonomous. Another possibility is to translate Python application to C/C++, as gcc/g++ already compiles it to Arduino microprocessor. Some ideas to explore are: [LLVM](https://llvm.org/) compiler infrastructure, [cython](https://cython.org/). 
+
+On GSoC-2018 a [successful project](https://github.com/JdeRobot/PyOnArduino) implemented the initial release of this tool. The goals of this year project are: (a) Add more Python coverage to the translator: for loops, lists, tuples and dictionaries; (b) Check the current functionality for edge cases that could lead to errors in the translation; (c) Add tests to prove that everything Works as expected. 
+
+{% include youtubePlayer.html id=page.youtubeId9 %}
+
+<br/>
+
+{% include youtubePlayer.html id=page.youtubeId10 %}
+
+<br/>
+
+
+**Expected results:** Python application running on an Arduino microprocessor, new functional version of the tool
+
+**Knowledge Prerequisite:** Python, compilers and C++.
+
+**Mentors:** Sergio Paniego Blanco (sergiopaniegoblanco AT gmail.com) and JoséMaría Cañas (josemaria.plaza AT urjc.es). 
+
+
+## Project #8: PyOnBrowser: running Python code on the web browser
+
+**Brief Explanation**: WebSim is a web-based robot simulator. It is used for learning robot programming. It is based on AFRAME 3D VR framework in the web and provides a JavaScript API so the robot intelligence can be programmed in JavaScript, maybe from a web page. For instance it has been tested with 2 code editors, ACE Editor (for programming robot intelligence with JavaScript) and Blockly editor (for programming robot intelligence with visual Blockly language). Now we are working on allowing the programming of the robot intelligence directly in Python, also directly from the browser.
+
+We have developed infrastructure to run Python on real Arduino based robots. Our plan is to be able to run the same programs in the standalone WebSim simulator. This requires transpiling the Python programs to Javascript (or compiling to WebAssembly). There are already transpilers and compilers from Python to Javascript or WebAssembly, so the first step would be to evaluate their maturity (Skulpt, Brython, Transcrypt, RapydScript). They could be integrated and used inside the browser directly. Then a shim for the robotics API should be developed, probably, the same one used for C++ in Arduino, testing the integration with the JavaScript libraries.
+
+A different approach might be writing a simple transpiler for a subset of Python using the AST library and transpiling it using one of the available transpilers. This would let us integrate it with the Arduino version (just adding a different backend) and have the same subset of Python run in both versions with the same errors. 
+
+{% include youtubePlayer.html id=page.youtubeId11 %}
+
+<br/>
+
+{% include youtubePlayer.html id=page.youtubeId12 %}
+
+<br/>
+
+
+**Expected results:** Python applications running inside the Websim web tool in the browser.
+
+**Knowledge Prerequisite:** Python, JavaScript, compilers.
+
+**Mentors:** Gorka Guardiola Múzquiz (gorka.guardiola AT urjc.es) and Luis Roberto Morales (lr.morales.iglesias AT gmail.com)
+
+
+## Project #9: Migration of JdeRobot tools to ROS 2
+
+**Brief Explanation**: ROS 2 is a complete rewrite of the original ROS robotic middleware, and addresses some major bottlenecks in ROS 1 leading to a major architecture change. Since ROS is a publish-subscribe middleware system at it's core, it is now built on DDS (Data Distrubution Service), which is an end to end middleware to make ROS 2 more robust. The objective of this project is to port some useful drivers from ROS 1 to ROS 2 and to improve existing tools in JdeRobot (like teleopeators and visualization tools, VisualStates...) so they can work with ROS-2 drivers. Feel free to see the current implementation of some drivers at [ROS-2 JdeRobot's Github Repository](https://github.com/JdeRobot/ros2-drivers) 
+
+Below are some useful links to get started: 
+
+1. Currently Supported packages in ROS 2 : [1](http://repo.ros2.org/status_page/ros_ardent_default.html)
+2. Guide to start with ROS 2 : [2](https://index.ros.org/doc/ros2/) 
+3. Tutorials on ROS 2 : [3](docs.erlerobotics.com/robot_operating_system/ros2)
+4. ROS 2 Hands On Walk Through: [4](https://vimeo.com/292693129)
+5. Current Drivers in JdeRobot: [5](https://github.com/JdeRobot/base/tree/master/src/drivers)
+
+
+<img src="/assets/images/activities/gsoc/gazeboSample.png" width="100%" height="60%">
+
+
+{% include youtubePlayer.html id=page.youtubeId13 %}
+
+<br/>
+
+
+**Expected results:** Useful tools like Cameraserver, Cameraviewer, etc working on top of ROS 2.
+
+**Knowledge Prerequisites:** C++ and Python programming skills.
+
+**Mentors:** Vinay Sharma ( vinay0410sharma AT gmail.com) and José María Cañas (josemaria.plaza AT urjc.es) 
+
+
+## Application instructions for GSoC-2019
+
+We welcome students to contact relevant mentors before submitting their application into GSoC official website. If in doubt for which project(s) to contact, send a message to jderobot AT gmail.com We recommend browsing previous GSoC student pages to look for ready-to-use projects, and to get an idea of the expected amount of work for a valid GSoC proposal. 
+
+### Requirements
+
+* Git experience
+
+* C++ and Python programming experience (depending on the project)
+
+### Programming tests
+
+|    **Project**   |     [#1](https://jderobot.org/GSoC-2019#Project_.231:_Robotics_Academy:_Migration_to_ROS_and_Jupyter_of_exercises_on_drones)     |      [#2](https://jderobot.org/GSoC-2019#Project_.232:_Robotics_Academy:_Migration_to_ROS_and_Jupyter_of_exercises_on_mobile_robots)      |     [#3](https://jderobot.org/GSoC-2019#Project_.233:_Robotics-Academy:_Robotic_arm_manipulation_with_moveit.21)     |     [#4](https://jderobot.org/GSoC-2019#Project_.234:_Improving_DetectionSuite_deep_learning_tool)     |     [#5](https://jderobot.org/GSoC-2019#Project_.235:_A_parameterized_automata_Library_for_VisualStates_tool)     |     [#6](https://jderobot.org/GSoC-2019#Project_.236:_Improving_SLAM-testbed_tool)     |     [#7](https://jderobot.org/GSoC-2019#Project_.237:_PyOnArduino-II:_compiling_Python_to_Arduino)     |     [#8](https://jderobot.org/GSoC-2019#Project_.238:_PyOnBrowser:_running_Python_code_on_the_web_browser)     |     [#9](https://jderobot.org/GSoC-2019#Project_.239:_Migration_of_JdeRobot_tools_to_ROS_2)     |
+| **JdeRobot (A)** |     X     |     X     |     X     |     X     |     X     |     X     |     X     |     X     |     X     |
+|    **C++ (B)**   |     *     |     *     |     *     |     X     |     O     |     X     |     X     |     O     |     X     |
+|  **Python (C)**  |     X     |     X     |     X     |     O     |     X     |     *     |     X     |     X     |     X     |
+
+
+<br/>
+
+
+|                **Legend**                ||
+| * |             Not applicable            |
+| X |                Mandatory              |
+| O | Optative, you must choose one of them |
+
+
+Before accepting any proposal all candidates have to do these programming challenges: 
+
+* (A) [JdeRobot installation challenge](https://jderobot.org/store/jmplaza/uploads/gsoc/gsoc2019-installation_test.pdf)
+
+* (B) [C++ challenge](https://jderobot.org/store/jmplaza/uploads/gsoc/gsoc2019-c++_test.pdf)
+
+* (C) [Python challenge](https://jderobot.org/store/jmplaza/uploads/gsoc/gsoc2019-python_test.pdf)
+
+
+### Send us your information
+
+After doing the programming tests, fill this [web form](https://docs.google.com/forms/d/e/1FAIpQLSchMuDOF4pPwOaYHhiXERuLgHWhGWdlUyixtOh4kK5chkFZYg/viewform) with your information and challenge results. Then you are invited to ask the project mentors about the project details. Maybe we will require more information from you like this: 
+
+
+### 1. Contact details
+
+* Name and surname: 
+
+* Country: 
+
+* Email: 
+
+* Public repository/ies: 
+
+* Personal blog (optional): 
+
+* Twitter/Identica/LinkedIn/others: 
+
+### 2. Timeline
+
+* Now split your project idea in smaller tasks. Quantify the time you think each task needs. Finally, draw a tentative project plan (timeline) including the dates covering all period of GSoC. Don’t forget to include also the days in which you don’t plan to code, because of exams, holidays etc. 
+
+* Do you understand this is a serious commitment, equivalent to a full-time paid summer internship or summer job? 
+
+* Do you have any known time conflicts during the official coding period? 
+
+### 3. Studies
+
+* What is your School and degree? 
+
+* Would your application contribute to your ongoing studies/degree? If so, how?
+
+### 4. Programming background
+
+* Computing experience: operating systems you use on a daily basis, known programming languages, hardware, etc.
+
+* Robot or Computer Vision programming experience:
+
+* Other software programming:
+
+### GSoC participation
+
+* Have you participated to GSoC before? 
+
+* How many times, which year, which project?
+
+* Have you applied but were not selected? When?
+
+* Have you submitted/will you submit another proposal for GSoC 2017 to a different org?
+
+
+## Previous GSoC students
+
+* [Pushkal Katara](https://jderobot.org/Club-PushkalKatara) (GSoC-2018) VisualStates tool
+
+* [Arsalan Akhter](https://jderobot.org/Club-aakhter) (GSoC-2018) Robotics-Academy
+
+* [Hanqing Xie](https://jderobot.org/Club-hanqingxie) (GSoC-2018) Robotics-Academy
+
+* [Sergio Paniego](https://jderobot.org/Club-spaniego) (GSoC-2018) PyOnArduino tool
+
+* [Jianxiong Cai](https://jderobot.org/Club-jianxiong) (GSoC-2018) Creating realistic 3D map from online SLAM result
+
+* [Vinay Sharma](https://jderobot.org/Club-VinaySharma) (GSoC-2018) DeepLearning, DetectionSuite tool
+
+* [Nigel Fernandez](https://jderobot.org/Ni9elf-colab) GSoC-2017
+
+* [Okan Asik](https://jderobot.org/Okanasik-colab) GSoC-2017, VisualStates tool
+
+* [S.Mehdi Mohaimanian](https://jderobot.org/index.php?title=Deep_Reinforcement_Learning_in_Robotic&redirect=no) GSoC-2017
+
+* [Raúl Pérula](https://jderobot.org/Raulperula-colab) GSoC-2017, Scratch2JdeRobot tool
+
+* [Lihang Li](https://jderobot.org/Hustcalm-colab): GSoC-2015, Visual SLAM, RGBD, 3D Reconstruction
+
+* [Andrei Militaru](https://jderobot.org/Militaru92-colab) GSoC-2015, interoperation of ROS and JdeRobot
+
+* [Satyaki Chakraborty](https://jderobot.org/Chakraborty-colab) GSoC-2015, Interconnection with Android Wear
+
+
+## How to increase your chances of being selected in GSoC-2019
+
+If you put yourself in the shoes of the mentor that should select the student, you'll immediately realize that there are some behaviors that are usually rewarded. Here's some examples. 
+
+### Be proactive
+
+Mentors are more likely to select students that openly discuss the existing ideas and / or propose their own. It is a **bad idea** to just submit your idea only in the Google web site without discussing it, because it won't be noticed. 
+
+### Demonstrate your skills
+
+Consider that mentors are being contacted by several students that apply for the same project. A way to show that you are the best candidate, is to demonstrate that you are familiar with the software and you can code. How? Browse the bug tracker (issues in github of JdeRobot project), fix some bugs and propose your patch submitting your PullRequest, and/or ask mentors to challenge you! Moreover, bug fixes are a great way to get familiar with the code. 
+
+### Demonstrate your intention to stay
+
+Students that are likely to disappear after GSoC are less likely to be selected. This is because there is no point in developing something that won't be maintained. And moreover, one scope of GSoC is to bring new developers to the community. 
+
+### [RTFM](https://xkcd.com/293/)
+
+Read the relevant information about GSoC in the wiki / web pages before asking. Most FAQs have been answered already! 
+
+* [Full documentation about GSoC on official website](https://developers.google.com/open-source/gsoc/resources/).
+
+* [FAQ from GSoC web site](https://developers.google.com/open-source/gsoc/faq).
+
+* If you are new to JdeRobot, take the time to familiarize with the [JdeRobot](https://jderobot.org/Main_Page)
+
+
