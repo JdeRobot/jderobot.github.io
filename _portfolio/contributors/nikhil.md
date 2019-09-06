@@ -1,7 +1,7 @@
 ---
-title: "JoseMaría Cañas"
-excerpt: "Project maintainer, VisualStates, DetectionSuite, Robotics-Academy, progeo lib, fuzzylib"
+title: "Nikhil Khedekar"
+excerpt: "RoboticsAcademy, drones"
 header:
   #image: 
-  teaser: /assets/images/community/contributors/jmplaza.jpg
+  teaser: /assets/images/community/contributors/nikhil.jpg
 ---
