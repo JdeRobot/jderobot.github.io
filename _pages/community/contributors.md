@@ -1,15 +1,16 @@
 ---
-permalink: /community/contributors/
 title: "JdeRobot Contributors"
-
-sidebar:
-  nav: "docs"
+permalink: /community/contributors/
+collection: portfolio
 
 layout: collection
-collection: portfolio
+
 entries_layout: grid
 
 classes: wide
+
+sidebar:
+  nav: "docs"
 ---
 
 

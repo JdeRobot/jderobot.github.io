@@ -3,33 +3,33 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/cover/test_header_shear_3.png
+  overlay_image: /assets/images/cover/header.png
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/installation/"
+    #- label: "<i class='fas fa-download'></i> Install now"
+    #  url: "/installation/"
 excerpt: 
-  Learn Robotics and Computer Vision
+  Toolkit for developing Robotics and Computer Vision applications
 feature_row:
-  - image_path: /assets/images/cover/cover_column_1.png
-    alt: "Exercises"
-    title: "Exercises"
-    excerpt: "Take a look at the list of exercises available, under development or future."
+  - image_path: /assets/images/cover/community.jpg
+    alt: "Community"
+    title: "Community"
+    excerpt: "The JdeRobot project is open to contributions at development, documentation, testing, integration and research."
     url: "/exercises/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/cover/cover_column_2.png
-    alt: "fully responsive"
-    title: "Contribute"
-    excerpt: "Contribute with new exercises. For more information go to the following site."
+  - image_path: /assets/images/cover/projects.png
+    alt: "Projects"
+    title: "Projects"
+    excerpt: "Several development areas: robot programming tools, learning robotics, drones, SLAM algorithms, DeepLearning. All of them are open for collaboration."
     url: "/contribute/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/cover/cover_column_3.png
-    alt: "100% free"
-    title: "More information"
-    excerpt: "Find out more about the requirements and objectives of the project."
+  - image_path: /assets/images/cover/activities.jpg
+    alt: "Activities"
+    title: "Activities"
+    excerpt: "Some of the activities of the association where students from different areas come together to put together a common project."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
@@ -101,3 +101,15 @@ Our (international) community mainly works on five development areas:
     <td class="tg-0pky"><a href="https://github.com/JdeRobot/FPGA-robotics">FPGA-robotics </a>designing robot intelligence with IceStudio blocks</td>
   </tr>
 </table>
+
+
+## Last two videos
+
+This is the last two videos published in YouTube channel.
+
+<figure class="half">
+    <a href="/assets/images/cover/projects.png"><iframe src="https://www.youtube.com/embed/gDP9nWCL0Vg"></iframe></a>
+    <a href="/assets/images/cover/activities.jpg"><iframe src="https://www.youtube.com/embed/jyvfMFERDig"></iframe></a>
+    <figcaption>Last two videos from YouTube channel.</figcaption>
+</figure>
+
