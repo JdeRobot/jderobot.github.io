@@ -1,9 +1,9 @@
 # main links
 main:
   - title: Community
-    url: /community/community_index/
+    url: /community/index/
   - title: "Projects"
-    url: /projects/projects_index/
+    url: /projects/index/
   - title: Activities
     url: /activities/
 
