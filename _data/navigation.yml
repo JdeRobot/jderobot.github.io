@@ -3,7 +3,7 @@ main:
   - title: Community
     url: /community/community_index/
   - title: "Projects"
-    url: /projects/
+    url: /projects/projects_index/
   - title: Activities
     url: /activities/
 

@@ -10,7 +10,7 @@ classes: wide
 
 
 
-## See our work and results
+# See our work and results
 
 [Twitter account](https://twitter.com/jderobot)
 
@@ -20,7 +20,7 @@ classes: wide
 
 
 
-## Questions and support
+# Questions and support
 
 The general mailing list for jderobot users and developers is jderobot [at] gsyc [dot] urjc [dot] es.
 
