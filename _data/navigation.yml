@@ -21,17 +21,17 @@ docs:
   - title: "Projects"
     children:
       - title: "Robot Programming Tools"
-        url: /robot_programming_tools/
+        url: /projects/robot_programming_tools/
       - title: "Robotics-Academy"
         url: https://jderobot.github.io/RoboticsAcademy/
       - title: "Deep Learning"
-        url: /deep_learning/
+        url: /projects/deeplearning/
       - title: "FPGAs in robotics"
-        url: /fpga/
+        url: /projects/fpgas/
       - title: "Visual SLAM"
-        url: /visual_slam/
+        url: /projects/slam/
       - title: "Drones"
-        url: /drones/
+        url: /projects/drones/
 
   - title: "Activities"
     children:

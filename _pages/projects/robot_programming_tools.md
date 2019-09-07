@@ -1,6 +1,6 @@
 ---
-permalink: /activities/talks/
-title: "Talks"
+permalink: /projects/robot_programming_tools/
+title: "Projects"
 
 sidebar:
   nav: "docs"
@@ -10,4 +10,8 @@ layout: archive
 classes: wide
 ---
 
-All these Technological Talks have been celebrated at the Universidad Rey Juan Carlos in the last years, fostered by the JdeRobot Foundation.
+
+## PROJECTS
+
+  - [RoboticsAcademy](https://jderobot.github.io/RoboticsAcademy)
+  - [VisualStates](https://jderobot.github.io/VisualStates)
