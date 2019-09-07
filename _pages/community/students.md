@@ -27,7 +27,7 @@ classes: wide
 
 ## Master students
 
-  - [Omar Garrido](https://roboticslaburjc.github.io/2019-tfm-omar-garrido), SLAM algorithm with RGBD sensors.
+  - [Omar Garrido](https://roboticslaburjc.github.io/2019-tfm-omar-garrido), visualSLAM algorithm with RGBD sensors.
   - [Javier Martínez](https://roboticslaburjc.github.io/2018-tfm-javier-martinez), VisualSLAM including IMU information.
   - [Francisco J. Palacios](https://roboticslaburjc.github.io/2018-tfm-Francisco-Palacios), SDSLAMmobile: visualSLAM in Android for Augmented Reality applications.
   - [Francisco Pérez](https://roboticslaburjc.github.io/2017-tfm-francisco-perez), DeepLearning in autonomous vision based navigation of real robots.
