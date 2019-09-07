@@ -26,6 +26,8 @@ docs:
         url: https://jderobot.github.io/RoboticsAcademy/
       - title: "Deep Learning"
         url: /deep_learning/
+      - title: "FPGAs in robotics"
+        url: /fpga/
       - title: "Visual SLAM"
         url: /visual_slam/
       - title: "Drones"
