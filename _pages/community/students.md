@@ -53,9 +53,3 @@ classes: wide
   - [Vanessa Fernández](http://roboticslaburjc.github.io/2016-tfg-vanessa-fernandez), new exercises at RoboticsAcademy
 
 
-
-
-## PROJECTS
-
-  - [RoboticsAcademy](https://jderobot.github.io/RoboticsAcademy)
-  - [VisualStates](https://jderobot.github.io/VisualStates)
