@@ -1,5 +1,5 @@
 ---
-permalink: /community/community_index/
+permalink: /community/index/
 title: "Community, get involved!"
 
 sidebar:
