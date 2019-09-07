@@ -1,6 +1,6 @@
 ---
-permalink: /community/community_index/
-title: "Projects!"
+permalink: /projects/index/
+title: "Projects"
 
 sidebar:
   nav: "docs"
