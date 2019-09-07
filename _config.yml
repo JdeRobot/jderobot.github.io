@@ -273,7 +273,15 @@ compress_html:
 
 
 # Collections
+#collections:
+#collections_dir: collections
 collections:
+#  contributors:
+#    output: true
+#    permalink: "/:collection/:name"
+#  projects:
+#    output: true
+#    permalink: "/:collection/:name"
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -293,8 +301,26 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: "portfolio"
     values:
       layout: single
       author_profile: false
       share: true
+
+
+#  - scope:
+#      path: ""
+#      type: "contributors"
+#    values:
+#      layout: single
+#      author_profile: false
+#      share: true
+#
+#  - scope:
+#      path: ""
+#      type: "projects"
+#    values:
+#      layout: single
+#      author_profile: false
+#      share: true
+
