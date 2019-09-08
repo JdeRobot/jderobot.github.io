@@ -26,3 +26,7 @@ Features:
 ## Previous competitions.
 
 - [Competitions 2018](/activities/competitions/2018)
+
+- [Competitions 2017](/activities/competitions/2017)
+
+- [Competitions 2016](/activities/competitions/2016)
