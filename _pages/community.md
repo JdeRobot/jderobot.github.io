@@ -1,13 +1,17 @@
 ---
-permalink: /community/index/
-title: "Community, get involved!"
+title: Community
+permalink: /community/
+#collection: /portfolio/projects/
+
+#layout: collection
+
+#entries_layout: grid
+
+classes: wide
 
 sidebar:
   nav: "docs"
-
-classes: wide
 ---
-
 
 
 # See our work and results
