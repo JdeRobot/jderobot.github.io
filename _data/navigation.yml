@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: About
+    url: /
   - title: Community
 #    url: /community/index/
     url: /community
