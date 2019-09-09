@@ -1,6 +1,6 @@
 ---
 title: "Vinay Sharma"
-excerpt: "Deeplearning DetectionSuite tool"
+excerpt: "DetectionSuite tool, ROS1+ROS2 compatibility"
 header:
   #image: 
   teaser: /assets/images/community/contributors/vinay-sharma.jpg
