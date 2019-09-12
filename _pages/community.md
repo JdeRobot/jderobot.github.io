@@ -11,7 +11,36 @@ classes: wide
 
 sidebar:
   nav: "docs"
+
+feature_row:
+  - image_path: /assets/images/community/community.jpg
+    alt: "Contributors"
+    title: "Contributors"
+    excerpt: ""
+    url: "/community/contributors/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+
+  - image_path: /assets/images/community/students.jpg
+    alt: "Students"
+    title: "Students"
+    excerpt: ""
+    url: "/community/students/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+
+  - image_path: /assets/images/community/peloto.png
+    alt: "Robotics Club"
+    title: "Robotics Club"
+    excerpt: ""
+    url: "/community/robotics_club/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"   
+
+
 ---
+
+{% include feature_row %}
 
 
 # See our work and results

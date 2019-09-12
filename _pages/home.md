@@ -14,7 +14,7 @@ feature_row:
     alt: "Community"
     title: "Community"
     excerpt: "The JdeRobot project is open to contributions at development, documentation, testing, integration and research."
-    url: "/exercises/"
+    url: "/community/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
@@ -22,7 +22,7 @@ feature_row:
     alt: "Projects"
     title: "Projects"
     excerpt: "Several development areas: robot programming tools, learning robotics, drones, SLAM algorithms, DeepLearning. All of them are open for collaboration."
-    url: "/contribute/"
+    url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
@@ -30,7 +30,7 @@ feature_row:
     alt: "Activities"
     title: "Activities"
     excerpt: "Some of the activities of the association where students from different areas come together to put together a common project."
-    url: "/about/"
+    url: "/activities/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
 youTube_id: ID7qaEcIu4k
@@ -103,6 +103,7 @@ Our (international) community mainly works on five development areas:
 </table>
 
 
+
 ## Last two videos
 
 This is the last two videos published in YouTube channel.
@@ -113,3 +114,10 @@ This is the last two videos published in YouTube channel.
     <figcaption>Last two videos from YouTube channel.</figcaption>
 </figure>
 
+## Sponsors
+
+<figure class="third">
+    <a href="https://summerofcode.withgoogle.com" target="_blank"><img src="/assets/images/cover/GSoC.png"></a>
+    <a href="http://www.qualoom.es" target="_blank"><img src="/assets/images/cover/logo_qualoom.png"></a>
+    <a href="https://urjc.es" target="_blank"><img src="/assets/images/cover/logoURJC.jpg"></a>
+</figure>

@@ -1,0 +1,121 @@
+I"
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/community/community.jpg" alt="Contributors" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Contributors</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              
+
+            </div>
+          
+
+          
+            <p><a href="/community/" class="btn btn--primary">Learn More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/community/students.jpg" alt="Students" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Students</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              
+
+            </div>
+          
+
+          
+            <p><a href="/projects/" class="btn btn--primary">Learn More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/community/peloto.png" alt="Robotics Club" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Robotics Club</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              
+
+            </div>
+          
+
+          
+            <p><a href="/activities/" class="btn btn--primary">Learn More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<h1 id="see-our-work-and-results">See our work and results</h1>
+
+<p><a href="https://twitter.com/jderobot">Twitter account</a></p>
+
+<p><a href="https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ">YouTube channel</a></p>
+
+<p><a href="https://github.com/JdeRobot">GitHub repositories</a></p>
+
+<h1 id="questions-and-support">Questions and support</h1>
+
+<p>The general mailing list for jderobot users and developers is jderobot [at] gsyc [dot] urjc [dot] es.</p>
+
+<p>It is open, and you can automatically subscribe at this <strong><a href="https://gsyc.urjc.es/cgi-bin/mailman/listinfo/jde-developers">SUBSCRIPTION PAGE</a></strong>
+Are you looking for a certain message or topic?, search it in the <strong><a href="http://jderobot-developer-list.2315034.n4.nabble.com/">ARCHIVE OF PREVIOUS MESSAGES</a></strong></p>
+
+<p>The main way to ask for support is to use the GitHub repository of the software piece you are interested in.</p>
+
+<h1 id="join-the-team-how-to-contribute">Join the team. How to contribute</h1>
+
+<p>The JdeRobot project is open to contributions at development, documentation, testing, integration and research. Just <strong><a href="https://github.com/RoboticsURJC/JdeRobot/wiki/How-To-Contribute">see the great manual step-by-step</a></strong> (thanks Lihang Li). It is recommended to subscribe to the JdeRobot mailing list. All the interaction with developers and users team are through that mailing list.</p>
+:ET
