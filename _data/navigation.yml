@@ -1,18 +1,33 @@
 # main links
 main:
-  - title: About
-    url: /
-  - title: Community
-#    url: /community/index/
-    url: /community
   - title: "Projects"
     url: /projects
 # url: /projects/index/
+  - title: Community
+#    url: /community/index/
+    url: /community
   - title: Activities
     url: /activities/
+  - title: About
+    url: /
 
 # left side bar
 docs:
+  - title: "Projects"
+    children:
+      - title: "Robot Programming Tools"
+        url: /projects/robot_programming_tools/
+      - title: "Robotics-Academy"
+        url: https://jderobot.github.io/RoboticsAcademy/
+      - title: "Deep Learning"
+        url: /projects/deep_learning/
+      - title: "FPGAs in robotics"
+        url: /projects/fpgas/
+      - title: "Visual SLAM"
+        url: /projects/visual_slam/
+      - title: "Drones"
+        url: /projects/drones/
+
   - title: Community
     children:
       - title: "Contributors"
@@ -21,21 +36,6 @@ docs:
         url: /community/students/
       - title: "Robotics Club"
         url: /community/robotics_club/
-
-  - title: "Projects"
-    children:
-      - title: "Robot Programming Tools"
-        url: /projects/robot_programming_tools/
-      - title: "Robotics-Academy"
-        url: https://jderobot.github.io/RoboticsAcademy/
-      - title: "Deep Learning"
-        url: /projects/deeplearning/
-      - title: "FPGAs in robotics"
-        url: /projects/fpgas/
-      - title: "Visual SLAM"
-        url: /projects/slam/
-      - title: "Drones"
-        url: /projects/drones/
 
   - title: "Activities"
     children:
@@ -47,3 +47,4 @@ docs:
         url: /activities/talks/
       - title: "Competition 2018"
         url: /activities/competitions/
+  

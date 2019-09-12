@@ -1,83 +1,73 @@
 ---
-title: Projects
-permalink: /projects/
-collection: /portfolio/projects/
-
 layout: collection
-
-entries_layout: grid
+permalink: /projects/
 
 classes: wide
 
 sidebar:
   nav: "docs"
+
+#header:
+#  overlay_color: "#5e616c"
+#  overlay_image: /assets/images/cover/header.png
+#  actions:
+    #- label: "<i class='fas fa-download'></i> Install now"
+    #  url: "/installation/"
+#excerpt: 
+#  Toolkit for developing Robotics and Computer Vision applications
+
+
+projects:
+  - image_path: /assets/images/projects/visual_states.png
+    alt: "Robot Programming Tools"
+    title: "Robot Programming Tools"
+    excerpt: "Several development areas: robot programming tools, learning robotics, drones, SLAM algorithms, DeepLearning. All of them are open for collaboration."
+    url: "/projects/robot_programming_tools/"
+    btn_class: "btn--primary"
+    btn_label: "Go!"
+
+  - image_path: /assets/images/projects/robotics-academy-action.jpg
+    alt: "Robotics Academy"
+    title: "Robotics Academy"
+    excerpt: "JdeRobot-Academy is an open source collection of exercises to learn robotics in a practical way. Programmed in Python, the Gazebo simulator and the ROS environment are used."
+    url: "https://jderobot.github.io/RoboticsAcademy/"
+    btn_class: "btn--primary"
+    btn_label: "Go!"
+
+  - image_path: /assets/images/projects/detection_suite.png
+    alt: "Deep Learning"
+    title: "Deep Learning"
+    excerpt: "[DeepLearning Suite](https://github.com/JdeRobot/DetectionSuite) is a set of tool that simplify the evaluation of most common object detection datasets with several object detection neural networks."
+    url: "/projects/deep_learning/"
+    btn_class: "btn--primary"
+    btn_label: "Go!" 
+  
+  - image_path: /assets/images/projects/fpga.jpg
+    alt: "FPGAs in robotics"
+    title: "FPGAs in robotics"
+    excerpt: "[Neural FPGA project](https://github.com/JdeRobot/neuralFPGA) goal is to produce custom hardware able to do inference over generic neural networks. In order to test our hardware designs we rely on hardware simulations and FPGAs."
+    url: "/projects/fpgas_in_robotics/"
+    btn_class: "btn--primary"
+    btn_label: "Go!"
+
+  - image_path: /assets/images/projects/visual_slam.png
+    alt: "Visual Slam"
+    title: "Visual Slam"
+    excerpt: "[VisualSLAM](https://github.com/JdeRobot/SDslam) uses computer vision to locate a 3D camera with 6 degrees of freedom inside a unknown environment and, at the same time, create a map of this environment."
+    url: "/projects/visual_slam/"
+    btn_class: "btn--primary"
+    btn_label: "Go!"
+
+  - image_path: /assets/images/projects/drones.png
+    alt: "Drones"
+    title: "Drones"
+    excerpt: "The new Hardware Abstraction Layer (HAL) for working in robotic applications for Unmanned Aerial Vehicles (UAVs) in JdeRobot is based on using ROS/Gazebo, PX4 and MavROS."
+    url: "/projects/drones/"
+    btn_class: "btn--primary"
+    btn_label: "Go!"   
+
 ---
 
+Our (international) community mainly works on five development areas:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle;background-color:#f0f0d0}
-.tg .tg-kmbl{font-weight:bold;background-color:#c0c0c0;color:#000000;border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top;background-color:#f0f0d0}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-kmbl">Development Areas</th>
-    <th class="tg-kmbl">Products</th>
-  </tr>
-  <tr>
-    <td class="tg-lboi" rowspan="3"><a href="https://jderobot.github.io/projects/robot_programming_tools">Robot Programming Tools</a></td>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/VisualStates">VisualStates </a>tool for robot programming with automata</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/WebSim2D">WebSim2D </a>robot simulator with web technologies</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/Scratch4Robots">Scratch4Robots </a>tool for visual robot programming</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi" rowspan="2"><a href="http://jderobot.org/Projects#Academy">Education in Robotics and Computer Vision</a></td>
-    <td class="tg-0pky"><a href="http://jderobot.org/Robotics-Academy">Robotics-Academy </a>for engineering students</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a href="https://unibotics.org/">Unibotics </a>online framework for engineering students</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi" rowspan="2"><a href="https://jderobot.org/Projects#SLAM">SLAM</a>, visual localization</td>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/SDslam">SDslam </a>visual SLAM algorithm</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/slam-TestBed">slam-testbed </a>tool for evaluation of SLAM algorithms<br></td>
-  </tr>
-  <tr>
-    <td class="tg-lboi" rowspan="2"><a href="https://jderobot.org/Projects#DeepLearning">DeepLearning</a>, visual perception</td>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/dl-DetectionSuite">DetectionSuite </a>tool for evaluation of detection networks</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/dl-objectdetector">Object Detector </a>see deep learning networks in action</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi" rowspan="2">FPGAs in robotics</td>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/neuralFPGA">neuralFPGA </a>running deeplearning networks on FPGAs</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/FPGA-robotics">FPGA-robotics </a>designing robot intelligence with IceStudio blocks</td>
-  </tr>
-</table>
-
-
-[Robot Programming Tools](/projects/robot_programming_tools)
-
-<table class="tg">
-  <tr>
-    <th class="tg-kmbl">Application domains</th>
-   </tr>
-  <tr>
-    <td class="tg-lboi"><a href="https://jderobot.org/Drones">Drones</a></td>
-  </tr>
-  <tr>
-    <td class="tg-lboi">Mobile robots</td>
-  </tr>
-</table>
+{% include feature_row_advanced %}
