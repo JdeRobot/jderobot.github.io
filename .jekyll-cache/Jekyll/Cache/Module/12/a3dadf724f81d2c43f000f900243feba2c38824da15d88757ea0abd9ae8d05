@@ -1,4 +1,4 @@
-I"H
+I"N
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -18,7 +18,7 @@
             </li><li class="masthead__menu-item">
               <a href="/activities/" >Activities</a>
             </li><li class="masthead__menu-item">
-              <a href="/" >About</a>
+              <a href="/about/" >About</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">

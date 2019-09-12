@@ -1,0 +1,133 @@
+I"e
+<h2 id="the-activities-are">The Activities are:</h2>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/projects/activities/GSoC.png" alt="GSoC-2019" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">GSoC-2019</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              
+
+            </div>
+          
+
+          
+            <p><a href="/activities/gsoc/" class="btn btn--primary">Go!</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/projects/activities/courses.jpg" alt="Courses" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Courses</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              
+
+            </div>
+          
+
+          
+            <p><a href="https://github.com/JdeRobot/ColorTuner" class="btn btn--primary">Go!</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/projects/activities/tralks.jpg" alt="Talks" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Talks</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              
+
+            </div>
+          
+
+          
+            <p><a href="https://github.com/JdeRobot/3DViz" class="btn btn--primary">Go!</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/projects/activities/competition.png" alt="Competitions" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Competitions</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              
+
+            </div>
+          
+
+          
+            <p><a href="https://github.com/JdeRobot/CamViz" class="btn btn--primary">Go!</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+:ET

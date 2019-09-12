@@ -9,7 +9,7 @@ main:
   - title: Activities
     url: /activities/
   - title: About
-    url: /
+    url: /about/
 
 # left side bar
 docs:
