@@ -49,3 +49,10 @@ If in the process of building the server there is a dependency problem, for exam
 ```bash
 jekyll build --incremental --verbose
 ```
+
+
+## Add new pages to the site.
+
+The pages are saved in the path `/_pages/section/new_page.md`. Special care must be taken in choosing the family to which the new page will belong so that it goes in the corresponding folder.
+
+It is recommended to take as an example some `.md` file that is already done. 
