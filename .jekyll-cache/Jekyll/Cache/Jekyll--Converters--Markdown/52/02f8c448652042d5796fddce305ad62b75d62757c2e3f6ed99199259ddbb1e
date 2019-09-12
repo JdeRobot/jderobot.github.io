@@ -1,0 +1,318 @@
+I"�g<h2 id="campeonato-programarobot">Campeonato ProgramaRobot</h2>
+
+<p>Este año se celebra la segunda edición del campeonato dentro de las <a href="https://jnr2017.ai2.upv.es/es/inicio/">Jornadas Nacionales de Robótica</a>, organizadas por el Comité Español de Automática (CEA), a través de su Grupo Temático de Robótica (GTRob). Tendrán lugar en Valencia en junio de 2017.</p>
+
+<p><u>Horario (9 de junio 2017)</u></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">*</span> 11:30h rondas clasificatorias
+<span class="k">*</span> 13h ronda final
+</code></pre></div></div>
+
+<font color="red">Se puede participar en el campeonato y seguirlo por internet en directo a través del </font>
+<p><a href="https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ">canal de YouTube de JdeRobot</a></p>
+
+<!-- Patrocinadores -->
+<p><img src="/assets/images/activities/competitions/2017/circulos1600.png" width="20%" height="60%" />
+<img src="/assets/images/activities/competitions/2017/logoURJC.jpg" width="20%" height="60%" />
+<img src="/assets/images/activities/competitions/2017/ceaGtrob.jpg" width="20%" height="60%" />
+<img src="/assets/images/activities/competitions/2017/deloitte.jpg" width="15%" height="60%" />
+<img src="/assets/images/activities/competitions/2017/robocity.jpg" width="20%" height="60%" /></p>
+
+<p><br /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><font color="red"> RESUMEN EDICIÓN 2017  </font></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>Video resumen</strong></td>
+      <td><strong>Presentación en directo</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=1Fm3TLNSYU8&amp;feature=youtu.be">Video</a></td>
+      <td><img src="/assets/images/activities/competitions/2017/exposicionJnr.png" width="80%" height="60%" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=8odOHBdqlOQ">vídeo completo</a></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="introducción">Introducción</h2>
+
+<p>Los drones son robots aéreos que han ganado popularidad en los últimos años. Nacieron en el ámbito militar y con el abaratamiento de sus costes se han abierto posibilidades de uso comercial en varias aplicaciones civiles como la monitorización de infraestructuras, agricultura, vigilancia, grabación de eventos, etc.. Son robots, y como tales, están compuestos de sensores, actuadores y procesadores en el lado hardware. Su inteligencia sin embargo reside en su software.</p>
+
+<p>Este campeonato plantea como reto la <strong>programación de un cuadricóptero (gato) para que busque, persiga a otro robot aéreo (ratón) y se mantenga cerca de él</strong>. En el Laboratorio de Robótica de la Universidad Rey Juan Carlos hemos preparado la infraestructura del campeonato utilizando el simulador Gazebo y la plataforma software JdeRobot, que simplifica el acceso a sensores y actuadores y permite programar el comportamiento del gato en <font color="red">lenguaje Python</font>.</p>
+
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/-rN0cWcEXk0" width="700" height="480" frameborder="0" allowfullscreen="">
+  </iframe>
+</div>
+
+<p><br /></p>
+
+<h2 id="infraestructura-software">Infraestructura software</h2>
+
+<p>El entorno necesario para participar y probar es fácil de usar y de instalar. Consta de (a) el simulador Gazebo, (b) la plataforma software JdeRobot y (c) JdeRobot-Academy. Los dos primeros se instalan como paquetes sobre Ubuntu Linux (16.04), el tercero es una colección de programas en Python que se descargan desde GitHub. También se pueden instalar en ordenadores Windows y MacOS utilizando contenedores Docker.</p>
+
+<h3 id="simulador-gazebo"><strong>Simulador Gazebo</strong></h3>
+
+<p>Los simuladores en robótica se usan para crear mundos virtuales y observar cómo un robot emulado actúa en dicho mundo. Con ellos se pueden programar aplicaciones robóticas y probarlas sin depender de un robot físico, haciendo que las pruebas sean más baratas y menos peligrosas. Si el robot se choca o tiene un comportamiento extraño que no se había previsto es posible reiniciar la simulación sin que el modelo real (o las personas cercanas) haya sufrido daños. Algunos de estos simuladores representan los mundos en 3D y recrean la física de éste (gravedad, empujes, colisiones…) emulando de modo muy realista el movimiento del robot en distintos escenarios.</p>
+
+<p><a href="http://gazebosim.org/">Gazebo</a> es un simulador muy completo que distribuye la organización OSRF (Open Source Robotics Foundation) como software libre y se ha convertido en una referencia internacional en robótica. Cuenta con modelos de robots que pueden usarse directamente, además de incluir la posibilidad de que el usuario cree su propio robot y entornos (e.g un campo de fútbol de la RoboCup, un pueblo o el interior de un edificio) incluyendo texturas, luces y sombras. Incorpora varios motores de físicas y dispone de una amplia clase de sensores como cámaras, lásers, sensores de contacto, IMU, etc. Este simulador fue el seleccionado hace cuatro años por el DARPA norteamericano para su competición internacional DRC, inyectando varios millones de dolares en su desarrollo.</p>
+
+<p>Hemos simplificado su instalación y se hace automáticamente cuando se instala el paquete debian de JdeRobot.</p>
+
+<h3 id="plataforma-jderobot"><strong>Plataforma JdeRobot</strong></h3>
+
+<p><a href="https://jderobot.github.io/">JdeRobot</a> es una plataforma de software libre para el desarrollo de aplicaciones robóticas y de visión artificial. Este proyecto está mantenido por el Laboratorio de Robótica de la Universidad Rey Juan Carlos desde 2008. Ha sido recientemente financiado por Google y es 100% compatible con <a href="https://www.ros.org/">ROS</a> (en concreto con ROS Kinetic).</p>
+
+<p>Ofrece un entorno de programación basado en componentes en el cual la aplicación robótica está formada por varios componentes. Cada uno se ejecuta como un proceso e interoperan entre sí a través del middleware de comunicaciones ICE (Internet Communications Engine, software libre de la empresa <a href="https://zeroc.com">ZeroC</a>) o a través de mensajes de ROS. Pueden estar escritos en diferentes lenguajes (C++, Python, Java, etc..) pero interoperan sin problemas.</p>
+
+<p>Esta plataforma abstrae al programador del acceso a los dispositivos hardware del robot, como la lectura de los sensores o el envío de comandos a los motores. Simplifica el acceso a ellos, obteniendo la lectura de un sensor (aunque sea remoto) a través de una llamada a función.</p>
+
+<p>El código fuente de JdeRobot está en <a href="https://github.com/JdeRobot/base">GitHub</a> y para simplificar su instalación hemos preparado paquetes debian. Para instalarlo desde paquete sigue estas <a href="https://github.com/JdeRobot/base#installation">instrucciones</a>, concretamente las secciones Requirements: Linux package sources e Installation for running JdeRobot.</p>
+
+<h3 id="jderobot-academy"><strong>JdeRobot-Academy</strong></h3>
+
+<p>Este software es una <a href="http://jderobot.github.io/RoboticsAcademy/">colección de prácticas</a> y ejercicios de programación de robots, que incluyen una para el juego del gato y ratón. Es fundamentalmente un conjunto programas en Python.</p>
+
+<p>Para instalar este software basta clonar su <a href="https://github.com/JdeRobot/RoboticsAcademy">repositorio de GitHub</a>:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd
+mkdir </span>campeonato
+<span class="nb">cd </span>campeonato
+git clone https://github.com/JdeRobot/Academy.git
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h2 id="prueba-el-juego-del-gato-y-el-ratón-con-drones">Prueba: el juego del gato y el ratón con drones</h2>
+
+<p>La prueba consiste en programar en lenguaje Python la inteligencia de un drone cuadricóptero que llamamos gato. Su objetivo es buscar, perseguir y mantenerse cerca de otro cuadricóptero similar que llamamos ratón. El gato tiene dos cámaras (una frontal y otra ventral) y un sensor de posición 3D como equipamiento sensorial. Sus actuadores son los motores de sus hélices. El ratón es de color rojo, para facilitar su detección en las imágenes.</p>
+
+<p>Para la prueba se ha preparado un mundo 3D en el simulador Gazebo. En este nuevo mundo tendremos dos robots: el cuadricóptero AR.Drone que hace de ratón (que tiene color rojo) y el cuadricóptero gato. No hay más obstáculos cercanos en el mundo, salvo el suelo. En el siguiente video se muestra un gato de ejemplo persiguiendo a un ratón:</p>
+
+<p><img src="/assets/images/activities/competitions/2017/escenaCompleta.png" width="100%" height="60%" /></p>
+
+<h3 id="diseño-de-la-prueba"><strong>Diseño de la prueba</strong></h3>
+
+<p>Para lanzar el entorno de la prueba hay que:</p>
+
+<ol>
+  <li>
+    <p>ejecutar el simulador Gazebo con el fichero del mundo adecuado, que arranca el escenario de la prueba.</p>
+  </li>
+  <li>
+    <p>ejecutar el componente mouse que gobierna el comportamiento del drone ratón.</p>
+  </li>
+  <li>
+    <p>arrancar el cat.py que gobierna el comportamiento del drone gato.</p>
+  </li>
+  <li>
+    <p>Opcionalmente se puede ejecutar el componente árbitro que mide la puntuación.</p>
+  </li>
+</ol>
+
+<p><img src="/assets/images/activities/competitions/2017/arquitectura.png" width="100%" height="60%" /></p>
+
+<h3 id="el-escenario"><strong>El escenario</strong></h3>
+
+<p>Una vez que la infraestructura está instalada podemos arrancar Gazebo con el fichero del mundo del escenario. Desde un terminal ejecuta:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gazebo ardrone-trees-simple.world
+</code></pre></div></div>
+
+<p>Si tu ordenador anda justo de recursos prueba a arrancar el simulador sin interfaz gráfico:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gzserver ardrone-trees-simple.world
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h2 id="el-gato">El gato</h2>
+
+<p>Hemos preparado un componente en JdeRobot-Academy que permite teleoperar el AR.Drone, insertar en él y ejecutar el código de cada participante. Este componente se llama <strong>cat.py</strong>, obtiene los datos sensoriales del drone (imágenes, inclinómetros, brújula, etc.) y muestra una interfaz gráfica para el manejo del AR.Drone y la visualización de sus datos sensoriales.</p>
+
+<p><img src="/assets/images/activities/competitions/2017/catpy.png" width="100%" height="60%" /></p>
+
+<p>El código de tu prueba se empotrará dentro de este componente, y es tu código el que tomará las decisiones de movimiento adecuadas en función de la información sensorial. En esto reside la inteligencia del cuadricóptero y que su comportamiento sea bueno o no. El componente arranca en modo teleoperación, para que puedas gobernar el movimiento del cuadricóptero manualmente. Con el deslizador vertical se puede subir o bajar de altura y con la cruceta hacerlo girar y/o avanzar en horizontal.</p>
+
+<ol>
+  <li>
+    <p>Antes de ejecutar tu algoritmo pulsa sobre el botón <strong>Play</strong>, y cat.py entra en modo automático invocando periódicamente a tu código inserto en <strong>MyAlgorithm.py</strong>, el método execute. Lo llama unas 10 veces por segundo, lo que permite a tu software tener el control en todo momento del movimiento del drone.</p>
+  </li>
+  <li>
+    <p>Para terminar con la ejecución de tu algoritmo pulsa el botón <strong>Stop</strong>, que hace entrar a cat.py nuevamente en modo teleoperación.</p>
+  </li>
+</ol>
+
+<p>Ahora en otro terminal ejecutaremos el componente cat_py:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> ~/campeonato/src/drone_cat_mouse/cat_py/
+python2 cat.py cat_conf.cfg 
+</code></pre></div></div>
+
+<h3 id="programando-el-drone-gato-dentro-de-catpy"><strong>Programando el drone gato dentro de cat.py</strong></h3>
+
+<p>El comportamiento del cuadricóptero gato típicamente tendrá una parte perceptiva y una parte de control. La parte de percepción recoge los datos sensoriales (la cámara principalmente) y los analiza, extrae información de ellos. La parte de control decide qué movimiento es el adecuado y emite órdenes a los motores del robot.</p>
+
+<p>Cat.py tiene naturaleza iterativa, ejecuta continuamente iteraciones y en cada una de ellas se percibe y se controla. El componente Cat.py se apoya en las interfaces ICE de JdeRobot para dialogar con el simulador Gazebo. En particular con los plugins de Gazebo que materializan los sensores y actuadores del cuadricóptero. Todo este diálogo queda oculto al programador, que simplemente tiene unos cuantos métodos en Python como interfaz de programación para leer los datos de la cámara, del sensor GPS y ordenar comandos a los motores del cuadricóptero.</p>
+
+<p>Para insertar tu código en cat.py y con ello implementar tu algoritmo se recomienda seguir los siguientes pasos:</p>
+
+<ol>
+  <li>
+    <p>cd ~/campeonato/src/drone_cat_mouse/cat_py/</p>
+  </li>
+  <li>
+    <p>Abre con tu entorno de programación el fichero cat.py y dirígete a la clase MyAlgorithm que se encuentra en el fichero <strong>MyAlgorithm.py</strong>.</p>
+  </li>
+  <li>
+    <p>Dirígete a la definición del método execute().</p>
+  </li>
+  <li>
+    <p>En primer lugar se recomienda implementar un método que nos permita detectar en la imagen obtenida del drone ratón, obteniendo su posición en píxeles. Típicamente el centro de masas de los píxeles que superan el filtro rojo puede ser una buena aproximación del centro del robot ratón (hay otras mejores).</p>
+  </li>
+  <li>
+    <p>Con el robot ratón detectado en la imagen, el siguiente paso es decidir qué movimiento es el adecuado ordenar a los motores del gato con el método sendCMDVel(). Aquí hay muchas maneras de decidirlo: control basado en casos, control PID, autómatas, etc.. Aquí es donde entra en juego tu habilidad.</p>
+  </li>
+</ol>
+
+<p>Además de la descripción siguiente del API de programación del drone en Python, tienes más detalles suyos <a href="https://github.com/JdeRobot/RoboticsAcademy/tree/master/exercises/drone_cat_mouse">aquí</a></p>
+
+<h3 id="recogiendo-imágenes"><strong>Recogiendo imágenes</strong></h3>
+
+<p>Las imágenes de la cámara frontal del gato se obtienen desde la clase MyAlgorithm. La instrucción <strong>getImage</strong> devuelve la imagen de la cámara activa del drone y la almacena en la variable droneImage. A partir de este momento, dicha variable contiene una imagen que podremos tratar como queramos. Por ejemplo usando la biblioteca OpenCV de visión artificial.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>droneImage <span class="o">=</span> self.sensor.getImage<span class="o">()</span>
+</code></pre></div></div>
+
+<p>Puedes cambiar la cámara activa del drone invocando el siguiente método:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>self.sensor.toggleCam<span class="o">()</span>
+</code></pre></div></div>
+
+<p>Para esta prueba necesitaremos detectar al robot ratón. El ratón es de color rojo. Típicamente se localiza muy bien dentro de las imágenes usando un filtro HSV convenientemente ajustado.</p>
+
+<h3 id="leyendo-la-posición-y-orientación-en-3d-gps-e-inclinómetros"><strong>Leyendo la posición y orientación en 3D (GPS e inclinómetros)</strong></h3>
+
+<p>En el escenario del campeonato se usan dos sistema de referencia: uno absoluto y otro solidario con el cuadricóptero. Son los que se muestran en la Figura \ref{fig:drone_referencia}.</p>
+
+<p><img src="/assets/images/activities/competitions/2017/droneCoordenadas.png" width="100%" height="60%" /></p>
+
+<p>El seguimiento del ratón se puede abordar sin necesidad de saber la posición absoluta del drone en el mundo. Sin embargo, puede ser útil si se quiere optimizar la búsqueda del ratón cuando no se aprecia en la imagen. Para obtener la posición 3D se tiene el método <strong>getPose3D</strong>. Las instrucciones siguientes entregan las coordenadas X,Y y Z del drone dentro del mundo de Gazebo.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>self.sensor.getPose3D<span class="o">()</span>.x
+self.sensor.getPose3D<span class="o">()</span>.y
+self.sensor.getPose3D<span class="o">()</span>.z
+</code></pre></div></div>
+
+<p>Para obtener la orientación (cuaternión) del drone:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>self.sensor.getPose3D<span class="o">()</span>.q0
+self.sensor.getPose3D<span class="o">()</span>.q1
+self.sensor.getPose3D<span class="o">()</span>.q2
+self.sensor.getPose3D<span class="o">()</span>.q3
+</code></pre></div></div>
+
+<h3 id="ordenando-movimiento-a-los-motores-del-drone"><strong>Ordenando movimiento a los motores del drone</strong></h3>
+
+<p>La clase sensor dentro de cat.py incluye varios métodos para interactuar con el drone y ordenarle movimiento. En particular el método sendCMDVel() envía comandos de velocidad de traslación y velocidades de rotación. Las velocidades de traslación siguen el sistema de referencia que se muestra en la figura anterior, solidario con el propio drone: vx de frente/atrás, vy izquierda/derecha y vz arriba/abajo. La velocidad de yaw marca el giro alrededor de un eje vertical, perpendicular al plano del drone. El método sendCMDVel() recibe 6 parámetros: vy, vx, vz, yaw, roll y pitch. Cada uno de los valores se debe indicar entre -1 y 1. Los valores roll y pitch no tienen efecto en el mundo simulado de Gazebo.</p>
+
+<p>Por ejemplo, el comando siguiente ordena al drone que se mueva de manera inmediata hacia delante a una velocidad de 0.5 (a la mitad de potencia). Esta órden estará activa hasta que se le indique otra cosa.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>self.sensor.sendCMDVel<span class="o">(</span>0,0.5,0,0,0,0<span class="o">)</span>
+</code></pre></div></div>
+
+<p>El método sendCMDVel() permite comandar distintas órdenes a la vez. El comando siguiente provoca que el drone se mueva hacia delante a una velocidad de 0.5, a la vez se traslade hacia la derecha a 0.4 y simultáneamente se eleve en el eje Z a 0.2 y rote sobre el eje Z a una velocidad de 0.1.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>self.sensor.sendCMDVel<span class="o">(</span><span class="nt">-0</span>.4,0.5,0.2,0.1,0,0<span class="o">)</span>
+</code></pre></div></div>
+
+<p>Finalmente, para detener el movimiento del drone se puede utilizar la siguiente instrucción.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>self.sensor.sendCMDVel<span class="o">(</span>0,0,0,0,0,0<span class="o">)</span>
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h2 id="ratones">Ratones</h2>
+
+<p>Para probar y afinar tu gato puedes dejar el ratón quieto, pero también puedes teleoperar al ratón con la herramienta uav_viewer de JdeRobot conectado a él, mientras que a la vez cat.py se conecta al gato y ejecuta el código que hayas preparado.</p>
+
+<p>También hemos preparado un <strong>ratón de entrenamiento</strong> que implementa la mayoría de movimientos que tendrán los ratones de las mangas puntuables. Este ratón tiene una dificultad incremental, empezando con unos movimientos muy simples a la velocidad mínima, continuando con unos movimientos más complejos a una velocidad media y terminando con movimientos aún más complejos a la máxima velocidad.</p>
+
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/uuHWCvgGzog" width="700" height="480" frameborder="0" allowfullscreen="">
+  </iframe>
+</div>
+
+<p><br /></p>
+
+<p>Podéis descargarlo de <a href="https://jderobot.org/store/jmplaza/uploads/campeonato-drones/ratones.tgz">aquí</a>, que incluye varios ratones (para máquinas de 64bits) para que practiqueis con ellos. Una vez descargado, copia ese fichero comprimido al directorio adecuado de JdeRobot-Academy y descomprímelo:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cp </span>ratones.tgz ~/campeonato/src/drone_cat_mouse/mice
+<span class="nb">cd</span> ~/campeonato/src/drone_cat_mouse/mice
+<span class="nb">tar</span> <span class="nt">-zxvf</span> ratones.tgz
+</code></pre></div></div>
+
+<p>Cada vez que quieras ejecutar el ratón, ya con el escenario en Gazebo arrancado, ejecuta:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> ~/campeonato/src/drone_cat_mouse/mice
+./trainning_mouse trainning.cfg
+</code></pre></div></div>
+
+<p>O bien:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> ~/campeonato/src/drone_cat_mouse/mice
+./q1_mouse q1.cfg
+</code></pre></div></div>
+
+<p>Durante la competición se lanzarán distintos ratones programados por la organización, unos más sencillos otros más sofisticados, que serán los mismos para todos los participantes.</p>
+
+<p><br /></p>
+
+<h2 id="un-árbitro-evalúa-tu-algoritmo">Un árbitro evalúa tu algoritmo</h2>
+
+<p>Para determinar la puntuación de tu algoritmo hemos creado un árbitro que mide la distancia real instantánea a la que se encuentra tu gato del ratón durante 2 minutos. Además, muestra en pantalla la evolución temporal a lo largo de la duración de cada manga. Cuando está por debajo del umbral considerado cercano la pinta en verde y cuando está por encima, rojo. Mientras que el gato se encuentre cerca del ratón se incrementará la puntuación, si tu gato no está lo suficientemente cerca del gato no puntuará. El árbitro consta de un plugin y un visor.</p>
+
+<p><img src="/assets/images/activities/competitions/2017/arbitro.png" width="100%" height="60%" /></p>
+
+<p>Para lanzar al árbitro hay que hacerlo (justo) después de arrancar el escenario, el gato y el ratón, no antes. En un terminal ejecuta:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> ~/campeonato/src/drone_cat_mouse/referee
+python2 referee.py referee.cfg 
+</code></pre></div></div>
+
+<p><br /></p>
+
+<h2 id="organización-evaluación-y-premio">Organización, evaluación y premio</h2>
+
+<font color="red">Para participar es OBLIGATORIO rellenar este</font>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdMp7llxybK5Ab4MKbWSmc31uU3iccDt-s2GNdLPUP69lMfrw/viewform">FORMULARIO DE INSCRIPCIÓN</a>. Cada participante deber inscribirse individualmente. Para avisos y comunicación con los participantes usaremos la lista de correo <strong>campeonatodrones@gsyc.es</strong> (que se borrará una vez realizado el campeonato). Para enviar mensajes hay que rellenar previamente el formulario de inscripción y desde la organización te damos de alta en esa lista de correo.</p>
+
+<p>Despues hay que programar, retocando adecuadamente el fichero <strong>MyAlgorithm.py</strong> (el método <strong>execute</strong>), y enviarlo a la organización por correo electrónico (josemaria.plaza AT urjc.es) antes del <strong>8 de junio 2017 (a las 12h)</strong> junto con los datos personales. Pasado ese día la organización publicará en la web la lista de todos los participantes. Las finales del campeonato tendrán lugar el <strong>9 de junio de 2017</strong>, dentro de las <a href="http://jnr2017.ai2.upv.es/es/inicio/">Jornadas Nacionales de Robótica</a>. Ese día se retransmitirá en streaming por YouTube la sesión final (Q3). Si el volumen de participantes lo permite, también las sesiones eliminatorias Q1 y Q2.</p>
+
+<p>La evaluación consiste arrancar a tu robot gato en diferentes configuraciones (2 mangas) con el robot ratón que hemos preparado y en una máquina de la organización. Tu fichero <strong>MyAlgorithm.py</strong> se incorporará a <strong>cat.py</strong> para que gobierne el comportamiento del cuadricóptero. La máquina y el comportamiento del ratón es exactamente el mismo para todos los participantes. En cada manga, de 2 minutos, tu robot comienza en una posición relativa diferente respecto del ratón, deberá buscarlo y perseguirlo. El componente árbitro mide cuántos segundos de esas ejecuciones tu gato ha estado suficientemente cerca del ratón y lo muestra en pantalla. Esa es la puntuación.</p>
+
+<p>El campeonato está organizado en fases eliminatorias, donde tu gato se va enfrentando paulatinamente a ratones más difíciles de seguir. Tras la primera ronda (Q1) pasan a la siguiente los mejores 20 gatos, en la segunda (Q2) los mejores 10 y en la última (Q3) ya se deciden las posiciones definitivas en el campeonato. Gana el campeonato aquel gato que esté cerca del ratón durante más tiempo en el acumulado de las dos mangas de Q3. El jurado será una comisión de expertos de la Universidad Rey Juan Carlos, que podrá dejar el premio desierto si la solución no es de suficiente calidad y descalificar a los participantes que choquen recurrentemente con el ratón. Sus decisiones son inapelables.</p>
+
+<p>El objetivo del campeonato es proponer un reto bonito y dar la oportunidad de medir tu solución con otros compañeros competidores.</p>
+
+<p><br /></p>
+
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+
+<h3 id="quiénes-pueden-participar"><strong>¿Quiénes pueden participar?</strong></h3>
+
+<p>Cualquiera, es un campeonato abierto. Está dirigido a estudiantes universitarios de ingeniería de toda España (de grado, master, doctorado…) pero está abierto a cualquier participante.</p>
+
+<h3 id="puedo-utilizar-otro-middleware-para-acceder-al-robot-aéreo"><strong>¿Puedo utilizar otro middleware para acceder al robot aéreo?</strong></h3>
+
+<p>Para el campeonato, no. Más allá del campeonato, usa el que quieras :-). Para que la comparativa sea justa todos los participantes utilizarán la misma versión del simulador Gazebo y la misma versión del middleware JdeRobot. De hecho han de entregar su código en un fichero MyAlgorithms.py que se prueba dentro del componente cat.py de JdeRobot-Academy.</p>
+
+:ET

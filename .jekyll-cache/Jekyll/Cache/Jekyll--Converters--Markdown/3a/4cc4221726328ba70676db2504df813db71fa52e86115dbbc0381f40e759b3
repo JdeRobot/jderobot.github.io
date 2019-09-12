@@ -1,0 +1,29 @@
+I""<ul class="toc__menu">
+  <li><a href="#introduction">Introduction</a></li>
+  <li><a href="#organization-and-evaluation">Organization and evaluation</a>
+    <ul>
+      <li><a href="#timeline">Timeline</a></li>
+      <li><a href="#scores">Scores</a></li>
+      <li><a href="#finals">Finals</a></li>
+      <li><a href="#awards">Awards</a></li>
+    </ul>
+  </li>
+  <li><a href="#the-cat-and-mouse-challenge">The Cat and Mouse challenge</a></li>
+  <li><a href="#the-escape-from-the-hangar-challenge">The Escape from the Hangar challenge</a></li>
+  <li><a href="#drone-programming">Drone Programming</a>
+    <ul>
+      <li><a href="#iterative-loop-template">Iterative loop template</a></li>
+      <li><a href="#reading-camera-images">Reading camera images</a></li>
+      <li><a href="#reading-3d-position-and-orientation-gpsimu">Reading 3D position and orientation (GPS+IMU)</a></li>
+      <li><a href="#commanding-motion-to-the-motors">Commanding motion to the motors</a></li>
+    </ul>
+  </li>
+  <li><a href="#software-infrastructure">Software infrastructure</a>
+    <ul>
+      <li><a href="#docker-container">Docker container</a></li>
+      <li><a href="#jderobot-academy-webide">JdeRobot-Academy WebIDE</a></li>
+    </ul>
+  </li>
+  <li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
+</ul>
+:ET

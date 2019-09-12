@@ -1,5 +1,5 @@
 ---
-title: "Jéssica Fernández"
+title: "Jessica Fernández"
 excerpt: "Smart TrafficSensor"
 header:
   #image: 

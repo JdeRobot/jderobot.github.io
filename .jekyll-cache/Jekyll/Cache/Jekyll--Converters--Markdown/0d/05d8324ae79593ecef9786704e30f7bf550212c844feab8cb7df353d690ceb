@@ -1,0 +1,43 @@
+I"S	<ul class="toc__menu">
+  <li><a href="#programarobot-dronecampeones">ProgramaRobot: DRONECAMPEONES</a></li>
+  <li><a href="#introducción">Introducción</a></li>
+  <li><a href="#entorno-software">Entorno software</a>
+    <ul>
+      <li><a href="#simulador-gazebo">Simulador Gazebo</a></li>
+      <li><a href="#plataforma-jderobot">Plataforma JdeRobot</a></li>
+      <li><a href="#instalación-de-la-infraestructura">Instalación de la infraestructura</a></li>
+      <li><a href="#componente-cat_py">Componente Cat_py</a></li>
+      <li><a href="#ejecución-del-mundo-del-campeonato-y-el-componente-cat_py">Ejecución del mundo del campeonato y el componente cat_py</a></li>
+    </ul>
+  </li>
+  <li><a href="#prueba-el-juego-del-gato-y-el-ratón-con-drones">Prueba: el juego del gato y el ratón con drones</a>
+    <ul>
+      <li><a href="#configuración-del-entorno">Configuración del entorno</a></li>
+      <li><a href="#programando-el-drone-gato-dentro-de-catpy">Programando el drone gato dentro de cat.py</a></li>
+      <li><a href="#recogiendo-imágenes">Recogiendo imágenes</a></li>
+      <li><a href="#leyendo-la-posición-y-orientación-en-3d-gps-e-inclinómetros">Leyendo la posición y orientación en 3D (GPS e inclinómetros)</a></li>
+      <li><a href="#ordenando-movimiento-a-los-motores-del-drone">Ordenando movimiento a los motores del drone</a></li>
+      <li><a href="#insertando-tu-código">Insertando tu código</a></li>
+      <li><a href="#evaluando-tu-algoritmo">Evaluando tu algoritmo</a></li>
+    </ul>
+  </li>
+  <li><a href="#ratones-para-el-campeonato">Ratones para el campeonato</a>
+    <ul>
+      <li><a href="#ratón-de-entrenamiento">Ratón de entrenamiento</a></li>
+      <li><a href="#ejecución-del-ratón-de-entrenamiento">Ejecución del ratón de entrenamiento</a></li>
+    </ul>
+  </li>
+  <li><a href="#organización-evaluación-y-premio">Organización, evaluación y premio</a>
+    <ul>
+      <li><a href="#reglamento">Reglamento</a></li>
+    </ul>
+  </li>
+  <li><a href="#preguntas-frecuentes">Preguntas frecuentes</a>
+    <ul>
+      <li><a href="#quiénes-pueden-participar">¿Quiénes pueden participar?</a></li>
+      <li><a href="#puedo-utilizar-otro-middleware-para-acceder-al-robot-aéreo">¿Puedo utilizar otro middleware para acceder al robot aéreo?</a></li>
+    </ul>
+  </li>
+  <li><a href="#patrocinadores">Patrocinadores</a></li>
+</ul>
+:ET
