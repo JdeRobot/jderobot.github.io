@@ -1,4 +1,4 @@
-I"A
+I"ê
 <div class="feature__wrapper">
 
   
@@ -27,7 +27,7 @@
           
 
           
-            <p><a href="/exercises/" class="btn btn--primary">Learn more</a></p>
+            <p><a href="/community/" class="btn btn--primary">Learn more</a></p>
           
         </div>
       </div>
@@ -58,7 +58,7 @@
           
 
           
-            <p><a href="/contribute/" class="btn btn--primary">Learn more</a></p>
+            <p><a href="/projects/" class="btn btn--primary">Learn more</a></p>
           
         </div>
       </div>
@@ -89,7 +89,7 @@
           
 
           
-            <p><a href="/about/" class="btn btn--primary">Learn more</a></p>
+            <p><a href="/activities/" class="btn btn--primary">Learn more</a></p>
           
         </div>
       </div>
@@ -174,4 +174,11 @@
     <figcaption>Last two videos from YouTube channel.</figcaption>
 </figure>
 
+<h2 id="sponsors">Sponsors</h2>
+
+<figure class="half">
+    <a href="/assets/images/cover/logo_qualoom.png"><iframe src="https://www.youtube.com/embed/gDP9nWCL0Vg"></iframe></a>
+    <a href="/assets/images/cover/GSoC.png"><img src="/assets/images/" /></a>
+    <figcaption>Last two videos from YouTube channel.</figcaption>
+</figure>
 :ET
