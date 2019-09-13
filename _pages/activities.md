@@ -23,10 +23,10 @@ feature_row:
     btn_label: "Go!"
 
   - image_path: /assets/images/activities/courses.jpg
-    alt: "Courses"
-    title: "Courses"
+    alt: "Robotics Courses"
+    title: "Robotics Courses"
     excerpt: "JdeRobot Robotics Academy has been used since 2006 for the teaching of robotics in various courses, both undergraduate and master."
-    url: "https://github.com/JdeRobot/ColorTuner"
+    url: "/activities/robotics_courses/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
@@ -34,7 +34,7 @@ feature_row:
     alt: "Talks"
     title: "Talks"
     excerpt: "All these Technological Talks have been celebrated at the Universidad Rey Juan Carlos in the last years, fostered by the JdeRobot Foundation."
-    url: "https://github.com/JdeRobot/3DViz"
+    url: "/activities/talks/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
@@ -42,7 +42,7 @@ feature_row:
     alt: "Competitions"
     title: "Competitions"
     excerpt: "JdeRobot organizes every year robotics championships where you will have to demonstrate your skills as a programmer."
-    url: "https://github.com/JdeRobot/CamViz"
+    url: "/activities/competitions/"
     btn_class: "btn--primary"
     btn_label: "Go!" 
 
