@@ -1,4 +1,4 @@
-I"[<h2 id="the-activities-are">The Activities are:</h2>
+I":<h2 id="the-activities-are">The Activities are:</h2>
 
 <div class="feature__wrapper">
 
@@ -59,7 +59,7 @@
           
 
           
-            <p><a href="https://github.com/JdeRobot/ColorTuner" class="btn btn--primary">Go!</a></p>
+            <p><a href="/activities/robotics_courses/" class="btn btn--primary">Go!</a></p>
           
         </div>
       </div>
@@ -90,7 +90,7 @@
           
 
           
-            <p><a href="https://github.com/JdeRobot/3DViz" class="btn btn--primary">Go!</a></p>
+            <p><a href="/activities/talks/" class="btn btn--primary">Go!</a></p>
           
         </div>
       </div>
@@ -121,7 +121,7 @@
           
 
           
-            <p><a href="https://github.com/JdeRobot/CamViz" class="btn btn--primary">Go!</a></p>
+            <p><a href="/activities/competitions/" class="btn btn--primary">Go!</a></p>
           
         </div>
       </div>
