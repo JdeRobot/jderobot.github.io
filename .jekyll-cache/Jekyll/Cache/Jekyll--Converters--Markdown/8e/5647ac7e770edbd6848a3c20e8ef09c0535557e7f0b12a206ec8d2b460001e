@@ -1,0 +1,76 @@
+I"!<h2 id="tools-for-drones-in-jderobot">Tools for drones in JdeRobot</h2>
+
+<p>The drone can be teleoperated from a smartphone. The images of the onboard cameras are shown in the smartphone</p>
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+
+  <iframe src="https://www.youtube-nocookie.com/embed/fEuhzmRH-Fs" frameborder="0" allowfullscreen=""></iframe>
+
+</div>
+
+<h2 id="using-rosmavros-with-px4-sitl-and-3dr-solo-simulation-in-gazebo">Using ROS/MavROS with PX4 SITL and 3DR Solo simulation in Gazebo</h2>
+
+<p>Installation instructions <a href="https://github.com/JdeRobot/assets/tree/master/drones">here</a>. Please note that this is a first approach, if you encounter any issues report them in the <a href="https://github.com/jderobot/jderobot">JdeRobot’s github repository</a>.</p>
+
+<h3 id="stage-1-launching-the-3dr-solo-simulation-testing-basic-functionalities-arm-motors-takeoff-hover-and-land">Stage 1: Launching the 3DR Solo simulation. Testing basic functionalities: Arm motors, takeoff, hover and land</h3>
+
+<ul>
+  <li>
+    <p>Goal: After installing PX4 SITL for ROS/Gazebo and MavROS 0.25.1, some testing using the 3DR Solo simulation, MavLINK 2.0 and the MavROS tools mavsafety (for arming motors) and mavcmd (for taking off and landing)</p>
+  </li>
+  <li>
+    <p>Status: Almost finished</p>
+  </li>
+  <li>
+    <p>Achieved</p>
+
+    <ol>
+      <li>Link between PX4 SITL and MavROS node obtained:
+        <ul>
+          <li>Use <code class="highlighter-rouge">roslaunch mavros px4.launch fcu_url:="udp://:14540@127.0.0.1:14557"</code></li>
+          <li>Link working checked by echoing the <code class="highlighter-rouge">/mavros/diagnostics</code> topic</li>
+        </ul>
+      </li>
+      <li>Arm 3DR Solo motors with <code class="highlighter-rouge">rosrun mavros mavsafety arm</code>.</li>
+      <li>Take off in <code class="highlighter-rouge">PX4 AUTO.RTL</code> flight mode
+        <ul>
+          <li>Using global latitude,longitude coordinates (LOCAL_NED frame) available at /mavros/fake_gps/geo_origin parameters</li>
+          <li>Use <code class="highlighter-rouge">rosrun mavros mavcmd takeoff pitch yaw lat lon alt</code>. Important: <code class="highlighter-rouge">rosrun mavros mavcmd takeoffcur pitch yaw alt</code> doesn’t work (GPS fix is compulsory)</li>
+        </ul>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Pending</p>
+
+    <ol>
+      <li>Keep drone hovering by solving the No Datalink issue, that triggers failsafe and RTH + Auto Landing
+        <ul>
+          <li>Tried changing PX4 flight mode from AUTO.RTL to OFFBOARD. PX4 present flight mode is published in the /mavros/state topic.</li>
+          <li>To change it, first publish any <code class="highlighter-rouge">/mavros/setpoint</code> with <code class="highlighter-rouge">rostopic pub -r 20 ...</code> and then use <code class="highlighter-rouge">rosrun mavros mavsys mode -c OFFBOARD</code>.</li>
+          <li>Unfortunately, once in OFFBOARD mode, RTH still triggers due to <em>No Datalink</em>.</li>
+          <li>Possible solution: Try changing NAV_RCL_ACT parameter to 0.</li>
+        </ul>
+      </li>
+    </ol>
+  </li>
+</ul>
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+
+  <iframe src="https://www.youtube-nocookie.com/embed/wiVFPPJuaow" frameborder="0" allowfullscreen=""></iframe>
+
+</div>
+
+<h2 id="stage-2">Stage 2:</h2>
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+
+  <iframe src="https://www.youtube-nocookie.com/embed/FPX13Ks5xmA" frameborder="0" allowfullscreen=""></iframe>
+
+</div>
+
+:ET

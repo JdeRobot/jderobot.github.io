@@ -1,0 +1,636 @@
+I"p�<h2 id="2018-talks">2018 Talks</h2>
+
+<h3 id="november-5th-comportamiento-robótico-de-seguimiento-de-personas-usando-deep-learning-nacho-condés-uc3m">(November 5th) Comportamiento robótico de seguimiento de personas usando Deep Learning, Nacho Condés (UC3M)</h3>
+
+<p>Speaker: <a href="https://jderobot.org/Naxvm-tfg">Nacho Condés</a> (U. Carlos III de Madrid, former student at URJC)</p>
+
+<p>Abstract: En los últimos tiempos, la ciencia y la tecnología están experimentando un notorio auge en los campos como la robótica y las redes neuronales, que están tomando un papel significativo. Si buscamos posibles sinergias entre ellas la percepción visual en robótica es un área idónea. En este contexto se sitúa el trabajo que se presenta en esta charla: hemos combinado una inteligencia visual programada mediante redes neuronales con aprendizaje profundo y unos algoritmos de control de movimientos en un robot móvil equipado con un sensor económico (RGBD, tipo Kinect) para que el robot sea capaz de seguir a una persona concreta, incluso aunque le de la espalda.</p>
+
+<p>When?: 2018-11-05, 16:30h</p>
+
+<p>Where?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p>It is open to general public, but registration is required at this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfSZ9SXzCxONk9PLnYWibv1tzBBwWpUBF259BqdhKs-BA4lYA/viewform">web page</a></p>
+
+<p>Slides: <a href="http://jderobot.org/store/jmplaza/uploads/charlas/nacho_condes-follow_mom.pdf">slides</a></p>
+
+<p><img src="/assets/images/activities/talks/charlaNachocondes2018.jpg" width="100%" height="60%" /></p>
+
+<p><br /></p>
+
+<h3 id="october-22nd-arduino-programming-in-python-sergio-paniego-upm">(October 22nd) Arduino Programming in Python, Sergio Paniego (UPM)</h3>
+
+<p>Speaker: <a href="https://jderobot.org/Club-spaniego">Sergio Paniego</a> (U.Politécnica de Madrid, former student at URJC)</p>
+
+<p>Abstract PyOnArduino PyOnArduino is a tool developed by JdeRobot that enables Python programming of robots with an Arduino processor built-in. The developed approach uses a Python parser and automatically translates it to Arduino language (C / C ++ function set), which once compiled, can be downloaded and run on the Arduino processor. All this process is done with a single command. PyOnArduino’s development started this summer as part of Google Summer of Code, a program in which we took part. On this talk, the project will be displayed with a practical approach in mind, showing examples with real-world robots, and also presenting the experience of working on a GSoC project as a student.</p>
+
+<p>When?: 2018-10-22, 16h</p>
+
+<p>Where?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p>It is open to general public, but registration is required at this <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0JGtllGg4o4ThxPF5lSHksKeX7Ru522OQBvRpFjFJ5zKY-w/viewform">web page</a></p>
+
+<p>Slides: <a href="https://jderobot.github.io/PyOnArduino/ArduinoProgrammingInPython.pdf">PyOnArduino slides</a></p>
+
+<p><img src="/assets/images/activities/talks/charlaSergiopaniego2018.jpg" width="100%" height="60%" /></p>
+
+<p><br /></p>
+
+<h3 id="october-1st-spatial-task-allocation-in-search-and-rescue-okan-asik-boğaziçi-university">(October 1st) Spatial Task Allocation in Search and Rescue, Okan Asik (Boğaziçi University)</h3>
+
+<p>Speaker: <a href="https://okanasik.github.io/">Okan Asik</a> (Boğaziçi University)</p>
+
+<p>Abstract Search and rescue strategies are developed by human experts using the knowledge gathered from previous disasters. However, these procedures are not formally validated and does not follow scientific approach. We develop a decision-theoretic multi-agent planning approach for search and rescue tasks. Although, multi-agent decision-theoretic approaches fails to scale, we use the spatial property of tasks to reduce the complexity of the problem. We validate our approach using the RoboCup Rescue Agent Simulator.</p>
+
+<p>When?: 2018-10-01, 16:30h</p>
+
+<p>Where?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLSev6Ros6qhiQYn8VmhICSPgnoQGy2BXtHHfwFYeC5suiQ2v1w/viewform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/OAsik_rescuesim.pdf">trasparencias</a> que se usaron y el <a href="http://jderobot.org/store/jmplaza/uploads/charlas/urjc-okan-talk-2018.mp3">audio</a> grabado de la charla.</p>
+
+<p><img src="/assets/images/activities/talks/charlaOkan2018.jpg" width="100%" height="60%" /></p>
+
+<p><br /></p>
+
+<h3 id="october-1st-jderobot-visualstates-tool-okan-asik-boğaziçi-university">(October 1st) JdeRobot VisualStates tool, Okan Asik (Boğaziçi University)</h3>
+
+<p>Speaker: <a href="https://okanasik.github.io/">Okan Asik</a> (Boğaziçi University)</p>
+
+<p>Abstract: The behavior programming is one of the fundamental tasks in robot programming. Its nature is different than other essential robotics modules such as perception and localization. Other robotics modules can be programmed and tackled in the level of algorithms, but robot behavior can also be represented by states. For example, simple wall following behavior can consist of two states; very close to the wall, very far away from the wall. The programmer can easily define specific commands for each state. JdeRobot VisualStates tool provides a visual programming environment for defining such reactive behaviors. It is developed as a ROS package and provides a mechanism to compose new behaviors by importing previously built behaviors. We plan to built a behavior repository where people can share different behaviors with each other and reuse already developed behaviors by adjusting the parameters of the behavior for their own use case.</p>
+
+<p>When?: 2018-10-01, 16:30h</p>
+
+<p>Where?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLSev6Ros6qhiQYn8VmhICSPgnoQGy2BXtHHfwFYeC5suiQ2v1w/viewform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/OAsik_VisualStates.pdf">trasparencias</a> que se usaron y el <a href="http://jderobot.org/store/jmplaza/uploads/charlas/urjc-okan-talk-2018.mp3">audio</a> grabado de la charla (desde minuto 30).</p>
+
+<p><br /></p>
+
+<h3 id="april-23rd-openvidu-una-plataforma-para-añadir-videoconferencia-en-grupo-en-tu-página-web-micael-gallego-urjc">(April 23rd) OpenVidu, una plataforma para añadir videoconferencia en grupo en tu página web, Micael Gallego (URJC)</h3>
+
+<p>Speaker: Micael Gallego, profesor ETSII-URJC</p>
+
+<p>Summary: La tecnología WebRTC permite crear videollamadas entre dos browsers. Pero para las llamadas en grupo, es necesario un servidor de media. Con OpenVidu, crear una aplicación de videollamadas en grupo es muy sencillo, sólo tienes que usar una librería JS en el browser y el servidor de OpenVidu dockerizado. Y si quieres, puedes grabar la videollamada en disco. En esta sesión podrás ver lo fácil que es implementar este tipo de aplicaciones, y usando únicamente tecnologías open source.</p>
+
+<p>When?: 2018-04-23, 16:30h</p>
+
+<p>Where?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEZQWFo79goOFkpVq9_fJWhPBD-wYcBcjYFqC9UosZz5m5MQ/viewform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/traspas-mica-openvidu.pdf">trasparencias</a> que se usaron y el <a href="http://jderobot.org/store/jmplaza/uploads/charlas/audio-20180423.3gp">audio</a> grabado de la charla.</p>
+
+<p><br /></p>
+
+<h3 id="march-20th-dense-visual-slam-geometry--learning-javier-civera-uzaragoza">(March 20th) Dense Visual SLAM: Geometry + Learning, Javier Civera (U.Zaragoza)</h3>
+
+<p>Ponente: Javier Civera, Doctor de la U.Zaragoza</p>
+
+<p>Resumen: El objetivo del SLAM (acrónimo de Simultaneous Localization and Mapping) visual es la estimación de un mapa global de una escena y la autolocalización a partir de datos visuales. Actualmente es una disciplina de gran relevancia, debido a su madurez y a ser pieza clave de tecnologías emergentes como robótica móvil, AR y VR. En esta charla se introducirán algunos algoritmos del estado del arte, con foco en 1) reconstrucciones 3D densas, 2) el potencial del aprendizaje automático (en concreto, deep learning) en SLAM, y 3) la fusión con otros sensores (principalmente inerciales).</p>
+
+<p>¿Cuándo?: 2018-03-20, 18h</p>
+
+<p>¿Dónde?: Salón de Grados, edificio departamental II, campus de Móstoles de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLSevCrhKu_d4GxMaXMeCy6hdnDMmF2tOSf7sdr8VLwa7JvUsOQ/viewform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/civera-traspas2018.pdf">trasparencias</a> que se usaron y el <a href="http://jderobot.org/store/jmplaza/uploads/charlas/slam-civera-2018.mp3">audio</a> grabado de la charla.</p>
+
+<p><img src="/assets/images/activities/talks/charlaCivera2018.jpg" width="100%" height="60%" /></p>
+
+<p><br /></p>
+
+<h3 id="february-13th-aplicación-de-técnicas-de-deep-learning-a-reconocimiento-de-objetos-en-visión-miguel-cazorla-ualicante">(February 13th) Aplicación de técnicas de deep learning a reconocimiento de objetos en visión, Miguel Cazorla (U.Alicante)</h3>
+
+<p>Ponente: Miguel Cazorla Quevedo, catedrático de la U.Alicante</p>
+
+<p>Resumen: hablaremos de varios trabajos sobre reconocimiento de objetos usando técnicas de deep learning. En el primero, se explicará cómo se puede obtener el modelo 3D de una mano a partir de imágenes 2D. Se comentará el dataset realizado para obtener manos con sus datos 3D anotados. A continuación, veremos el pipeline de la aplicación completo, desde la aplicación de una RCNN para detectar la mano hasta la regresión realizada para obtener las coordenadas de los distintos dedos. En el segundo se explicará cómo se puede abordar el reconocimiento de insectos. Este problema es de clasificación, pero tiene ciertos dificultades a la hora de organizar la información. Se detallarán los pasos que hemos seguido y los resultados obtenidos. Por último se comentará una manera de obtener la información 3D de una escena a partir únicamente de una imagen 2D. Este trabajo está en desarrollo, pero se comentará la manera de abordarlo.</p>
+
+<p>¿Cuándo?: 2018-02-13, 18h</p>
+
+<p>¿Dónde?: Aula 170, edificio departamental II, campus de Móstoles de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLSdOMEf97M0DKwoLtid57R12cT86cN3rApl263Zgl0YmnfOXmQ/viewform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/cazorla-traspas2018.pdf">trasparencias</a>.</p>
+
+<p><img src="/assets/images/activities/talks/charlaMiguel2018.jpg" width="100%" height="60%" /></p>
+
+<p><br /></p>
+
+<h2 id="2017-talks">2017 Talks</h2>
+
+<h3 id="noviembre-28-aplicación-práctica-de-la-robótica-en-procesos-empresariales-y-financieros-luis-gonzález-gugel-deloitte">(noviembre 28) Aplicación práctica de la Robótica en procesos empresariales y financieros, Luis González Gugel (Deloitte)</h3>
+
+<p>Ponente: Luis Gonzalez Gugel, Socio de Deloitte responsable del área de Robotics</p>
+
+<p>Resumen: La inevitable realidad en el mundo de los negocios es la continua búsqueda por adquirir una ventaja competitiva. La empresa que es capaz de proporcionar las soluciones más eficientes a las necesidades de sus clientes, es la que se encontrará capturando el mercado. La búsqueda de eficiencia se ha convertido en una carrera por transferir actividades transaccionales a máquinas que pueden realizarlas de manera rápida y con un mínimo de errores, liberando el tiempo de las personas para que se puedan enfocar en actividades de índole estratégica; aprovechando la creatividad humana para mejorar los negocios, en vez de ocuparlos en actividades repetitivas.</p>
+
+<p>La nueva era digital trae consigo un futuro en el cual las máquinas empiezan a aprender de los seres humanos; y a medida que estas se vuelvan mejor en su labor, su demanda y permeabilidad en el día a día de las empresas será más prevalente. Aunque esta tecnología aún se encuentra en una etapa de desarrollo, ya ha rendido sus primeros frutos mediante la Automatización Robótica de Procesos (RPA). Los robots en este caso no son físicos, sino una evolución del software, pero su objetivo es contundente con el resto de la ideología de esta revolución; permitiendo la automatización de porciones de procesos que no requieran del juicio humano.</p>
+
+<p>Para el 2020, RPA será una herramienta común y se espera que para el 2025 sea común encontrar maquinas inteligentes con capacidad de aprendizaje en gran parte de los negocios, sobrepasando la limitante transaccional de los sistemas actuales. Se espera que para el 2025 la inteligencia artificial sea parte de los negocios, esta permitirá reconocimiento y procesamiento del lenguaje natural, capacidad para trabajar con grandes volúmenes de datos no estructurados, análisis predictivo basado en un hipótesis, capacidades avanzadas de aprendizaje y mejora de rendimiento.</p>
+
+<p>¿Cuándo?: 2017-11-28, 15:30h</p>
+
+<p>¿Dónde?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLSfdOZhr8jLUNS7bbsz4AbC7pdXVAZI5MWqEpTX8WIdf9nbTQQ/viewform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/20171128-urjc-deloitte.pdf">trasparencias</a> que se usaron.</p>
+
+<p><img src="/assets/images/activities/talks/charlaDeloitte.jpg" width="100%" height="60%" /></p>
+
+<p><br /></p>
+
+<h3 id="noviembre-20-electrónica-digital-para-todos-con-fpgas-libres-juan-gonzález">(noviembre 20) Electrónica digital para todos con FPGAs libres, Juan González</h3>
+
+<p>Ponente: Juan González (ObiJuan)</p>
+
+<p>Resumen: La electrónica digital es la base con la que se diseñan todos los chips digitales que están en nuestros móviles, ordenadores, tablets, televisores… ¿Sería posible acercar esta tecnología a personas no técnicas, y que pudiesen crear sus propios circuios digitales? Con las FPGAs libres esto es viable, y podemos sintetizar circuitos sencillos en segundos, siguiendo un ciclo de diseño tan rápido como el del software. La charla será fundamentalmente práctica, donde se harán demostraciones</p>
+
+<p>¿Cuándo?: 2017-11-20, 15:30h</p>
+
+<p>¿Dónde?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLSeFEZHKYik7fEwzqfYCCOwb988UJxHHa-dCZE-Y7XAtCwrUag/viewform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/2017-11-20-URJC-FPGAs-libres.pdf">trasparencias</a> que se usaron.</p>
+
+<p><img src="/assets/images/activities/talks/charlaElectronicaJuan.jpg" width="100%" height="60%" /></p>
+
+<p><br /></p>
+
+<h3 id="marzo-28-enriqueciendo-aplicaciones-webrtc-con-kurento-miguel-parís">(marzo 28) Enriqueciendo aplicaciones WebRTC con Kurento, Miguel París</h3>
+
+<p>Ponente: Miguel París (Twilio)</p>
+
+<p>Resumen: En el marco de las aplicaciones multimedia distribuidas se expondrán los fundamentos y la filosofía de Kurento, las abstracciones que ofrece para facilitar el desarrollo de aplicaciones comunicaciones/multimedia, entre los que hablaremos de qué elemento implementa los estándares de WebRTC y de esta forma hacer una breve incursión en lo que es WebRTC y qué aporta al estado del arte actual. La idea es intercalar las explicaciones con pequeñas demos mostrando código para ver fácilmente como encajan las ideas en la práctica.</p>
+
+<p>¿Cuándo?: 2017-03-28, 17h</p>
+
+<p>¿Dónde?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLSfG9dj18RaNi1OFGptNOE3ySy_5dkV_BG5Qr-Fy7RlfVeUHDg/closedform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/urjc-march-2017-mparis-003-simpler.pdf">trasparencias</a> que se usaron.</p>
+
+<p>La puedes disfrutar en el canal de YouTube de JdeRobot:</p>
+
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/K6K9KCuODUo" width="700" height="480" frameborder="0" allowfullscreen="">
+  </iframe>
+</div>
+
+<p><br /></p>
+
+<p><br /></p>
+
+<h3 id="marzo-24-retransmisión-en-directo-desde-un-drone-usando-youtube-alberto-pavo">(marzo 24) Retransmisión en directo desde un drone usando YouTube, Alberto Pavo</h3>
+
+<p>Ponente: Alberto Pavo (GFT Spain)</p>
+
+<p>Resumen: Se introducirán las tecnologías audiovisuales, el manejo de eventos en YouTube y las librerías que proporciona Google (YouTube Data API) para el desarrollo de aplicaciones que gestionen contenido en YouTube, en concreto, eventos en directo. También se explicarán dos tipos de codificadores capaces de comunicarse con YouTube y enviar a sus servidores el contenido multimedia. Mezclando todo lo anterior se mostrará cómo se usan esas tecnologías para retransmitir el contenido captado por un drone en tiempo real.</p>
+
+<p>¿Cuándo?: 2017-03-24, 16h</p>
+
+<p>¿Dónde?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVDjOWCr5Eam3Az7iIM4geY_I0OS1XUwuDSCGNzk9rwYj81A/viewform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/traspas-youtube-2017.pdf">trasparencias</a> que se usaron.</p>
+
+<p>La puedes disfrutar en el canal de YouTube de JdeRobot:</p>
+
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/MGOKQMNmZMM" width="700" height="480" frameborder="0" allowfullscreen="">
+  </iframe>
+</div>
+
+<p><br /></p>
+
+<p><br /></p>
+
+<h2 id="2016-talks">2016 Talks</h2>
+
+<h3 id="abril-08-robótica-retos-y-soluciones-antonio-barrientos">(abril 08) Robótica: Retos y soluciones, Antonio Barrientos</h3>
+
+<p>Título: Robótica: Retos y soluciones</p>
+
+<p>Ponente: Antonio Barrientos (UPM)</p>
+
+<p>Resumen: La Robótica es una disciplina en pleno crecimiento. Firmemente asentada en el ámbito industrial, especialmente en el sector automovil, lejos de estancarse, ha abordado nuevos retos en los sectores industriales, servicios y domésticos.</p>
+
+<p>¿Cuándo?: 2016-04-08, 12h</p>
+
+<p>¿Dónde?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfaOswcCpxgShO8qJ8Hxv5lR0CvskCNTK1ay7XAmSRRmkVbQ/viewform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/traspas-robotica-abarrientos-2016.pdf">trasparencias</a> que se usaron.</p>
+
+<p>La puedes disfrutar en el canal de YouTube de JdeRobot:</p>
+
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/ZlCs67GZi5Y" width="700" height="480" frameborder="0" allowfullscreen="">
+  </iframe>
+</div>
+
+<p><br /></p>
+
+<p><br /></p>
+
+<h3 id="abril-05-técnicas-de-autolocalización-en-3d-con-visión-monocular-eduardo-perdices">(abril 05) Técnicas de autolocalización en 3D con visión monocular, Eduardo Perdices</h3>
+
+<p>Título: Técnicas de autolocalización en 3D con visión monocular</p>
+
+<p>Ponente: Eduardo Perdices (AFC ingenieros)</p>
+
+<p>Resumen: En los últimos años han surgido diversas técnicas para la localización de robots, drones y dispositivos móviles en entornos desconocidos, permitiendo obtener una localización precisa en 3D a la vez que se generan mapas del entorno en el que se encuentran. Este tipo de algoritmos han sido ya utilizados en la vida real en campos como la medicina, la educación o los videojuegos. En esta charla veremos cómo han ido evolucionando estas técnicas a lo largo de los años, destacando los algoritmos de MonoSLAM y PTAM, y explicaremos en detalle los últimos avances realizados en este campo de investigación.</p>
+
+<p>¿Cuándo?: 2016-04-05, 18h</p>
+
+<p>¿Dónde?: Aula 170, departamental-II, campus de Móstoles de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLScYG1KInmrgbhRuZVC6xGqehfnmqFlzJ4ICJPhQVqa2_seV9w/viewform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/autolocalizacion_edu-2016-traspas.pdf">trasparencias</a> que se usaron y el <a href="http://jderobot.org/store/jmplaza/uploads/charlas/autolocalizacion_edu-2016-audio.mp3">audio</a> grabado de la charla.</p>
+
+<p><img src="/assets/images/activities/talks/autolocalizacionEdu2016.jpg" width="100%" height="60%" /></p>
+
+<p><br /></p>
+
+<h3 id="marzo-30-una-introducción-práctica-a-git-victor-arribas">(marzo 30) Una introducción Práctica a Git, Victor Arribas</h3>
+
+<p>Título: Una introducción Práctica a Git</p>
+
+<p>Ponente: Victor Arribas (URJC)</p>
+
+<p>Resumen: Introducción a Git desde un punto de vista pragmático. El objetivo de la charla es motivacional. Ofrecer un por qué para usar Git, saber cómo usarlo y saber cuándo usarlo. Incluye casos prácticos, así como herramientas de apoyo, simplificación y atajos (te doy el punto de apoyo para que tú muevas el mundo – la ley de la palanca).</p>
+
+<p>La charla no explica los aspectos elementales de Git. Para los novatos y no introducidos a Git se recomienda que echen un vistazo a estos tres recursos:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">*</span> Video explicación de Git
+  https://www.youtube.com/watch?v<span class="o">=</span>fBRE5zuYUlI
+  <span class="o">(</span>videos más relevantes: 1 y 3<span class="o">)</span>
+<span class="k">*</span> Área de trabajo de Git
+  http://marklodato.github.io/visual-git-guide/index-es.html
+<span class="k">*</span> Libro official de Git <span class="o">(</span>español<span class="o">)</span>
+  https://git-scm.com/book/es/v2
+</code></pre></div></div>
+
+<p>¿Cuándo?: 2016-03-30, 13h</p>
+
+<p>¿Dónde?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLSepUBeWEA3pjD7BX3PL338m1mxV2iGr4gm4BN8lxl_qo-qDkg/viewform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/traspas-git-victor.pdf">trasparencias</a> que se usaron.</p>
+
+<p><img src="/assets/images/activities/talks/charlaGit.jpg" width="100%" height="60%" /></p>
+
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/8bIFJS8qRbo" width="700" height="480" frameborder="0" allowfullscreen="">
+  </iframe>
+</div>
+
+<p><br /></p>
+
+<p><br /></p>
+
+<h3 id="marzo-15-object-perception-life-cycle-from-detection-to-3d-shape-fitting-pablo-bustos">(marzo 15) Object perception life-cycle: from detection to 3D shape fitting, Pablo Bustos</h3>
+
+<p>Título: Object perception life-cycle: from detection to 3D shape fitting</p>
+
+<p>Ponente: Pablo Bustos (Universidad de Extremadura)</p>
+
+<p>Resumen: Object perception is a crucial aspect of current research in Social Robotics. In this talk we will describe our recent work on modeling the life-cycle of an object when it is perceived by an autonomous robot that has to locate, search, detect and recognize a household item. We follow an approach based on affordances to ask the following question, ¿If I believe the object in front of me is a table, how do I have to look at it so I can confirm it? To answer this question, the internal representation of the object will produce an adaptive plan of actions to validate the hypothesis of it being out there. These actions are visual routines that are chained to increasingly reduce the uncertainty of the potential object. Typical routines for a table object could be harris_corners or edge_following, and are called in the right order to the fixate the free parameters of the internal object. The goal is reached when a 3D geometric model is fitted to the object and tracked hereafter. We will describe work in progress towards building families of theses formal objects that know how to be perceived while adapting to occlusions and environmental changes.</p>
+
+<p>¿Cuándo?: 2016-03-15, 18h</p>
+
+<p>¿Dónde?: Aula 170, departamental-II, campus de Móstoles de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLScJcCTCGSd9Cu6msNwSWksnHyfFrfl1DasyVRKjyOoQZ0usGw/viewform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/traspas-pbustos-2016.pdf">trasparencias</a> que se usaron.</p>
+
+<p><img src="/assets/images/activities/talks/objectRecognition.png" width="100%" height="60%" /></p>
+
+<p><br /></p>
+
+<h3 id="enero-20-software-libre-en-robótica-proyecto-jderobot-josé-maría-cañas">(enero 20) Software libre en Robótica: proyecto JdeRobot, José María Cañas</h3>
+
+<p>Título: Software libre en Robótica: proyecto JdeRobot</p>
+
+<p>Ponente: José María Cañas (URJC)</p>
+
+<p>Resumen: Presentaremos la plataforma JdeRobot para la programación de robots y de aplicaciones de visión artificial. Es un proyecto de software libre que está creciendo en funcionalidad y ha recibido financiación de Google en 2015. Describiremos la arquitectura software subyancente orientada a componentes y el middleware de comunicaciones que emplea. Introduciremos los drivers de robots más utilizados y varias herramientas robóticas que incluye: visores web, calibradores, la programación visual con autómatas… También algunas otras piezas software en las que se apoya: simulador Gazebo, biblioteca PCL, openCV, ROS, etc. Además, daremos una panorámica de las aplicaciones más recientes usando JdeRobot: domótica, realidad aumentada, manejo de drones, un robot móvil en entorno industrial, kinect2, robot humanoide, monitorización de personas en 3D, etc..</p>
+
+<p>¿Cuándo?: 2016-01-20, 17h</p>
+
+<p>¿Dónde?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKWf-nei0jtfL3aVMHKVil__HsX9ieuvf6FbaDO0Yi5n2UOw/viewform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/jderobot-20160120.pdf">trasparencias</a> que se usaron.</p>
+
+<p><img src="/assets/images/activities/talks/gsoc2015Portada.png" width="100%" height="60%" /></p>
+
+<p><br /></p>
+
+<h3 id="enero-18-técnicas-de-optimización-en-visión-artificial-alberto-martín-francisco-rivas">(enero 18) Técnicas de optimización en visión artificial, Alberto Martín, Francisco Rivas</h3>
+
+<p>Título: Técnicas de optimización en visión artificial</p>
+
+<p>Ponente: Alberto Martín (Verisk Analytics), Francisco Rivas (Verisk Analytics), José María Cañas</p>
+
+<p>Resumen: Presentaremos varias técnicas de optimización (Ajuste de mínimos cuadrados, Descomposición en valores singulares -SVD-, RANSAC, Bundle Adjustment…) aplicándolas tres o cuatro problemas. El objetivo es describir las técnicas y hacer un análisis de fortalezas y debilidades sobre ejemplos concretos. Comentaremos tiempos típicos de cómputo, precisión, robustez a ruido térmico, robustez a díscolos (outliers), etc.. Empezaremos por ajustar la línea que subyace en un conjunto de puntos 2D con ruido. Continuaremos con ajustar el plano que subyace a un conjunto de puntos 3D con ruido. Abordaremos el problema del registro visual: conociendo los puntos 3D de un patrón y en qué píxeles aparecen en la imagen, estimar la posición y orientación 3D de la cámara. Conociéndo estas técnicas de optimización podrás usarlas como herramientas en problemas de visión, por ejemplo visualSLAM.</p>
+
+<p>¿Cuándo?: 2016-01-18, 18h</p>
+
+<p>¿Dónde?: Aula 170, departamental-II, campus de Móstoles de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-bNpWJDCzMrt7mrA4g_E8T9RCVwNLq10KGGQJC9DLq7ux8A/viewform">aquí</a></p>
+
+<p>Aquí tienes las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/alberto_fran_jm-optimizacion.pdf">trasparencias</a> que hemos usado.</p>
+
+<p><img src="/assets/images/activities/talks/optimizacionError.png" width="45%" height="60%" />
+<img src="/assets/images/activities/talks/charlaOptimizacion2016.jpg" width="45%" height="60%" /></p>
+
+<p><br /></p>
+
+<h3 id="enero-14-tecnologías-web-en-robótica-aitor-martínez">(enero 14) Tecnologías web en Robótica, Aitor Martínez</h3>
+
+<p>Título: Tecnologías Web en robótica</p>
+
+<p>Ponente: Aitor Martínez (URJC)</p>
+
+<p>Resumen: ¿Puedes teleoperar un drone o ver los datos de una Kinect desde el navegador de tu teléfono móvil? Html5, Javascript (JQuery, Bootstrap…), ICE-JS pueden ayudarte a ello. Las tecnologías web han incrementado enormemente su rendimiento y funcionalidad en los últimos años. Presentaremos los desarrollos más recientes en JdeRobot conectando navegadores web con los drivers de robots y sensores, directamente. Con ellos la interfaz gráfica de una aplicación robótica puedes programarla en Javascript y es multiplataforma, ya no hay que programar un GUI para cada sistema operativo.</p>
+
+<p>¿Cuándo?: 2016-01-14, 17h</p>
+
+<p>¿Dónde?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p>Como siempre, es abierta. Apúntate <a href="https://docs.google.com/forms/d/e/1FAIpQLSedP0bjE-P_zZy6Is9p_K7POFj3C5pdcJybMcO4kfM5PzrAfQ/viewform">aquí</a></p>
+
+<p>Tienes aquí las <a href="http://jderobot.org/store/jmplaza/uploads/charlas/tecnologias_web-2015.pdf">trasparencias</a> que se usaron.</p>
+
+<p><img src="/assets/images/activities/talks/tfgAitor.png" width="100%" height="60%" /></p>
+
+<p><br /></p>
+
+<p><br /></p>
+
+<h2 id="2015-talks">2015 Talks</h2>
+
+<h3 id="aplicaciones-de-autolocalización-visual-y-realidad-aumentada-yazmin-cumberbirch-y-daniel-azuara">Aplicaciones de Autolocalización visual y Realidad Aumentada, Yazmin Cumberbirch y Daniel Azuara</h3>
+
+<p>Título: Aplicaciones de Autolocalización visual y Realidad Aumentada</p>
+
+<p>Ponente: Yazmin Cumberbirch (Telefónica Global Solutions) y Daniel Azuara (Telefónica)</p>
+
+<p>Resumen: En la última década, las aplicaciones visuales se han hecho cada vez mayor hueco entre las aplicaciones punteras. La posibilidad de que un elemento que contiene una cámara pueda conocer su posición en un mundo conocido, solo haciendo uso de las imágenes de la cámara que las captura abre paso a una gran gama de aplicaciones de realidad aumentada, que pueden utilizar dicha posición calculada de la cámara para proyectar, sobre el mundo real, figuras virtuales que interactúan con dicho mundo. La interacción con el mundo puede ser tan compleja como quiera la imaginación del desarrollador y las librerías disponibles, así como su exportación a plataformas móviles para una mayor portabilidad. En esta charla, por una parte hablaremos de lo que es la autolocalización visual, así como distintas formas de realizarla, y por otra, de una serie de aplicaciones de realidad aumentada que se han desarrollado en la URJC con JdeRobot, utilizando como base las técnicas de autolocalización visual comentadas.</p>
+
+<p>¿Cuándo?: 2015-06-23, 18h</p>
+
+<p>¿Dónde?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p><img src="/assets/images/activities/talks/charlaYazmin.jpg" width="100%" height="60%" /></p>
+
+<p><br /></p>
+
+<h3 id="programando-drones-en-el-simulador-gazebo-daniel-yagüe">Programando drones en el simulador Gazebo, Daniel Yagüe</h3>
+
+<p>Título: Programando drones en el simulador Gazebo</p>
+
+<p>Ponente: Daniel Yagüe (Indra)</p>
+
+<p>Resumen: En los últimos años han aparecido varias plataformas comerciales de robots aéreos (drones) a precio asequible, se han popularizado y se ha disparado el abanico de aplicaciones que estos robots abren: juegos, grabación de escenas para cine o anuncios, transporte de mercancías, vigilancia de instalaciones, etc. El interés en este tipo de robots es enorme actualmente y se están explorando las posibilidades reales de nuevas aplicaciones. Por ejemplo, empresas punteras como Google (<a href="https://www.youtube.com/watch?v=cRTNvWcx9Oo">Project Wing</a>) o Amazon (<a href="https://www.youtube.com/watch?v=98BIu9dpwHU">Prime Air</a>) han enseñado prototipos de drones que llevan mercancía de un lugar a otro. Un tipo de drone muy exitoso son los cuadricópteros, que incorporan un sistema de vuelo con cuatro hélices y motores. La inteligencia y funcionalidad reside en su software, en los programas que ejecuta. Para preparar este software y depurarlo sin riesgo son muy útiles los simuladores. En esta charla se presenta el soporte para estos cuadricópteros en JdeRobot utilizando el simulador Gazebo y varias aplicaciones con ellos. Por un lado, los plugins de Gazebo que permiten a las aplicaciones de JdeRobot conectarse con los sensores y actuadores del cuadricóptero. Por otro, varios ejemplos de navegación del cuadricóptero programados utilizando ese soporte: seguir una carretera, navegación guiada por posición, exploración autónoma dentro de un perímetro… Esta infraestructura se ha usado con éxito en el <a href="http://jderobot.org/Programacion-de-drones">curso URJC de programación de drones</a> y se usará en el <a href="http://jderobot.org/Campeonato-programacion-de-robots">campeonato abierto de programación de drones</a> que se celebra en unas semanas.</p>
+
+<p>¿Cuándo?: 2015-06-08, 17h</p>
+
+<p>¿Dónde?: Laboratorio de Robótica: Lab III, aula 3104, campus de Fuenlabrada de la URJC</p>
+
+<p><br /></p>
+
+<h3 id="un-proyecto-exitoso-de-ingeniería-robot-móvil-industrial-autónomo-josemaría-cañas">Un proyecto exitoso de ingeniería: robot móvil industrial autónomo, JoseMaría Cañas</h3>
+
+<p>Título: Un proyecto exitoso de ingeniería: robot móvil industrial autónomo</p>
+
+<p>Ponente: José María Cañas (URJC)</p>
+
+<p>Resumen: La robotización es una tendencia creciente en los escenarios industriales y de logística. Los brazos manipuladores son los más extendidos pero con los recientes avances se están abriendo paso robots con ruedas capaces de moverse de modo seguro y transportar mercancías por sí mismos de un punto a otro en cierto entorno. Por ejemplo, Amazon equipa sus nuevos centros logísticos con una flota de robots que transportan los pedidos de modo automático y eficiente. Estos robots incorporan capacidades de navegación y autolocalización autónomas. En esta charla se presentará el caso de éxito de un robot móvil autónomo programado por el Grupo de Robótica de la URJC para un escenario industrial donde la robustez es requisito fundamental. El robot se mueve para transportar cargas y utiliza sensores RGBD, tipo Kinect, para autolocalizarse, guiarse y percibir obstáculos.</p>
+
+<p>¿Cuándo?: 2015-04-17, 17h</p>
+
+<p>¿Dónde?: Aulario II, aula 205, campus de Fuenlabrada de la URJC</p>
+
+<p><br /></p>
+
+<h3 id="simplificando-el-desarrollo-software-con-cmake-lroberto-morales">Simplificando el desarrollo software con CMake, L.Roberto Morales</h3>
+
+<p>Título: Simplificando el desarrollo software con CMake</p>
+
+<p>Ponente: Luis Roberto Morales (Blamar Automatización Y Control)</p>
+
+<p>Resumen: Conforme un proyecto software adquiere mayor funcionalidad y complejidad, se complican tareas de desarrollo y mantenimiento como pueden ser la generación de binarios, paquetes de distribución y módulos de pruebas. En esta presentación se tratará en cierta profundidad qué es y cómo funciona la herramienta Cmake (<a href="https://cmake.org/">http://www.cmake.org/</a>). Es una herramienta multiplataforma destinada a simplificar y automatizar algunas de estas tareas, y es utilizada en el desarrollo de la plataforma robótica JdeRobot así como de otros muchos proyectos de software (Netflix, KDE, mySQL…).</p>
+
+<p>¿Cuándo?: 2015-04-10, 17h</p>
+
+<p>¿Dónde?: Aulario II, aula 207, campus de Fuenlabrada de la URJC</p>
+
+<p>Transparencias: <a href="http://jderobot.org/store/lr.morales/uploads/slides/CMake-talk.pdf">CMake-talk</a></p>
+
+<p>Ejemplos: <a href="http://jderobot.org/store/lr.morales/uploads/slides/CMake-talk.tgz">CMake-examples</a></p>
+
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/BnbJRuHUg2Y" width="700" height="480" frameborder="0" allowfullscreen="">
+  </iframe>
+</div>
+
+<p><br /></p>
+
+<p><br /></p>
+
+<h2 id="2014-talks">2014 Talks</h2>
+
+<h3 id="robots-aéreos-en-la-urjc-jorge-cano-daniel-yagüe-alberto-martín-urjc">Robots aéreos en la URJC, Jorge Cano, Daniel Yagüe, Alberto Martín (URJC)</h3>
+
+<p>Título: Robots aéreos en la URJC</p>
+
+<p>Ponente: <a href="http://ieeesb.etsit.urjc.es/proyectos/wiki/Quadrotor">Jorge Cano</a>, <a href="http://jderobot.org/Daniyague-pfc">Daniel Yagüe</a> y <a href="http://jderobot.org/Amartinflorido-tfg">Alberto Martín</a></p>
+
+<p>Resumen: La tecnología robótica proporciona cada vez más aplicaciones y productos a la sociedad: aspiradoras robóticas, drones, brazos robotizados en factorías de coches, en embalaje, robots que ayudan a cirujanos, etc.. En esta exhibición se presentarán varios trabajos sobre robots aéreos desarrollados en la Universidad Rey Juan Carlos. Entre ellos un cuadricóptero construido por estudiantes de la Rama IEEE en la URJC (<a href="http://ieeesb.etsit.urjc.es/proyectos/wiki/Quadrotor">Grupo Aerologies</a>), otro cuadricóptero real (ArDrone) que <a href="http://jderobot.org/Amartinflorido-tfg">navega autónomamente siguiendo objetos</a> y otro simulado que <a href="http://jderobot.org/Daniyague-pfc#Third_attempt">sigue una carretera usando visión</a> y explora una zona en busca de objetos relevantes en tierra. Se describirá brevemente el hardware de los robots, sus sensores, así como el software y los algoritmos que le dan inteligencia.</p>
+
+<p>When: 2014-11-28, 18h</p>
+
+<p>Where: Laboratorio de Robótica URJC (archivo 7, edificio biblioteca), campus de Fuenlabrada de la URJC</p>
+
+<p>Slides: <a href="http://jderobot.org/store/jmplaza/uploads/Aerologies.pdf">Aerologies</a></p>
+
+<p><img src="/assets/images/activities/talks/charlaUAVs20141128.jpg" width="100%" height="60%" /></p>
+
+<p>This talk-exhibition has been celebrated as an event inside the <a href="http://www.eu-robotics.net/cms/index.php?idart=3202">European Robotics Week</a>.</p>
+
+<p><br /></p>
+
+<h3 id="surveillance-4-domótica-en-jderobot-daniel-castellano-ingeniería-de-software-avanzado-sa">Surveillance 4, domótica en JdeRobot, Daniel Castellano (Ingeniería de Software Avanzado, S.A.)</h3>
+
+<p>Título: Surveillance 4, domótica en JdeRobot</p>
+
+<p>Ponente: <a href="http://jderobot.org/D.castellanob-pfc">Daniel Castellano</a></p>
+
+<p>Resumen: La domótica ya no es algo que sólo pueda verse en películas y casas de revista. Cada vez está es más util y está más extendida. Por ello JdeRobot (plataforma de programación de software libre) ha implementado entre sus componentes a Surveillance, el cual permite en su última versión integrar sensores (temperatura, luz, etc.), alarmas (puerta abierta, inundación…), actuadores (encendido y apagado de luces) y videovigilancia (streaming de vídeo). Las posibilidades que ofrece este componente son muy grandes, desde las típicas de la domótica (ahorro de energía, comodidad, etc.) hasta la integración con otros componentes de Jderobot para el cuidado de ancianos. En esta charla explicaremos las bases de funcionamiento de Surveillance, las funcionalidades implementadas y las líneas de actuación futuras.</p>
+
+<p>When: 2014-02-28, 18:30h</p>
+
+<p>Where: Laboratorio de Robótica URJC (archivo 7, edificio biblioteca), campus de Fuenlabrada de la URJC</p>
+
+<p><a href="http://jderobot.org/store/jmplaza/uploads/charlas/daniel-survillance-20140228.pdf">slides</a></p>
+
+<p><br /></p>
+
+<h3 id="vision-para-robótica-geometría-y-entendimiento-javier-civera-uzaragoza">Vision para Robótica: Geometría y entendimiento, Javier Civera (U.Zaragoza)</h3>
+
+<p>Título: Vision para Robótica: Geometría y entendimiento</p>
+
+<p>Ponente: <a href="http://webdiis.unizar.es/~jcivera/">Javier Civera</a></p>
+
+<p>Resumen: El modelado del entorno de un robot a partir de información sensorial es una de las piezas claves para el desarrollo de robots autónomos capaces de interactuar y navegar de manera segura en dicho espacio. Algunas tareas robóticas (por ejemplo la navegación) precisan únicamente información geométrica de entorno. Los modelos geométricos del entorno han sido ampliamente estudiados, en gran parte bajo el nombre de Simultaneous Localization and Mapping (SLAM). Sin embargo, la realización de tareas más complejas (por ejemplo encontrar un objeto y llevarlo a una persona) requieren un mayor entendimiento de la escena; es decir, modelos de nivel semántico más alto: ¿Cómo reconozco el objeto? ¿Dónde es más probable encontrarlo? ¿Dónde está la persona? En esta presentación se expondrán una serie de trabajos recientes relacionados con la construcción de modelos geométricos y de alto nivel semántico a partir de información visual; así como las relaciones entre ambos tipos de modelos y su utilidad para robótica móvil. Se analizarán también los avances recientes en hardware y recursos computacionales (tarjetas gráficas, computación y almacenamiento en la nube) y su uso en percepción robótica.</p>
+
+<p>When: 2014-02-04, 16h</p>
+
+<p>Where: Aula 170, departamental-II, campus de Móstoles de la URJC</p>
+
+<p><br /></p>
+
+<h2 id="2013-talks">2013 Talks</h2>
+
+<h3 id="programando-robots-humanoides-con-autómatas-de-estado-finito-borja-menéndez-urjc">Programando robots humanoides con autómatas de estado finito, Borja Menéndez (URJC)</h3>
+
+<p>Título: VisualHFSM4: Programando robots humanoides con autómatas de estado finito</p>
+
+<p>Ponente: <a href="http://jderobot.org/Bmenendez-tfm">Borja Menéndez</a></p>
+
+<p>Resumen: Uno de los campos de mayor interés en robótica es el de los robots humanoides. Prototipos como el Asimo de Honda o el Fujitsu HOAP-3 son la base de muchos esfuerzos en investigación, varios de ellos para replicar tanto la inteligencia como la maniobrabilidad humanas. Sus aplicaciones son muy variadas: en terapias de enfermos de Alzheimer aprovechando su fácil aceptación por humanos, en labores de rescate (por ejemplo Darpa Robotics Challenge -DRC-) o en demostradores tecnológicos como jugar un partido de fútbol (RoboCup). Existen herramientas para facilitar su programación y en esta charla contaremos dos de ellas que hemos desarrollado para el robot humanoide Nao. En primer lugar el soporte para el Nao dentro del simulador Gazebo. Los simuladores ofrecen entornos virtuales y emulan un mundo lo más realista posible; Gazebo es el simulador de referencia para ROS y para el DRC, ampliamente usado en la comunidad robótica. En segundo lugar, una herramienta que permite programar la inteligencia del humanoide usando autómatas de estado finito: VisualHFSM. (Más información en <a href="http://jderobot.org/Bmenendez-tfm">http://jderobot.org/Bmenendez-tfm</a>).</p>
+
+<p>When: 2013-11-29, 18h</p>
+
+<p>Where: Aula 303, departamental-III, campus de Fuenlabrada</p>
+
+<p><br /></p>
+
+<h3 id="robots-industriales-autónomos-proyecto-autonav-alejandro-hernández-dta">Robots industriales autónomos: proyecto AutoNav, Alejandro Hernández (DTA)</h3>
+
+<p>Título: Robots industriales autónomos: proyecto AutoNav</p>
+
+<p>Ponente: <a href="http://jderobot.org/Ahcorde-tfm">Alejandro Hernández</a></p>
+
+<p>Resumen: En los últimos años los robots autónomos han salido de los laboratorios y están usándose en otros escenarios de manera creciente. La aspiradora robótica Roomba en el ámbito doméstico y los vehículos autónomamente guiados (AGV) en ámbito industrial son ejemplos de éxito. En esta charla el ingeniero Alejandro Hernández, de la empresa DTA, contará los etalles y la tecnología robótica desarrollada en el proyecto AutoNav, de construcción y programación de un robot autónomo capaz de arrastrar cargas pesadas. Describirá las técnicas de navegación local, navegación global, autolocalización desarrolladas. También se comentarán las aplicaciones realizadas para teleoperar desde una tableta Android al robot y el entorno de simulación creado para ajustar los algoritmos antes de llevarlos a la plataforma real. (Más información en <a href="http://jderobot.org/AutoRob">http://jderobot.org/AutoNav</a>)</p>
+
+<p>When: 2013-11-08, 18h</p>
+
+<p>Where: Sala de Grados, departamental-I, campus de Fuenlabrada</p>
+
+<p><a href="http://jderobot.org/store/jmplaza/uploads/charlas/alex-autonav-20131108.pdf">slides</a></p>
+
+<p><br /></p>
+
+<h3 id="automatic-vehicle-classification-based-on-vision-redouane-kachach-urjc">Automatic vehicle classification based on vision, Redouane Kachach (URJC)</h3>
+
+<p>Título: Monitorización tráfico rodado con visión (TrafficMonitor)</p>
+
+<p>Ponente: <a href="http://jderobot.org/Redo-phd">Redouane Kachach</a></p>
+
+<p>Resumen: Redouane Kachach, que está haciendo su tesis doctoral sobre ello, nos contará los algoritmos de visión que subyacen dentro de la aplicación TrafficMonitor. Son los que permiten al programa contar los vehículos que pasan por una carretera, estimar su velocidad y clasificarlos (moto, coche, autobus, furgoneta, etc.). TrafficMonitor es una aplicación que usa Jderobot y tiene como entrada las imágenes de una cámara encima de una carretera. Hay más detalles y videos ilustrativos <a href="http://jderobot.org/index.php/TrafficMonitor">aquí</a>.</p>
+
+<p>When: 2013-07-12, 18:30h</p>
+
+<p>Where: Laboratorio de Robótica URJC (archivo 7, edificio biblioteca), campus de Fuenlabrada</p>
+
+<p><a href="http://jderobot.org/store/jmplaza/uploads/charlas/redo-traffic_monitor-20130712.pdf">slides</a></p>
+
+<p><br /></p>
+
+<h3 id="advances-in-3d-data-processing-and-3d-cameras-miguel-cazorla-ualicante">Advances in 3D data processing and 3D cameras, Miguel Cazorla (U.Alicante)</h3>
+
+<p>Título: Avances en manejo de datos 3D y cámaras RGBD</p>
+
+<p>Ponente: <a href="http://www.dccia.ua.es/~miguel/">Dr. Miguel Cazorla</a></p>
+
+<p>Resumen: Actualmente, gracias al dispositivo Kinect, el uso de cámaras RGBD ha supuesto un gran avance tanto en el campo de la robótica como de la visión artificial. Sin embargo, el volumen de datos proporcionado por este dispositivo es enorme, por lo que es necesario disponer de métodos para reducir esta cantidad de información y hacerlo en un tiempo razonable. En esta charla vamos a ver varios métodos que hemos desarrollado para conseguir este fin. Por un lado, describiremos el uso de una red neuronal (Growing Neural Gas) que permite preservar la topología de los datos y reducir considerablemente su volumen. Sin embargo, esta red no es precisamente rápida, por lo que se propone el uso de GPUs para reducir su coste temporal. Por otro lado, describiremos un par de métodos de extracción de características para 3D, aplicados a tareas robóticas. Por último, presentaremos un método de “compresión” de datos 3D basado en planos y que permite tener en cuenta el color presente en la escena.</p>
+
+<p>When: 2013-05-13, 11:30h</p>
+
+<p>Where: Laboratorio de Robótica URJC (archivo 7, edificio biblioteca), campus de Fuenlabrada</p>
+
+<p><a href="http://jderobot.org/store/jmplaza/uploads/charlas/cazorla-traspas2013.pdf">slides</a></p>
+
+<p><br /></p>
+
+<h3 id="construcción-mapas-visuales-en-tiempo-real-josé-m-martínez-montiel-uzaragoza">Construcción Mapas Visuales en Tiempo-Real, José M. Martínez Montiel (U.Zaragoza)</h3>
+
+<p>Título: Construcción de mapas visuales en tiempo real</p>
+
+<p>Ponente: <a href="http://webdiis.unizar.es/~josemari/">José M. Martínez Montiel</a></p>
+
+<p>Resumen: Es un resultado bien conocido que a partir únicamente de una secuencia de imágenes tomadas por una cámara móvil que observa una escena puede estimarse tanto un mapa dicha escena, como la trayectoria seguida por la cámara. Este problema conocido en robótica mediante el acrónimo SLAM visual (Simultaneous sensor Location And Mapping) es uno de los más investigados en robótica móvil porque es una de las capacidades básicas para la operación autónoma de un robot. El seminario cubrirá una panorámica de los métodos de SLAM visual comenzando con los métodos focalizados en la estimación de la geometría de la escena en tiempo real. Posteriormente se abordará el contenido semántico del mapa estimado, considerando la inclusión de objetos reconocidos en los mapas. También se presentarán métodos de SLAM en aplicaciones de endoscopia médica y en escenas no rígidas.</p>
+
+<p>When: 2013-04-18, 16h</p>
+
+<p>Where: Salón de Grados del departamental-II, URJC, campus de Móstoles</p>
+
+<p><a href="http://jderobot.org/store/jmplaza/uploads/charlas/montiel-traspas.pdf">slides</a></p>
+
+<p><br /></p>
+
+<h3 id="jderobot_51-maikel-gonzález-urjc">JdeRobot_5.1, Maikel González (URJC)</h3>
+
+<p>Título: Plataforma JdeRobot 5.1 para desarrollo de aplicaciones robóticas</p>
+
+<p>Ponente: <a href="http://jderobot.org/Mikel-pfc-itis">Maikel González</a></p>
+
+<p>Resumen: En esta charla se comentarán los aportes principales de la nueva versión de esta plataforma. Especialmente el uso de cmake como herramienta en la cadena de compilación sustituyendo a autotools, el diseño de la paqueteria debian renovado y algunos componentes nuevos o refinados respecto de los existentes en Jderobot-5.0 (gazeboserver, basic_component, introrob, etc.). Además de nosotros la están usando para prácticas alumnos de dos másteres de esta universidad.</p>
+
+<p>When: 2013-03-15, 18:30h</p>
+
+<p>Where: Laboratorio de Robótica URJC (archivo 7, edificio biblioteca), campus de Fuenlabrada</p>
+
+<p><a href="http://jderobot.org/store/jmplaza/uploads/charlas/maykel_gonzalez-jderobot5.1-slides.pdf">slides</a></p>
+
+<p><br /></p>
+
+<h3 id="localization-in-unknown-environments-using-computer-vision-eduardo-perdices-urjc">Localization in unknown environments using computer vision, Eduardo Perdices (URJC)</h3>
+
+<p>Título: Localization in unknown environments using computer vision</p>
+
+<p>Ponente: <a href="http://jderobot.org/Eperdices_PhD">Eduardo Perdices</a></p>
+
+<p>Resumen: Aplicación práctica de la visión artificial para calcular la localización de una cámara en un entorno desconocido en tiempo real. Se utiliza un algoritmo conocido como MonoSLAM, que es capaz de calcular la trayectoria realizada por una cámara y de generar automáticamente un mapa del entorno utilizando un filtro extendido de Kalman (EKF). Es una oportunidad de conocer de modo distentido varios algoritmos de procesamiento visual muy chulos (echad un ojo a [1] para algún video del sistema funcionando) y la tecnología alrededor. Inspiradora.</p>
+
+<p>When: 2013-03-01, 18:30h</p>
+
+<p>Where: Laboratorio de Robótica URJC (archivo 7, edificio biblioteca), campus de Fuenlabrada</p>
+
+<p><a href="http://jderobot.org/store/jmplaza/uploads/charlas/eperdices-monoslam.pdf">slides</a></p>
+
+<p><br /></p>
+
+<h3 id="herramientas-programación-en-el-entorno-jderobot-cmake-subversion-sftp-alejandro-hernández-and-borja-menéndez-urjc">Herramientas programación en el entorno JdeRobot: CMake, subversion, sftp. Alejandro Hernández and Borja Menéndez (URJC)</h3>
+
+<p>Título: Herramientas programación en el entorno JdeRobot: CMake, subversion, sftp</p>
+
+<p>Ponente: <a href="http://jderobot.org/Ahcorde-tfm">Alejandro Hernández</a> <a href="http://jderobot.org/Bmenendez-tfm">Borja Menéndez</a></p>
+
+<p>Resumen: En esta charla se presenta la plataforma JdeRobot para la programación aplicaciones de robótica, visión computacional y sistemas sensoriales inteligentes. También se enseña a manejar varias herramientas de desarrollo útiles en proyectos software y que se emplean con asiduidad en la comunidad de JdeRobot. Por ejemplo los repositorios subversion, la cadena de compilación con CMAKE y el manejo de sftp</p>
+
+<p>When: 2013-02-25, 18:30h</p>
+
+<p>Where: Laboratorio de Robótica URJC (archivo 7, edificio biblioteca), campus de Fuenlabrada</p>
+
+<p>Slides: <a href="http://jderobot.org/store/jmplaza/uploads/charlas/alexborja-jderobot.pdf">JdeRobot</a> <a href="http://jderobot.org/store/jmplaza/uploads/charlas/alexborja-cmake.pdf">cmake</a> <a href="http://jderobot.org/store/jmplaza/uploads/charlas/alexborja-subversion.pdf">subversion</a> <a href="http://jderobot.org/store/jmplaza/uploads/charlas/alexborja-sftp.pdf">sftp</a></p>
+
+:ET
