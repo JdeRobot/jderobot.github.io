@@ -27,6 +27,10 @@ gem install jekyll bundler
 
 Notice that we don't use the `root` user :-)
 
+### Installing Ruby and Jekyll on Mac OS X
+
+Follow the Jekyll [page installation guide](https://jekyllrb.com/docs/installation/macos/).
+
 ## Running Jekyll Serve
 
 By default, the Jekyll server is launched with the following command (which is the one indicated on your website).
@@ -56,3 +60,4 @@ jekyll build --incremental --verbose
 The pages are saved in the path `/_pages/section/new_page.md`. Special care must be taken in choosing the family to which the new page will belong so that it goes in the corresponding folder.
 
 It is recommended to take as an example some `.md` file that is already done. 
+
