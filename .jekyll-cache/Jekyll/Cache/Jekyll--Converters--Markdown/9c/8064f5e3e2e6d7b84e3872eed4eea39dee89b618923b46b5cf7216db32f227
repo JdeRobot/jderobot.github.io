@@ -1,0 +1,33 @@
+I"Â<p class="notice--info"><i class="fab fa-fw fa-github"></i> <a href="https://github.com/JdeRobot/VisualCircuit"><strong>VisualStates GitHub</strong></a></p>
+
+<p>VisualCircuit is a tool for programming robot behaviors using a digital electronics language and abstractions. In reconfigurable circuits (FPGAs) a hardware description language is used to visually specify the circuit configuration and its behavior. For instance, the open source <a href="https://github.com/FPGAwars/icestudio">IceStudio</a> tool uses such visual language to configure FPGAs. The idea of this project is to explore the use of the same visual language to program reactive robot behaviors. There are blocks (existing circuits) and wires to connect their inputs and outputs.</p>
+
+<p>Instead of synthesizing the visual program into a FPGA implementation the goal is to synthesize it into a Python program. Each block is translated into a thread that runs a transforming function at fast iterations. Each iteration reads the block inputs, does some specific processing to compute the right values and writes them on its outputs. Each wire is translated into a shared variable where the blocks can write or read. The expected result is a new tool to program reactive robot behaviors using a visual language based on blocks and wires.</p>
+
+<figure class="half ">
+  
+    
+      <a href="/assets/images/projects/robot_programming_tools/color_tuner.png">
+        <img src="/assets/images/projects/robot_programming_tools/fpga-circuit.png" alt="Visual Cirtuit 1" />
+      </a>
+    
+  
+    
+      <a href="/assets/images/projects/robot_programming_tools/icestudio.png">
+        <img src="/assets/images/projects/robot_programming_tools/icestudio.png" alt="Visual Cirtuit 2" />
+      </a>
+    
+  
+  
+    <figcaption>Visual Circuit examples.
+</figcaption>
+  
+</figure>
+
+<h3 id="visual-circuits-projects">Visual Circuits Projects</h3>
+
+<ul>
+  <li><a href="https://jderobot.org/Slorenzo-tfg">Sergio Lorenzo</a>.</li>
+</ul>
+
+:ET

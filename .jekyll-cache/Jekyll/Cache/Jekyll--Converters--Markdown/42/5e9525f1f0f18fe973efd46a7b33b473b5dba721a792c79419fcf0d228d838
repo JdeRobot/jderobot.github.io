@@ -1,0 +1,285 @@
+I"�%<h2 id="introduction">Introduction</h2>
+
+<p>This tool allows to program complex robots like TurtleBot or drones with the visual language Scratch. Regular blocks from Scratch can be used in applications with Scratch2JdeRobot. In addition several blocks for some robots have been also created and can be included in the applications.</p>
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+
+  <iframe src="https://www.youtube-nocookie.com/embed/gT-qt0Opwb4" frameborder="0" allowfullscreen=""></iframe>
+
+</div>
+
+<h3 id="blocks-included-in-scratch">Blocks included in Scratch</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Wait () secs</td>
+      <td>Control Block</td>
+      <td>Pauses the script for the amount of time.</td>
+    </tr>
+    <tr>
+      <td>Forever</td>
+      <td>Control Block</td>
+      <td>A loop that will never end.</td>
+    </tr>
+    <tr>
+      <td>if () then</td>
+      <td>Control Block</td>
+      <td>Checks the condition so that if the condition is true, the blocks inside it will activate.</td>
+    </tr>
+    <tr>
+      <td>if () Then, Else</td>
+      <td>Control Block</td>
+      <td>Checks the condition so that if the condition is true, the blocks inside the first C will activate and if the condition is false, the blocks inside the second C will activate.</td>
+    </tr>
+    <tr>
+      <td>Repeat ()</td>
+      <td>Control Block</td>
+      <td>A loop that repeats the specified amount of times.</td>
+    </tr>
+    <tr>
+      <td>say ()</td>
+      <td>Looks blocks</td>
+      <td>Print what you enter as parameter.</td>
+    </tr>
+    <tr>
+      <td>Set () to ()</td>
+      <td>Variable blocks</td>
+      <td>Sets the specified variable to the amount.</td>
+    </tr>
+    <tr>
+      <td>Insert () at () of ()</td>
+      <td>List blocks</td>
+      <td>Insert item in the selected position of indicated list.</td>
+    </tr>
+    <tr>
+      <td>Item () of ()</td>
+      <td>List blocks</td>
+      <td>Returns the item stored in the indicated position.</td>
+    </tr>
+    <tr>
+      <td>Add () to ()</td>
+      <td>List blocks</td>
+      <td>Insert item in the list.</td>
+    </tr>
+    <tr>
+      <td>Delete () of ()</td>
+      <td>List blocks</td>
+      <td>Remove the item stored in the indicated position.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="blocks-for-drones">Blocks for drones</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Inputs</th>
+      <th>Outputs</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pose3D</td>
+      <td>Perceptive</td>
+      <td> </td>
+      <td>XYZ Position</td>
+      <td>Get the value of the robot 3D position.</td>
+    </tr>
+    <tr>
+      <td>Color detection</td>
+      <td>Perceptive</td>
+      <td>Color</td>
+      <td>SIZEimg, Ximg, Yimg</td>
+      <td>Colored object in image.</td>
+    </tr>
+    <tr>
+      <td>Stop robot</td>
+      <td>Motion</td>
+      <td> </td>
+      <td> </td>
+      <td>Reset all velocity values.</td>
+    </tr>
+    <tr>
+      <td>Drone Take Off</td>
+      <td>Motion</td>
+      <td> </td>
+      <td> </td>
+      <td>Makes the drone take off.</td>
+    </tr>
+    <tr>
+      <td>Drone Land</td>
+      <td>Motion</td>
+      <td> </td>
+      <td> </td>
+      <td>Makes the drone land.</td>
+    </tr>
+    <tr>
+      <td>Drone Move</td>
+      <td>Motion</td>
+      <td>direction: (forward, back, up, down, left, right), speed: {velocity (integer)}</td>
+      <td> </td>
+      <td>Gives the drone a speed in the indicated direction.</td>
+    </tr>
+    <tr>
+      <td>Drone Turn</td>
+      <td>Motion</td>
+      <td>direction: (left, right), speed: {velocity (integer)}</td>
+      <td> </td>
+      <td>Gives the drone a turning speed in the indicated direction.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="blocks-for-turtlebot">Blocks for TurtleBot</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Inputs</th>
+      <th>Outputs</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pose3D</td>
+      <td>Perceptive</td>
+      <td> </td>
+      <td>XYZ Position</td>
+      <td>Get the value of the robot 3D position.</td>
+    </tr>
+    <tr>
+      <td>Color detection</td>
+      <td>Perceptive</td>
+      <td>Color</td>
+      <td>SIZEimg, Ximg, Yimg</td>
+      <td>Colored object in image.</td>
+    </tr>
+    <tr>
+      <td>Frontal Distance</td>
+      <td>Perceptive</td>
+      <td> </td>
+      <td>The average measure of the frontal laser data</td>
+      <td>Get the average value for the values of the frontal laser</td>
+    </tr>
+    <tr>
+      <td>Robot Move</td>
+      <td>Motion</td>
+      <td>direction: (forward, back, left, right); speed: (integer)</td>
+      <td> </td>
+      <td>Gives a speed in the indicated direction</td>
+    </tr>
+    <tr>
+      <td>Robot Turn</td>
+      <td>Motion</td>
+      <td>direction: (left, right); speed: (integer)</td>
+      <td> </td>
+      <td>Gives a turning speed in the indicated direction</td>
+    </tr>
+    <tr>
+      <td>Drone Move to Position</td>
+      <td>Motion</td>
+      <td>direction: (forward, back, left, right); meter: (integer)</td>
+      <td> </td>
+      <td>Move robot the indicated meters in one direction</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="prerequisites">Prerequisites</h2>
+
+<h3 id="scratch-20">Scratch 2.0</h3>
+
+<p>Download the scratch file <a href="https://scratch.mit.edu/scratchr2/static/sa/Scratch-456.0.2.air">from here</a> and then double click to install it.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wget <span class="nt">-O</span> adobe-air.sh http://drive.noobslab.com/data/apps/AdobeAir/adobe-air.sh
+<span class="nb">chmod</span> +x adobe-air.sh<span class="p">;</span> <span class="nb">sudo</span> ./adobe-air.sh
+</code></pre></div></div>
+
+<h3 id="ros">ROS</h3>
+
+<p><a href="http://wiki.ros.org/kinetic/Installation/Ubuntu">Follow the ROS tutorial installation</a>.</p>
+
+<h3 id="python-requirements">Python requirements</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/JdeRobot/Scratch4Robots
+<span class="nb">cd </span>Scratch4Robots
+pip <span class="nb">install</span> <span class="nt">-r</span> requirements.txt
+</code></pre></div></div>
+
+<h3 id="gazebo-and-worlds">Gazebo and worlds</h3>
+
+<p>Follow the <a href="http://gazebosim.org/tutorials?tut=install_ubuntu">Gazebo tutorial installation</a>.</p>
+
+<p>With this line we get some prepared worlds based on ROS ready to use:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>apt-get <span class="nb">install </span>ros-<span class="k">${</span><span class="nv">ROS_DISTRO</span><span class="k">}</span><span class="nt">-kobuki-gazebo</span>
+</code></pre></div></div>
+
+<h2 id="installing">Installing</h2>
+
+<p>Check out the full installation video.</p>
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+
+  <iframe src="https://www.youtube-nocookie.com/embed/5JYuD8N0RBs" frameborder="0" allowfullscreen=""></iframe>
+
+</div>
+
+<h3 id="install-out-ros-package">Install out ROS package</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>apt-get <span class="nb">install </span>ros-kinetic-scratch4robots
+</code></pre></div></div>
+
+<h3 id="install-scartch4robots-extension-to-use-in-scratch">Install Scartch4Robots extension to use in Scratch</h3>
+
+<p>In scratch keep pressing shift key while you click on “File” &gt; “Import experimental HTTP extension” and add our extension. The extension will be stored in the “extension” directory of your package.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Note: This step is necessary each <span class="nb">time </span>you initialize Scratch
+</code></pre></div></div>
+
+<h3 id="download-the-tool-from-git">Download the tool from git</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/JdeRobot/Scratch4Robots.git
+</code></pre></div></div>
+
+<p>Now your package is ready to use.</p>
+
+<h2 id="how-to-use">How to Use</h2>
+
+<ol>
+  <li>
+    <p>Make a scratch project and save it.</p>
+  </li>
+  <li>Make the translation from Scratch to Python. Generate the code:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  rosrun scratch4robots scratch2python /path/to/your/scratchproject.sb2
+</code></pre></div>    </div>
+    <p>This command will generate the python script on your current work directory</p>
+  </li>
+  <li>Launch the simulated world. For example:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  roslaunch kobuki_gazebo kobuki_empty_world.launch <span class="nt">--screen</span>
+</code></pre></div>    </div>
+  </li>
+  <li>Execute the generated code. The generated code need a configuration file .yml as parameter, you will find some usefull configuration files in our git repository.
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  ./myscratchfile.py /path/to/robot_ros.yml
+</code></pre></div>    </div>
+  </li>
+  <li>Running an example. You have all you need for running the examples in the examples folder.</li>
+</ol>
+:ET

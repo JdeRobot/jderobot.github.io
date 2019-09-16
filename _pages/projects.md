@@ -22,7 +22,7 @@ projects:
     alt: "Robot Programming Tools"
     title: "Robot Programming Tools"
     excerpt: "Several development areas: robot programming tools, learning robotics, drones, SLAM algorithms, DeepLearning. All of them are open for collaboration."
-    url: "/projects/robot_programming_tools/"
+    url: "/projects/robots_programming_tools/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
@@ -46,7 +46,7 @@ projects:
     alt: "FPGAs in robotics"
     title: "FPGAs in robotics"
     excerpt: "[Neural FPGA project](https://github.com/JdeRobot/neuralFPGA) goal is to produce custom hardware able to do inference over generic neural networks. In order to test our hardware designs we rely on hardware simulations and FPGAs."
-    url: "/projects/fpgas_in_robotics/"
+    url: "/projects/fpga/fpga_robotics/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
@@ -68,6 +68,23 @@ projects:
 
 ---
 
+# Development Areas
+
 Our (international) community mainly works on five development areas:
 
 {% include feature_row_advanced %}
+
+
+## Previous projects
+
+
+- [People Tracking](http://jderobot.org/ElderCare).
+- [TrafficMonitor](http://jderobot.org/TrafficMonitor).
+- [Home Automation](http://jderobot.org/Surveillance).
+- [Industrial AGVs](http://jderobot.org/AutoRob).
+- [Robot Navigation](http://jderobot.org/RobotNavigationLocalization).
+- [Robot Localization](http://jderobot.org/RobotLocalization).
+- [Robot Maps](http://jderobot.org/RobotMaps).
+- [Robot Vision and Attention](http://jderobot.org/RobotVision).
+- [Computer Vision](http://jderobot.org/ComputerVision).
+- [Software Architecture for Robotics](http://jderobot.org/SoftwareArchitecture).

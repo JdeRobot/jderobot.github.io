@@ -1,0 +1,194 @@
+I"C<p>Our (international) community mainly works on five development areas:</p>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/projects/visual_states.png" alt="Robot Programming Tools" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Robot Programming Tools</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Several development areas: robot programming tools, learning robotics, drones, SLAM algorithms, DeepLearning. All of them are open for collaboration.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/projects/robots_programming_tools/" class="btn btn--primary">Go!</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/projects/robotics-academy-action.jpg" alt="Robotics Academy" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Robotics Academy</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>JdeRobot-Academy is an open source collection of exercises to learn robotics in a practical way. Programmed in Python, the Gazebo simulator and the ROS environment are used.</p>
+
+            </div>
+          
+
+          
+            <p><a href="https://jderobot.github.io/RoboticsAcademy/" class="btn btn--primary">Go!</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/projects/detection_suite.png" alt="Deep Learning" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Deep Learning</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p><a href="https://github.com/JdeRobot/DetectionSuite">DeepLearning Suite</a> is a set of tool that simplify the evaluation of most common object detection datasets with several object detection neural networks.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/projects/deep_learning/" class="btn btn--primary">Go!</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/projects/fpga.jpg" alt="FPGAs in robotics" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">FPGAs in robotics</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p><a href="https://github.com/JdeRobot/neuralFPGA">Neural FPGA project</a> goal is to produce custom hardware able to do inference over generic neural networks. In order to test our hardware designs we rely on hardware simulations and FPGAs.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/projects/fpga/fpga_robotics/" class="btn btn--primary">Go!</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/projects/visual_slam.png" alt="Visual Slam" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Visual Slam</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p><a href="https://github.com/JdeRobot/SDslam">VisualSLAM</a> uses computer vision to locate a 3D camera with 6 degrees of freedom inside a unknown environment and, at the same time, create a map of this environment.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/projects/visual_slam/" class="btn btn--primary">Go!</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/projects/drones.png" alt="Drones" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Drones</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>The new Hardware Abstraction Layer (HAL) for working in robotic applications for Unmanned Aerial Vehicles (UAVs) in JdeRobot is based on using ROS/Gazebo, PX4 and MavROS.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/projects/drones/" class="btn btn--primary">Go!</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+:ET
