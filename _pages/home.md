@@ -41,21 +41,23 @@ youTube_id: ID7qaEcIu4k
 Robotics applications are typically distributed, made up of a collection of concurrent asynchronous components which communicate using some middleware (ROS messages, ICE, DDS...). Building robotics applications is a complex task. Integrating existing nodes or libraries, which provide already solved functionality, and using several tools may increase the software robustness and shorten the development time. JdeRobot toolkit provides several tools, libraries and reusable nodes for Robotics and Computer Vision.
 
 Features:
-- ROS friendly (full compatible with ROS-Kinetic).
-- C++, Python, JavaScript.
-- Open Source.
-- Easy installation from debian, PIP and npm packages.
+* ROS friendly (full compatible with ROS-Kinetic).
+* C++, Python, JavaScript.
+* Open Source.
+* Easy installation from debian, PIP and npm packages.
 
 
-Our (international) community mainly works on six development areas:
+Our (international) community mainly works on six fields inside Robotics and Computer Vision:
+
+<center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle;background-color:#f8f8b0}
 .tg .tg-kmbl{font-weight:bold;background-color:#c0c0c0;color:#000000;border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top;background-color:#f8f8b0}
 </style>
 <table class="tg">
   <tr>
@@ -106,6 +108,7 @@ Our (international) community mainly works on six development areas:
   </tr>
 </table>
 
+</center>
 
 
 ## News
@@ -136,10 +139,8 @@ We are working on:
 
 ## License
 
-<figure class="third">
-    JdeRobot is open source. All its code is licensed under GPL v3. <img src="/assets/images/cover/GPLv3.png" style="width:200px;"> 
-    All the documentation of JdeRobot project is licensed under Creative Commons by-sa <img src="/assets/images/cover/CC_BY-SA_3.0.png" style="width:200px;">
-</figure>
+* <img src="/assets/images/cover/GPLv3.png" style="width:200px;"> JdeRobot is open source. All its code is licensed under GPL v3.
+* <img src="/assets/images/cover/CC_BY-SA_3.0.png" style="width:200px;"> All the documentation of JdeRobot project is licensed under Creative Commons by-sa 
 
 ## Sponsors
 
