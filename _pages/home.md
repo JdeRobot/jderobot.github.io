@@ -41,21 +41,23 @@ youTube_id: ID7qaEcIu4k
 Robotics applications are typically distributed, made up of a collection of concurrent asynchronous components which communicate using some middleware (ROS messages, ICE, DDS...). Building robotics applications is a complex task. Integrating existing nodes or libraries, which provide already solved functionality, and using several tools may increase the software robustness and shorten the development time. JdeRobot toolkit provides several tools, libraries and reusable nodes for Robotics and Computer Vision.
 
 Features:
-- ROS friendly (full compatible with ROS-Kinetic).
-- C++, Python, JavaScript.
-- Open Source.
-- Easy installation from debian, PIP and npm packages.
+* ROS friendly (full compatible with ROS-Kinetic).
+* C++, Python, JavaScript.
+* Open Source.
+* Easy installation from debian, PIP and npm packages.
 
 
-Our (international) community mainly works on five development areas:
+Our (international) community mainly works on six fields inside Robotics and Computer Vision:
+
+<center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle;background-color:#f8f8b0}
 .tg .tg-kmbl{font-weight:bold;background-color:#c0c0c0;color:#000000;border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top;background-color:#f8f8b0}
 </style>
 <table class="tg">
   <tr>
@@ -100,13 +102,20 @@ Our (international) community mainly works on five development areas:
   <tr>
     <td class="tg-0pky"><a href="https://github.com/JdeRobot/FPGA-robotics">FPGA-robotics </a>designing robot intelligence with IceStudio blocks</td>
   </tr>
+  <tr>
+    <td class="tg-lboi" rowspan="2">Drones</td>
+    <td class="tg-0pky"><a href="https://wiki.jderobot.org/Drones">Drones</a> infrastructure and applications</td>
+  </tr>
 </table>
 
+</center>
 
 
-## Last two videos
+## News
 
-This is the last two videos published in YouTube channel.
+* JdeRobot was accepted as a mentoring organization for Google Summer of Code 2019, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2019) and our candidate selection process.
+* The last stable release, JdeRobot/base 5.6.7 has been released (2019/03/12): full compatible with ROS Kinetic.
+* 3rd edition of Program-A-Robot Challenge was celebrated inside the International Conference on Intelligent Robots and Systems (IROS 2018) (2018/10/03). Watch the summary video: a drone (cat) searches and pursues a moving target (mouse).
 
 <figure class="half">
     <a href="/assets/images/cover/projects.png"><iframe src="https://www.youtube.com/embed/gDP9nWCL0Vg"></iframe></a>
@@ -114,10 +123,29 @@ This is the last two videos published in YouTube channel.
     <figcaption>Last two videos from YouTube channel.</figcaption>
 </figure>
 
+## Roadmap
+
+We are working on:
+
+* Update of underlying infrastructure: jump to Ubuntu 18.04, ROS Melodic Morenia, Gazebo9 simulator, Python 3.5.
+* Use of reconfigurable hardware (FPGAs) in robotics, with third party open tools like IceStudio
+* [VisualStates tool](https://jderobot.github.io/VisualStates) for visual programming of the robot intelligence with Finite State Machines. It creates a C++ or a Python component from the visual description of the automata.
+* Scratch4Robots tool for programming of TurtleBot and drones using Scratch visual language
+* [RoboticsAcademy](https://jderobot.github.io/RoboticsAcademy): a framework to learn robotics and computer vision with drones, autonomous cars.... It is a collection of Python programmed exercises. Include a web service for this.
+* (*done*) <del>Compatibility with ROS robotics middleware: interoperation between ROS nodes and JdeRobot components, use of ROS drivers, use of ROS bag files...</del> JdeRobot (>= 5.6) is fully compatible with ROS Kinetic including its official debian packages
+* (*done*) <del>Update of underlying infrastructure: jump to Ubuntu 16.04, OpenCV-3, migration to Gazebo-7 simulator (revisit existing plugins and models), PCL-1.8, ICE-3.6</del>
+* (*done*) <del>Use of Web technologies in robotics: ICE-JS, WebRTC, HTML5, electron, nodeJS... </del> Many webtools have been developed: viewers, teleoperators and drivers.
+
+
+## License
+
+* <img src="/assets/images/cover/GPLv3.png" style="width:200px;"> JdeRobot is open source. All its code is licensed under GPL v3.
+* <img src="/assets/images/cover/CC_BY-SA_3.0.png" style="width:200px;"> All the documentation of JdeRobot project is licensed under Creative Commons by-sa 
+
 ## Sponsors
 
 <figure class="third">
-    <a href="https://summerofcode.withgoogle.com" target="_blank"><img src="/assets/images/cover/GSoC.png"></a>
-    <a href="http://www.qualoom.es" target="_blank"><img src="/assets/images/cover/logo_qualoom.png"></a>
-    <a href="https://urjc.es" target="_blank"><img src="/assets/images/cover/logoURJC.jpg"></a>
+    <a href="https://summerofcode.withgoogle.com" target="_blank"><img src="/assets/images/cover/GSoC.png" style="width:200px;"></a>
+    <a href="http://www.qualoom.es" target="_blank"><img src="/assets/images/cover/logo_qualoom.png" style="width:200px;"></a>
+    <a href="https://urjc.es" target="_blank"><img src="/assets/images/cover/logoURJC.jpg" style="width:200px;"></a>
 </figure>
