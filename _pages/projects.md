@@ -29,7 +29,7 @@ projects:
   - image_path: /assets/images/projects/robotics-academy-action.jpg
     alt: "Robotics Academy"
     title: "Robotics Academy"
-    excerpt: "JdeRobot-Academy is an open source collection of exercises to learn robotics in a practical way. Programmed in Python, the Gazebo simulator and the ROS environment are used."
+    excerpt: "RoboticsAcademy is an open source collection of exercises to learn robotics in a practical way. Programmed in Python, the Gazebo simulator and the ROS framework are used."
     url: "https://jderobot.github.io/RoboticsAcademy/"
     btn_class: "btn--primary"
     btn_label: "Go!"
@@ -68,14 +68,14 @@ projects:
 
 ---
 
-## Development Areas
+# Project Fields
 
-Our (international) community mainly works on five development areas:
+Our (international) community mainly works on six fields inside Robotics and Computer Vision:
 
 {% include feature_row_advanced %}
 
 
-## Previous projects
+## Previous project fields
 
 
 - [People Tracking](http://jderobot.org/ElderCare).
