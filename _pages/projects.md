@@ -68,7 +68,7 @@ projects:
 
 ---
 
-# Development Areas
+## Development Areas
 
 Our (international) community mainly works on five development areas:
 

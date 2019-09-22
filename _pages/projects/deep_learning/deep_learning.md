@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/projects/deep_learning/detection_suite.png
     alt: "Detection Suite"
     title: "Detection Suite"
-    excerpt: ""
+    excerpt: "Tool to test and train different DeepLearning architectures for object detection on images."
     url: "/projects/deep_learning/detection_suite/"
     btn_class: "btn--primary"
     btn_label: "Go!"
@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/projects/deep_learning/object_detector.png
     alt: "Object Detector"
     title: "Object Detector"
-    excerpt: ""
+    excerpt: "Easily window which simultaneously shows on real-time the image captured from a webcam or video ..."
     url: "/projects/deep_learning/object_detector/"
     btn_class: "btn--primary"
     btn_label: "Go!"
@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/images/projects/deep_learning/neural_fpga.png
     alt: "Neural FPGA"
     title: "Neural FPGA"
-    excerpt: ""
+    excerpt: "Custom hardware able to do inference over generic neural networks using only open source tools."
     url: "/projects/deep_learning/neural_fpga/"
     btn_class: "btn--primary"
     btn_label: "Go!"  
