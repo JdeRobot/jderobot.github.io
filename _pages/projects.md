@@ -68,8 +68,6 @@ projects:
 
 ---
 
-[comment]: # # blablabla 
-
 # Project Fields
 
 Our (international) community mainly works on six fields inside Robotics and Computer Vision:

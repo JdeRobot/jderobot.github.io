@@ -88,14 +88,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Go!"
 
-  - image_path: /assets/images/projects/robot_programming_tools/fpga_robotics.png
-    alt: "FPGA Robots"
-    title: "FPGA Robots"
-    excerpt: "**Add a short description describing the project to introduce it. The text must have 3 lines.**"
-    url: "/projects/robotics_programming_tools/fpga_robots/"
-    btn_class: "btn--primary"
-    btn_label: "Go!"
-
   - image_path: /assets/images/projects/robot_programming_tools/pyonarduino.png
     alt: "PyOnArduino"
     title: "PyOnArduino"
