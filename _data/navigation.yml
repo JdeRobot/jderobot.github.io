@@ -17,8 +17,8 @@ docs:
     children:
       - title: "Robot Programming Tools"
         url: /projects/robots_programming_tools/
-      - title: "Robotics-Academy"
-        url: /projects/robotics_academy/
+      - title: "Robotics Education & Games"
+        url: /projects/robotics_education/
       - title: "Deep Learning"
         url: /projects/deep_learning/
       - title: "FPGAs in robotics"
