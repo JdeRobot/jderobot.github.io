@@ -5,8 +5,9 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/cover/header.png
   actions:
-    #- label: "<i class='fas fa-download'></i> Install now"
-    #  url: "/installation/"
+    - label: "<i class='fas fa-github'></i> GitHub"
+      url: "https://github.com/JdeRobot"
+    - label: "<i class='fas fa-github'></i> Twitter"
 excerpt: 
   Open toolkit for developing Robotics applications
 feature_row:
@@ -34,10 +35,11 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"   
 youTube_id: ID7qaEcIu4k
+
 ---
 
 
-<figure class="third">
+<figure class="third" style="text-align: center">
     <a href="https://github.com/JdeRobot" target="_blank"><img src="/assets/images/cover/github_social_button.png" style="width:200px;"></a>
     <a href="https://twitter.com/jderobot" target="_blank"><img src="/assets/images/cover/twitter_social_button.png" style="width:200px;"></a>
     <a href="https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ/videos" target="_blank"><img src="/assets/images/cover/youtube_social_button.png" style="width:200px;"></a>
@@ -159,7 +161,7 @@ We are working on:
 ## Sponsors
 
 <figure class="third">
-    <a href="https://summerofcode.withgoogle.com" target="_blank"><img src="/assets/images/cover/GSoC.png" style="width:300px;"></a>
-    <a href="http://www.qualoom.es" target="_blank"><img src="/assets/images/cover/logo_qualoom.png" style="width:200px;"></a>
-    <a href="https://urjc.es" target="_blank"><img src="/assets/images/cover/logoURJC.jpg" style="width:300px;"></a>
+    <a href="https://summerofcode.withgoogle.com" target="_blank"><img src="/assets/images/cover/GSoC.png" style="width:400px;"></a>
+    <a href="http://www.qualoom.es" target="_blank"><img src="/assets/images/cover/logo_qualoom.png" style="width:400px;"></a>
+    <a href="https://urjc.es" target="_blank"><img src="/assets/images/cover/logoURJC.jpg" style="width:400px;"></a>
 </figure>
