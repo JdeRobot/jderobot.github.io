@@ -8,12 +8,12 @@ header:
     #- label: "<i class='fas fa-download'></i> Install now"
     #  url: "/installation/"
 excerpt: 
-  Toolkit for developing Robotics and Computer Vision applications
+  Open toolkit for developing Robotics applications
 feature_row:
   - image_path: /assets/images/cover/community.jpg
     alt: "Community"
     title: "Community"
-    excerpt: "The JdeRobot project is open to contributions at development, documentation, testing, integration and research."
+    excerpt: "The JdeRobot organization is open to contributions at development, documentation, testing, integration and research."
     url: "/community/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/images/cover/projects.png
     alt: "Projects"
     title: "Projects"
-    excerpt: "Several development areas: robot programming tools, learning robotics, drones, SLAM algorithms, DeepLearning. All of them are open for collaboration."
+    excerpt: "Several development fields: robot programming tools, DeepLearning, FPGAs, Education, drones, SLAM algorithms,. All of them are open for collaboration."
     url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -29,22 +29,32 @@ feature_row:
   - image_path: /assets/images/cover/activities.jpg
     alt: "Activities"
     title: "Activities"
-    excerpt: "Some of the activities of the association where students from different areas come together to put together a common project."
+    excerpt: "Some of the activities of the organization where students from different areas come together to put together a common project."
     url: "/activities/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
 youTube_id: ID7qaEcIu4k
 ---
 
+
+<figure class="third">
+    <a href="https://github.com/JdeRobot" target="_blank"><img src="/assets/images/cover/github_social_button.png" style="width:200px;"></a>
+    <a href="https://twitter.com/jderobot" target="_blank"><img src="/assets/images/cover/twitter_social_button.png" style="width:200px;"></a>
+    <a href="https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ/videos" target="_blank"><img src="/assets/images/cover/youtube_social_button.png" style="width:200px;"></a>
+</figure>
+
 {% include feature_row %}
 
 Robotics applications are typically distributed, made up of a collection of concurrent asynchronous components which communicate using some middleware (ROS messages, ICE, DDS...). Building robotics applications is a complex task. Integrating existing nodes or libraries, which provide already solved functionality, and using several tools may increase the software robustness and shorten the development time. JdeRobot toolkit provides several tools, libraries and reusable nodes for Robotics and Computer Vision.
 
-Features:
-* ROS friendly (full compatible with ROS-Kinetic).
-* C++, Python, JavaScript.
-* Open Source.
-* Easy installation from debian, PIP and npm packages.
+
+| Main Features |
+| :--- |
+| ROS friendly (full compatible with ROS-Kinetic) |
+| C++, Python, JavaScript |
+| Open Source |
+| Easy installation from debian, PIP and npm packages |
+
 
 
 Our (international) community mainly works on six fields inside Robotics and Computer Vision:
@@ -111,16 +121,20 @@ Our (international) community mainly works on six fields inside Robotics and Com
 </center>
 
 
+We are registered as **non-profit organization** in Spain Ref.#615800.
+
+
 ## News
 
+* All our web pages are finally being migrated to GitHub Pages: nice, under version control and convenient
 * JdeRobot was accepted as a mentoring organization for Google Summer of Code 2019, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2019) and our candidate selection process.
-* The last stable release, JdeRobot/base 5.6.7 has been released (2019/03/12): full compatible with ROS Kinetic.
-* 3rd edition of Program-A-Robot Challenge was celebrated inside the International Conference on Intelligent Robots and Systems (IROS 2018) (2018/10/03). Watch the summary video: a drone (cat) searches and pursues a moving target (mouse).
+* The last stable release, [JdeRobot/base 5.6.7](https://github.com/JdeRobot/base/wiki/JdeRobot-5.6.7) has been released (2019/03/12): full compatible with ROS Kinetic.
+* 3rd edition of [Program-A-Robot Challenge](https://jderobot.github.io/activities/competitions/2018) was celebrated inside the [International Conference on Intelligent Robots and Systems (IROS 2018)](https://www.iros2018.org/competitions) (2018/10/03). Watch the [summary video](https://www.youtube.com/watch?v=VFBL6zuXqgo): a drone (cat) searches and pursues a moving target (mouse).
 
 <figure class="half">
     <a href="/assets/images/cover/projects.png"><iframe src="https://www.youtube.com/embed/gDP9nWCL0Vg"></iframe></a>
     <a href="/assets/images/cover/activities.jpg"><iframe src="https://www.youtube.com/embed/jyvfMFERDig"></iframe></a>
-    <figcaption>Last two videos from YouTube channel.</figcaption>
+<!--    <figcaption>Last two videos from YouTube channel.</figcaption> -->
 </figure>
 
 ## Roadmap
@@ -145,7 +159,7 @@ We are working on:
 ## Sponsors
 
 <figure class="third">
-    <a href="https://summerofcode.withgoogle.com" target="_blank"><img src="/assets/images/cover/GSoC.png" style="width:200px;"></a>
+    <a href="https://summerofcode.withgoogle.com" target="_blank"><img src="/assets/images/cover/GSoC.png" style="width:300px;"></a>
     <a href="http://www.qualoom.es" target="_blank"><img src="/assets/images/cover/logo_qualoom.png" style="width:200px;"></a>
-    <a href="https://urjc.es" target="_blank"><img src="/assets/images/cover/logoURJC.jpg" style="width:200px;"></a>
+    <a href="https://urjc.es" target="_blank"><img src="/assets/images/cover/logoURJC.jpg" style="width:300px;"></a>
 </figure>
