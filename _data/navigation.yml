@@ -39,7 +39,7 @@ docs:
 
   - title: "Activities"
     children:
-      - title: "GSoC-2019"
+      - title: "GSoC"
         url: /activities/gsoc/
       - title: "Robotics courses"
         url: /activities/robotics_courses/
