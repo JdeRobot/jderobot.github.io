@@ -30,7 +30,7 @@ projects:
     alt: "Robotics Academy"
     title: "Robotics Academy"
     excerpt: "RoboticsAcademy is an open source collection of exercises to learn robotics in a practical way. Programmed in Python, the Gazebo simulator and the ROS framework are used."
-    url: "https://jderobot.github.io/RoboticsAcademy/"
+    url: "/projects/robotics_education/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
