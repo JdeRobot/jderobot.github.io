@@ -13,7 +13,7 @@ feature_row:
     alt: "Detection Suite"
     title: "Detection Suite"
     excerpt: "Tool to test and train different DeepLearning architectures for object detection on images."
-    url: "/projects/deep_learning/detection_suite/"
+    url: "DetectionSuite/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 

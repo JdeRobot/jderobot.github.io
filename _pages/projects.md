@@ -37,7 +37,7 @@ projects:
   - image_path: /assets/images/projects/detection_suite.png
     alt: "Deep Learning"
     title: "Deep Learning"
-    excerpt: "[DeepLearning Suite](https://github.com/JdeRobot/DetectionSuite) is a set of tool that simplify the evaluation of most common object detection datasets with several object detection neural networks."
+    excerpt: "Development areas: evaluation of deep learning detection and segmentation models, dataset creation, object detection and hardware customization with neural FPGAs."
     url: "/projects/deep_learning/"
     btn_class: "btn--primary"
     btn_label: "Go!" 
