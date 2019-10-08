@@ -39,7 +39,7 @@ docs:
 
   - title: "Activities"
     children:
-      - title: "GSoC"
+      - title: "Google Summer of Code"
         url: /activities/gsoc/
       - title: "Robotics courses"
         url: /activities/robotics_courses/
