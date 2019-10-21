@@ -49,14 +49,12 @@ youTube_id: ID7qaEcIu4k
 
 Robotics applications are typically distributed, made up of a collection of concurrent asynchronous components which communicate using some middleware (ROS messages, ICE, DDS...). Building robotics applications is a complex task. Integrating existing nodes or libraries, which provide already solved functionality, and using several tools may increase the software robustness and shorten the development time. JdeRobot toolkit provides several tools, libraries and reusable nodes for Robotics and Computer Vision.
 
-
 | Main Features |
 | :--- |
 | ROS friendly (full compatible with ROS-Kinetic) |
 | C++, Python, JavaScript |
 | Open Source |
 | Easy installation from debian, PIP and npm packages |
-
 
 
 Our (international) community mainly works on six fields inside Robotics and Computer Vision:
@@ -128,6 +126,10 @@ We are registered as **non-profit organization** in Spain Ref.#615800.
 
 
 ## News
+
+<div align="center">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">JdeRobot mentors <a href="https://twitter.com/pushkalkatara?ref_src=twsrc%5Etfw">@pushkalkatara</a> and <a href="https://twitter.com/diegommartin?ref_src=twsrc%5Etfw">@diegommartin</a> are with more than other 140 <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> orgs at the Google Summer of Code Mentor Summit 2019 in Munich, sharing our project results and having fun. <a href="https://twitter.com/hashtag/GSoC2019?src=hash&amp;ref_src=twsrc%5Etfw">#GSoC2019</a> <a href="https://twitter.com/gsoc?ref_src=twsrc%5Etfw">@gsoc</a> <a href="https://t.co/VZt4kfKdxm">pic.twitter.com/VZt4kfKdxm</a></p>&mdash; JdeRobot (@JdeRobot) <a href="https://twitter.com/JdeRobot/status/1185665974852292608?ref_src=twsrc%5Etfw">October 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 * All our web pages are finally being migrated to GitHub Pages: nice, under version control and convenient
 * JdeRobot was accepted as a mentoring organization for Google Summer of Code 2019, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2019) and our candidate selection process.
