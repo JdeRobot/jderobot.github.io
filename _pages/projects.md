@@ -1,4 +1,5 @@
 ---
+title: Project Fields
 layout: collection
 permalink: /projects/
 
@@ -27,8 +28,8 @@ projects:
     btn_label: "Go!"
 
   - image_path: /assets/images/projects/robotics-academy-action.jpg
-    alt: "Robotics Academy"
-    title: "Robotics Academy"
+    alt: "Robotics Education and Games"
+    title: "Robotics Education & Games"
     excerpt: "RoboticsAcademy is an open source collection of exercises to learn robotics in a practical way. Programmed in Python, the Gazebo simulator and the ROS framework are used."
     url: "/projects/robotics_education/"
     btn_class: "btn--primary"
@@ -37,7 +38,7 @@ projects:
   - image_path: /assets/images/projects/detection_suite.png
     alt: "Deep Learning"
     title: "Deep Learning"
-    excerpt: "[DeepLearning Suite](https://github.com/JdeRobot/DetectionSuite) is a set of tool that simplify the evaluation of most common object detection datasets with several object detection neural networks."
+    excerpt: "Development areas: evaluation of deep learning detection and segmentation models, dataset creation, object detection and hardware customization with neural FPGAs."
     url: "/projects/deep_learning/"
     btn_class: "btn--primary"
     btn_label: "Go!" 
@@ -68,7 +69,6 @@ projects:
 
 ---
 
-# Project Fields
 
 Our (international) community mainly works on six fields inside Robotics and Computer Vision:
 
@@ -78,13 +78,13 @@ Our (international) community mainly works on six fields inside Robotics and Com
 ## Previous project fields
 
 
-- [People Tracking](http://jderobot.org/ElderCare).
-- [TrafficMonitor](http://jderobot.org/TrafficMonitor).
-- [Home Automation](http://jderobot.org/Surveillance).
-- [Industrial AGVs](http://jderobot.org/AutoRob).
-- [Robot Navigation](http://jderobot.org/RobotNavigationLocalization).
-- [Robot Localization](http://jderobot.org/RobotLocalization).
-- [Robot Maps](http://jderobot.org/RobotMaps).
-- [Robot Vision and Attention](http://jderobot.org/RobotVision).
-- [Computer Vision](http://jderobot.org/ComputerVision).
-- [Software Architecture for Robotics](http://jderobot.org/SoftwareArchitecture).
+- [People Tracking](http://wiki.jderobot.org/ElderCare)
+- [TrafficMonitor](http://wiki.jderobot.org/TrafficMonitor)
+- [Home Automation](http://wiki.jderobot.org/Surveillance)
+- [Industrial AGVs](http://wiki.jderobot.org/AutoRob)
+- [Robot Navigation](http://viki.jderobot.org/RobotNavigationLocalization)
+- [Robot Localization](http://wiki.jderobot.org/RobotLocalization)
+- [Robot Maps](http://wiki.jderobot.org/RobotMaps)
+- [Robot Vision and Attention](http://wiki.jderobot.org/RobotVision)
+- [Computer Vision](http://wiki.jderobot.org/ComputerVision)
+- [Software Architecture for Robotics](http://wiki.jderobot.org/SoftwareArchitecture)
