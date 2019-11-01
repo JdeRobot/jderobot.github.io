@@ -5,10 +5,7 @@ title: "GSoC"
 sidebar:
   nav: "docs"
 
-toc: true
-toc_label: "TOC gsoc"
-toc_icon: "cog"
-
+classes: wide
 ---
 
 
