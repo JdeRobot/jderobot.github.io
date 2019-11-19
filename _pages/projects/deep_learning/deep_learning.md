@@ -33,7 +33,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Go!"
 
-  - image_path: /assets/images/projects/deep_learning/neural_fpga.png
+  - image_path: /assets/images/projects/neural_behavior/autonomous.jpeg
     alt: "Neural Behavior"
     title: "Neural Behavior"
     excerpt: "Different types of neural networks that allow learning behavior "
