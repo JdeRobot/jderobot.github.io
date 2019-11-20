@@ -31,7 +31,15 @@ feature_row:
     excerpt: "Custom hardware able to do inference over generic neural networks using only open source tools."
     url: "/projects/deep_learning/neural_fpga/"
     btn_class: "btn--primary"
-    btn_label: "Go!"  
+    btn_label: "Go!"
+
+  - image_path: /assets/images/projects/neural_behavior/autonomous.jpeg
+    alt: "Neural Behavior"
+    title: "Neural Behavior"
+    excerpt: "Different types of neural networks that allow learning behavior "
+    url: "/projects/deep_learning/neural_behavior/"
+    btn_class: "btn--primary"
+    btn_label: "Go!"
 ---
 
 
