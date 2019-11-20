@@ -1,5 +1,5 @@
 ---
-permalink: /projects/deep_learning/neural_behavior
+permalink: /projects/deep_learning/neural_behavior/
 title: "Neural Behavior"
 
 sidebar:
