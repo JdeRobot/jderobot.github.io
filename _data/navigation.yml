@@ -24,7 +24,7 @@ docs:
       - title: "Robot Programming Tools"
         url: /projects/robots_programming_tools/
       - title: "Visual SLAM"
-        url: /projects/visual_slam/visual_slam/
+        url: /projects/visual_slam/visual_slam
       - title: "Drones"
         url: /projects/drones/drones/
 
