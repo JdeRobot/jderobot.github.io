@@ -15,14 +15,14 @@ main:
 docs:
   - title: "Projects"
     children:
-      - title: "Robot Programming Tools"
-        url: /projects/robots_programming_tools/
       - title: "Robotics Education & Games"
         url: /projects/robotics_education/
       - title: "Deep Learning"
         url: /projects/deep_learning/
       - title: "FPGAs in robotics"
         url: /projects/fpga_robotics/fpga_robotics/
+      - title: "Robot Programming Tools"
+        url: /projects/robots_programming_tools/
       - title: "Visual SLAM"
         url: /projects/visual_slam/visual_slam/
       - title: "Drones"
