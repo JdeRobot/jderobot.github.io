@@ -1,6 +1,6 @@
 ---
 title: "Nacho Arranz"
-excerpt: "PiBot, RoboticsAcademy, KiBotics, Unibotics."
+excerpt: "PiBot, RoboticsAcademy, Kibotics, Unibotics."
 header:
   #image: 
   teaser: /assets/images/community/contributors/nachoaz.jpg
