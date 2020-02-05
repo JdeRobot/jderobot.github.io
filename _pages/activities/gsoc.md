@@ -34,7 +34,9 @@ gallery2:
 
 
 
-**JdeRobot** has been represented on **4 occasions** where students from many **parts of the world** have collaborated in software development. Take a look at the projects presented and the students involved.
+**JdeRobot** has been represented on **4 times** where students from many **parts of the world** have collaborated in software development. Take a look at the projects presented and the students involved.
+
+[GSoC-2020 application page](/activities/gsoc/2020)
 
 {% include gallery id="gallery" layout="half" %}
 
@@ -42,8 +44,13 @@ gallery2:
 
 
 ## Previous GSoC students
-
-- [Pushkal Katara](https://jderobot.org/Club-PushkalKatara) (GSoC-2018) VisualStates tool.
+- [Nikhil Khedekar](https://theroboticsclub.github.io/colab-gsoc2019-Nikhil_Khedekar/) (GSoC-2019) Migration to ROS of drones exercises on JdeRobot Academy. 
+- [Shyngyskhan Abilkassov](https://theroboticsclub.github.io/colab-gsoc2019-Shyngyskhan_Abilkassov) (GSoC-2019) Amazon warehouse exercise on JdeRobot Academy
+- [Jeevan Kumar](https://theroboticsclub.github.io/colab-gsoc2019-Jeevan_Kumar/) (GSoC-2019) Improving DetectionSuite Deep Learning tool.
+- [Baidyanath Kundu](https://theroboticsclub.github.io/colab-gsoc2019-Baidyanath_Kundu/) (GSoC-2019) A parameterized automata Library for VisualStates tool.
+- [Srinivasan Vijayraghavan](https://theroboticsclub.github.io/colab-gsoc2019-Srinivasan_Vijayraghavan/) (GSoC-2019) Running Python code on the web browser.
+- [Pankhuri Vanjani](https://jderobot.org/Club-PushkalKatara) (GSoC-2019) Migration of JdeRobot tools to ROS 2.
+- [Pushkal Katara](https://theroboticsclub.github.io/colab-gsoc2019-Pankhuri_Vanjani/) (GSoC-2018) VisualStates tool.
 - [Arsalan Akhter](https://jderobot.org/Club-aakhter) (GSoC-2018) Robotics-Academy.
 - [Hanqing Xie](https://jderobot.org/Club-hanqingxie) (GSoC-2018) Robotics-Academy.
 - [Sergio Paniego](https://jderobot.org/Club-spaniego) (GSoC-2018) PyOnArduino tool.
