@@ -31,9 +31,6 @@ projects:
     title: "Carlos Awadallah"
     excerpt: "Kibotics, Academy"
 
-
-
-
   - image_path: /assets/images/community/contributors/debrup.jpg
     alt: "Debrup Datta"
     title: "Debrup Datta"
@@ -134,15 +131,15 @@ projects:
     title: "Pushkal Katara"
     excerpt: "Visual States Tool"
 
-  - image_path: /assets/images/community/contributors/redo.png
-    alt: "Redouane Kachach"
-    title: "Redouane Kachach"
-    excerpt: "Calibrator, imgrectifier, SmartTrafficSensor"
-
   - image_path: /assets/images/community/contributors/rperez.jpg
     alt: "Roberto Pérez"
     title: "Roberto Pérez"
     excerpt: "Webtools, WebSim2D, 3DViz"
+
+  - image_path: /assets/images/community/contributors/ralvarez.jpg
+    alt: "Rubén Álvarez"
+    title: "Rubén Álvarez"
+    excerpt: "Kibotics, Websim"
 
   - image_path: /assets/images/community/contributors/sergio-paniego.jpg
     alt: "Sergio Paniego"
@@ -167,3 +164,4 @@ projects:
 ## Previous JdeRobot Contributors
 
 - [Carlos Rodríguez](https://github.com/crodriguezgarci): PiBot, RoboticsAcademy, Kibotics, Academy.
+- [Redouane Kachach](): Calibrator, imgrectifier, SmartTrafficSensor.
