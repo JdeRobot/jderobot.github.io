@@ -158,30 +158,29 @@ projects:
 
 ## Previous and awesome JdeRobot Contributors
 
-- [Carlos Rodríguez](https://github.com/crodriguezgarci): PiBot, RoboticsAcademy, Kibotics, Academy
-- [Iñaki San Román](https://github.com/IgnacioSRL): MachineLearning-openCV tool
-- [Redouane Kachach](https://github.com/rkachach): Calibrator, imgrectifier, SmartTrafficSensor
-- [Juan Gonzalez](https://github.com/Obijuan): FPGA-robotics
-- Gonzalo Abella: v4l2 driver
-- Victor Arribas: ArDroneServer (GPS support), libEasyIce, refactoring of quadrotor2 and flyingkinect plugins for Gazebo
-- Jianxiong Cai (ShanghaiTech University): mapGenerator project
-- Roberto Calvo (IMDEA Networks): project maintainer, Surveillance, components in Android, 3DPeopleTracker
-- Satyaki Chakraborty (GSoC-2015): compatibiliy with ROS
-- Agustín Gallardo: calibrator
-- Teodoro González: gazebo driver
-- Maikel González: introrob, basic component, cmake
-- Alejandro Hernández (ERLE Robotics): replayer, recorder, kinectserver
-- Victor Hidalgo: CarSpeed
-- Lihang Li (GSoC-2015): RTABmap component for visual 3D localization
-- Javier Martín: evi driver, mplayer driver
-- Sara Marugán: ElderCare, cameraserver
-- Borja Menéndez: project maintainer, NaoServer, Nao in Gazebo, visualHFSM
-- Andrei Militaru (GSoC-2015): ROScompatibility library
-- Juan Navarro: flyingkinect
-- Raúl Pérula (Robotrónica, GSoC-2017): Scratch2JdeRobot tool
-- Antonio Pineda: firewire driver, player driver, ElderCare
-- Samuel Rey: visualStates tool
-- Rubén Salamanqués: visualHFSM
-- Jose Antonio Santos: project maintainer, wiimote driver, wiioperator, mastergui, graphics_gtk, opflow, mplayer
-- Daniel Yagüe: Drones in Gazebo
-
+- [Carlos Rodríguez](https://github.com/crodriguezgarci): PiBot, RoboticsAcademy, Kibotics, Academy.
+- [Iñaki San Román](https://github.com/IgnacioSRL): MachineLearning-openCV tool.
+- [Redouane Kachach](https://github.com/rkachach): Calibrator, imgrectifier, SmartTrafficSensor.
+- [Juan Gonzalez](https://github.com/Obijuan): FPGA-robotics.
+- **Gonzalo Abella**: v4l2 driver.
+- **Victor Arribas**: ArDroneServer (GPS support), libEasyIce, refactoring of quadrotor2 and flyingkinect plugins for Gazebo.
+- **Jianxiong Cai** (ShanghaiTech University): Map Generator project.
+- **Roberto Calvo** (IMDEA Networks): Project maintainer, Surveillance, components in Android, 3DPeopleTracker
+- **Satyaki Chakraborty** (GSoC-2015): Compatibiliy with ROS.
+- **Agustín Gallardo**: Calibrator.
+- **Teodoro González**: Gazebo driver.
+- **Maikel González**: Introrob, basic component, cmake.
+- [**Alejandro Hernández**](https://github.com/ahcorde) (ERLE Robotics): replayer, recorder, kinectserver.
+- **Victor Hidalgo**: CarSpeed.
+- **Lihang Li** (GSoC-2015): RTABmap component for visual 3D localization.
+- **Javier Martín**: Evi driver, mplayer driver.
+- **Sara Marugán**: ElderCare, Cameraserver.
+- [**Borja Menéndez**](https://github.com/bmenendez): Project maintainer, NaoServer, Nao in Gazebo, visualHFSM.
+- **Andrei Militaru** (GSoC-2015): ROScompatibility library.
+- **Juan Navarro**: Flyingkinect.
+- **Raúl Pérula** (Robotrónica, GSoC-2017): Scratch2JdeRobot tool.
+- **Antonio Pineda**: firewire driver, player driver, ElderCare.
+- **Samuel Rey**: Visual States tool.
+- **Rubén Salamanqués**: visualHFSM.
+- **Jose Antonio Santos**: project maintainer, wiimote driver, wiioperator, mastergui, graphics_gtk, opflow, mplayer.
+- **Daniel Yagüe**: Drones in Gazebo.
