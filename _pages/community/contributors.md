@@ -106,11 +106,6 @@ projects:
     title: <a href='https://github.com/nkhedekar' target='_blank'>Nikhil Khedekar</a>
     excerpt: "RoboticsAcademy, drones"
 
-  - image_path: /assets/images/community/contributors/obijuan-friki.jpg
-    alt: "Juan Gonzalez"
-    title: <a href='https://github.com/Obijuan' target='_blank'>Juan Gonzalez</a>
-    excerpt: "JdeRobot-HW"
-
   - image_path: /assets/images/community/contributors/okan-asik.jpg
     alt: "Okan Asik"
     title: <a href='https://github.com/okanasik' target='_blank'>Okan Asik</a>
@@ -166,3 +161,4 @@ projects:
 - [Carlos Rodríguez](https://github.com/crodriguezgarci): PiBot, RoboticsAcademy, Kibotics, Academy.
 - [Iñaki San Román](https://github.com/IgnacioSRL): MachineLearning-openCV tool.
 - [Redouane Kachach](https://github.com/rkachach): Calibrator, imgrectifier, SmartTrafficSensor.
+- [Juan Gonzalez](https://github.com/Obijuan): JdeRobot-HW.
