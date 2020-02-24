@@ -3,17 +3,18 @@ main:
   - title: "Projects"
     url: /projects
 # url: /projects/index/
+  - title: Activities
+    url: /activities/
   - title: Community
 #    url: /community/index/
     url: /community
-  - title: Activities
-    url: /activities/
   - title: About
     url: /about/
 
 # left side bar
 docs:
   - title: "Projects"
+    url: /projects
     children:
       - title: "Robotics Education & Games"
         url: /projects/robotics_education/
@@ -28,16 +29,8 @@ docs:
       - title: "Drones"
         url: /projects/drones/drones/
 
-  - title: Community
-    children:
-      - title: "Contributors"
-        url: /community/contributors/
-      - title: "Students"
-        url: /community/students/
-      - title: "Robotics Club"
-        url: /community/robotics_club/
-
   - title: "Activities"
+    url: /activities/
     children:
       - title: "Google Summer of Code"
         url: /activities/gsoc/
@@ -47,4 +40,14 @@ docs:
         url: /activities/talks/
       - title: "Competitions"
         url: /activities/competitions/
-  
+
+  - title: Community
+    url: /community
+    children:
+      - title: "Contributors"
+        url: /community/contributors/
+      - title: "Students"
+        url: /community/students/
+      - title: "Robotics Club"
+        url: /community/robotics_club/
+
