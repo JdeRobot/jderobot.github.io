@@ -8,6 +8,12 @@ sidebar:
 classes: wide
 
 
+gsoc2020:
+  - url: /activities/gsoc/2020
+    image_path: /assets/images/activities/gsoc-2020.jpg
+    alt: "GSoC 2020"
+    title: "GSoC 2020"
+
 gallery:
   - url: /activities/gsoc/2019
     image_path: /assets/images/activities/gsoc/gsoc-2019.jpg
@@ -16,9 +22,7 @@ gallery:
   - url: /activities/gsoc/2018
     image_path: /assets/images/activities/gsoc/gsoc-2018.jpg
     alt: "GSoC 2018"
-    title: "GSoC 2018"  
-
-gallery2:
+    title: "GSoC 2018"
   - url: /activities/gsoc/2017
     image_path: /assets/images/activities/gsoc/gsoc-2017.jpg
     alt: "GSoC 2017"
@@ -30,17 +34,18 @@ gallery2:
 ---
 
 ![](/assets/images/activities/GSoC_mini.png){: .align-right}
-**The Google Summer of Code** (GSoC), is an international annual program, first held from May to August 2005, in which Google awards stipends, which depends on the purchasing power parity of the country the student's university belongs to, to all students who successfully complete a requested free and open-source software coding project during the summer. The program is open to university students aged 18 or over. (source [Wikipedia](https://en.wikipedia.org/wiki/Google_Summer_of_Code)).
 
+[**The Google Summer of Code**](https://summerofcode.withgoogle.com/) (GSoC), is an international annual program, first held from May to August 2005, in which Google awards stipends, which depends on the purchasing power parity of the country the student's university belongs to, to all students who successfully complete a requested free and open-source software coding project during the summer. The program is open to university students aged 18 or over. (source [Wikipedia](https://en.wikipedia.org/wiki/Google_Summer_of_Code)).
 
+Once again, Google has selected JdeRobot to continue growing as a robotics project by reaching out to collaborators around the world. An exciting adventure. You can see the [**current projects here**](/activities/gsoc/2020):
 
-**JdeRobot** has been represented on **4 times** where students from many **parts of the world** have collaborated in software development. Take a look at the projects presented and the students involved.
+{% include gallery id="gsoc2020" layout="" %}
 
-[GSoC-2020 application page](/activities/gsoc/2020)
+## Previous GSoC projects
+
+**JdeRobot** has been represented on **5 times** where students from many **parts of the world** have collaborated in software development. Take a look at the previous projects and get to know the students involved.
 
 {% include gallery id="gallery" layout="half" %}
-
-{% include gallery id="gallery2" layout="half" %}
 
 ## Previous GSoC students
 

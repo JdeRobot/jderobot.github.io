@@ -123,10 +123,10 @@ We are registered as **non-profit organization** in Spain Ref.#615800.
 ## News
 
 <div align="center">
-<a class="twitter-timeline" data-lang="en" data-width="800" data-height="700" href="https://twitter.com/JdeRobot?ref_src=twsrc%5Etfw">Tweets by JdeRobot</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a class="twitter-timeline" data-lang="en" data-width="800" data-height="700" href="https://twitter.com/JdeRobot?ref_src=twsrc%5Etfw">Tweets by JdeRobot</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-* JdeRobot has been accepted as a mentoring organization for Google Summer of Code 2020, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2020) and our candidate selection process.
+* **JdeRobot has been accepted as a mentoring organization for Google Summer of Code 2020**, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2020) and our candidate selection process.
 * The last stable release, JdeRobot-5.7.0, has been released as debian package (2020/02/14): full compatible with ROS Melodic.
 * All our web pages are finally being migrated to GitHub Pages: nice, under version control and convenient.
 <!-- * JdeRobot was accepted as a mentoring organization for Google Summer of Code 2019, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2019) and our candidate selection process. --> 
