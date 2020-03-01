@@ -49,14 +49,12 @@ youTube_id: ID7qaEcIu4k
 
 Robotics applications are typically distributed, made up of a collection of concurrent asynchronous components which communicate using some middleware (ROS messages, ICE, DDS...). Building robotics applications is a complex task. Integrating existing nodes or libraries, which provide already solved functionality, and using several tools may increase the software robustness and shorten the development time. JdeRobot toolkit provides several tools, libraries and reusable nodes for Robotics and Computer Vision.
 
-
 | Main Features |
 | :--- |
 | ROS friendly (full compatible with ROS-Kinetic) |
 | C++, Python, JavaScript |
 | Open Source |
 | Easy installation from debian, PIP and npm packages |
-
 
 
 Our (international) community mainly works on six fields inside Robotics and Computer Vision:
@@ -125,9 +123,14 @@ We are registered as **non-profit organization** in Spain Ref.#615800.
 
 
 ## News
+
+<div align="center">
+<a class="twitter-timeline" data-lang="en" data-width="800" data-height="700" href="https://twitter.com/JdeRobot?ref_src=twsrc%5Etfw">Tweets by JdeRobot</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 * JdeRobot has been accepted as a mentoring organization for Google Summer of Code 2020, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2020) and our candidate selection process.
 * The last stable release, JdeRobot-5.7.0, has been released as debian package (2020/02/14): full compatible with ROS Melodic.
-* All our web pages are finally being migrated to GitHub Pages: nice, under version control and convenient
+* All our web pages are finally being migrated to GitHub Pages: nice, under version control and convenient.
 <!-- * JdeRobot was accepted as a mentoring organization for Google Summer of Code 2019, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2019) and our candidate selection process. --> 
 <!--  * The last stable release, [JdeRobot/base 5.6.7](https://github.com/JdeRobot/base/wiki/JdeRobot-5.6.7) has been released (2019/03/12): full compatible with ROS Kinetic. -->
 <!-- * 3rd edition of [Program-A-Robot Challenge](https://jderobot.github.io/activities/competitions/2018) was celebrated inside the [International Conference on Intelligent Robots and Systems (IROS 2018)](https://www.iros2018.org/competitions) (2018/10/03). Watch the [summary video](https://www.youtube.com/watch?v=VFBL6zuXqgo): a drone (cat) searches and pursues a moving target (mouse). -->

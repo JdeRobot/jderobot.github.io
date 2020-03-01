@@ -45,20 +45,20 @@ feature_row:
 
 # See our work and results
 
-[Twitter account](https://twitter.com/jderobot)
-
-[YouTube channel](https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ)
-
-[GitHub repositories](https://github.com/JdeRobot)
+<figure class="third" style="text-align: center">
+    <a href="https://github.com/JdeRobot" target="_blank"><img src="/assets/images/cover/github_social_button.png" style="width:200px;"></a>
+    <a href="https://twitter.com/jderobot" target="_blank"><img src="/assets/images/cover/twitter_social_button.png" style="width:200px;"></a>
+    <a href="https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ/videos" target="_blank"><img src="/assets/images/cover/youtube_social_button.png" style="width:200px;"></a>
+</figure>
 
 
 
 # Questions and support
 
-The general mailing list for jderobot users and developers is jderobot [at] gsyc [dot] urjc [dot] es.
+The general mailing list for jderobot users and developers is jde-developers [at] gsyc [dot] urjc [dot] es.
 
 It is open, and you can automatically subscribe at this **[SUBSCRIPTION PAGE](https://gsyc.urjc.es/cgi-bin/mailman/listinfo/jde-developers)**
-Are you looking for a certain message or topic?, search it in the **[ARCHIVE OF PREVIOUS MESSAGES](http://jderobot-developer-list.2315034.n4.nabble.com/)**
+Are you looking for a certain message or topic?, search it in the **[ARCHIVE OF PREVIOUS MESSAGES](http://jderobot-developer-list.2315034.n4.nabble.com/)** or in this [alternative archive](https://gsyc.urjc.es/pipermail/jde-developers/index.html)
 
 The main way to ask for support is to use the GitHub repository of the software piece you are interested in.
 

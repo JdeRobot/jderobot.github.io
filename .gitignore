@@ -11,6 +11,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Jekyll generated files
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+
 # Distribution / packaging
 .Python
 env/

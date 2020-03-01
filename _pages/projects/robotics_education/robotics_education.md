@@ -2,6 +2,14 @@
 permalink: /projects/robotics_education/
 title: "Robotics Education & Games"
 
+youtubeId1: s7p5MFL2xjA
+youtubeId2: I967nzeSSZg
+youtubeId3: Jhw3R0SjNc4
+youtubeId4: hrSIM2HUEaA
+youtubeId5: KLDX4OPTL_c
+youtubeId6: T1-6Y4ulEnQ
+
+
 sidebar:
   nav: "docs"
 
@@ -15,29 +23,46 @@ classes: wide
 &nbsp;
 &nbsp;
 
-# Unibotics 
-
-Open on line platform to learn Robotics and Computer Vision and enjoy solving Robotics challenges (programming games). [Play!](https://unibotics.org)
 
 
-# Robotics Academy
 
-<i class="fab fa-fw fa-github"></i> [**Robotics Academy GitHub**](https://github.com/JdeRobot/RoboticsAcademy)
-{: .notice--info}
+# JdeRobot Academy
 
+It is an **open source** collection of exercises to learn robotics in a practical way for engineering students. Gazebo simulator is the main tool required, as ROS. The students program their solutions in **Python language**. Each exercise is composed of:
 
-<a href="https://jderobot.github.io/RoboticsAcademy/" target="_blank"><img src="/assets/images/projects/robotics_academy/robotics_academy_banner.png"></a>
-{: .text-center}
+1. Gazebo configuration files
+2. A ROS node that hosts the student's code, i.e. a **template** 
+3. A webpage with theory contents, instructions and hints to perform.
+4. The student solution itself
 
-[RoboticsAcademy](https://jderobot.github.io/RoboticsAcademy/) is an **open source** collection of exercises to learn robotics in a practical way. Gazebo simulator is the main tool required, as ROS. The students program their solutions in **Python language**. Each exercise is composed of :
+Configuration files, ROS template and webpage are already provided. The student has to develop her code on a separate file, the template, filling in the implementation of a function. The student may use there a simple Python API to access to _sensor readings and actuator commands_ (HAL API) and a simple Python API for _Graphical User Interface and debugging_ (GUI API). 
 
-1. Gazebo configuration files,
-2. A ROS node that hosts the student's code,
-3. A file with instructions, hints, etc..
-4. The student solution itself.
+[JdeRobot Academy](https://jderobot.github.io/RoboticsAcademy/) includes exercises about Autonomous Cars, Mobile robots, Drones and Computer Vision.
 
+<figure class="half">
+    <a href=""><iframe src="https://www.youtube.com/embed/s7p5MFL2xjA"></iframe></a>
+    <a href=""><iframe src="https://www.youtube.com/embed/I967nzeSSZg"></iframe></a>
+</figure>
 
-1, 2, and 3 are already provided, the student has to develop her code on a separate file which already has a **template**. The student may use there an existing simple Python API to access to sensor readings and actuator `commands_` (HAL API) and she may use an existing simple Python API for Graphical User Interface and `debugging_` (GUI API). To develop her solution the student has to edit that template file and add her code, using her favorite text editor.
+<figure class="half">
+    <a href=""><iframe src="https://www.youtube.com/embed/KLDX4OPTL_c"></iframe></a>
+    <a href=""><iframe src="https://www.youtube.com/embed/T1-6Y4ulEnQ"></iframe></a>
+</figure>
 
+<!-- 
+{% include youtubePlayer.html id=page.youtubeId1 %}
+{% include youtubePlayer.html id=page.youtubeId2 %}
+-->
 
-**Check out at the [project website](https://jderobot.github.io/RoboticsAcademy/)**.
+# Kibotics 
+
+Online platform to learn Robotics for children. [Take a look!](https://www.youtube.com/channel/UCVH_ODFODyRUidhtR0IIZnw/videos)
+
+<!--
+{% include youtubePlayer.html id=page.youtubeId3 %}
+-->
+
+<figure class="half">
+    <a href=""><iframe src="https://www.youtube.com/embed/Jhw3R0SjNc4"></iframe></a>
+    <a href=""><iframe src="https://www.youtube.com/embed/hrSIM2HUEaA"></iframe></a>
+</figure>
