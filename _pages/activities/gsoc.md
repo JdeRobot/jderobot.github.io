@@ -42,8 +42,8 @@ gallery2:
 
 {% include gallery id="gallery2" layout="half" %}
 
-
 ## Previous GSoC students
+
 - [Nikhil Khedekar](https://theroboticsclub.github.io/colab-gsoc2019-Nikhil_Khedekar/) (GSoC-2019) Migration to ROS of drones exercises on JdeRobot Academy. 
 - [Shyngyskhan Abilkassov](https://theroboticsclub.github.io/colab-gsoc2019-Shyngyskhan_Abilkassov) (GSoC-2019) Amazon warehouse exercise on JdeRobot Academy
 - [Jeevan Kumar](https://theroboticsclub.github.io/colab-gsoc2019-Jeevan_Kumar/) (GSoC-2019) Improving DetectionSuite Deep Learning tool.

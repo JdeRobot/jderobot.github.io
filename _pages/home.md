@@ -119,11 +119,9 @@ Our (international) community mainly works on six fields inside Robotics and Com
   </tr>
 </table>
 
-
 </div>
 
 We are registered as **non-profit organization** in Spain Ref.#615800.
-
 
 ## News
 
