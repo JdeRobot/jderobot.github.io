@@ -26,7 +26,7 @@ classes: wide
   - [Pablo Moreno](https://roboticslaburjc.github.io/2019-tfm-pablo-moreno/), robotics education with Kibotics
   - [Nacho Condés](https://roboticslaburjc.github.io/2019-tfm-nacho_condes/), DeepLearning perception for a social autonomous robot
   - Álvaro Paniagua, robotics education with Kibotics, data design
-  - David Pascual, Convolutional Pose Machines
+  - [David Pascual](https://roboticslaburjc.github.io/2017-tfm-david-pascual/), Convolutional Pose Machines
   - Nuria Oyaga, Predicting images, learning time sequences
 <!---  - Mikel Díez, visual perception on an autonomous boat  -->
   - Carlos Awadallah, Robotics Academy

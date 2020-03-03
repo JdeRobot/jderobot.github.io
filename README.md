@@ -19,7 +19,7 @@ echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 ```
 
-Finally, we install Jekyll:
+Finally, we install Jekyll ([Jekyll Site](https://jekyllrb.com/)):
 
 ```bash
 gem install jekyll bundler
