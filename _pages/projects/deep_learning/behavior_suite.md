@@ -1,6 +1,6 @@
 ---
-permalink: /projects/deep_learning/neural_behavior/
-title: "Neural Behavior"
+permalink: /projects/deep_learning/behavior_suite
+title: "Behavior Suite"
 
 sidebar:
   nav: "docs"
@@ -13,7 +13,7 @@ classes: wide
 
 
 
-## Neural Behavior Projects
+## Behavior Suite Projects
 
 
 - [Vanessa Fernández](https://jderobot.org/Vmartinezf-tfm) (master): Deep Learning for Visual Control.

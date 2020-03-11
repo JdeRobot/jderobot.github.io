@@ -34,10 +34,10 @@ feature_row:
     btn_label: "Go!"
 
   - image_path: /assets/images/projects/neural_behavior/autonomous.jpeg
-    alt: "Neural Behavior"
-    title: "Neural Behavior"
+    alt: "BehaviorSuite"
+    title: "Behavior Suite"
     excerpt: "Different types of neural networks that allow learning behavior "
-    url: "/projects/deep_learning/neural_behavior/"
+    url: "/projects/deep_learning/behavior_suite"
     btn_class: "btn--primary"
     btn_label: "Go!"
 ---

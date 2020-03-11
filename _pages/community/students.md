@@ -29,7 +29,6 @@ classes: wide
   - [David Pascual](https://roboticslaburjc.github.io/2017-tfm-david-pascual/), Convolutional Pose Machines
   - Nuria Oyaga, Predicting images, learning time sequences
 <!---  - Mikel Díez, visual perception on an autonomous boat  -->
-  - Carlos Awadallah, Robotics Academy
   - [Omar Garrido](https://roboticslaburjc.github.io/2019-tfm-omar-garrido), VisualSLAM algorithm with RGBD sensors
   - [Javier Martínez](https://roboticslaburjc.github.io/2018-tfm-javier-martinez), VisualSLAM including IMU information
 <!---  - [Francisco J. Palacios](https://roboticslaburjc.github.io/2018-tfm-Francisco-Palacios), SDSLAMmobile: visualSLAM in Android for Augmented Reality applications. -->
@@ -63,13 +62,17 @@ classes: wide
 
 # Previous students
 
+## 2020
+  - Carlos Awadallah (master), Robotics Academy
+
+
 ## 2019
-  - [Rubén Álvarez](https://roboticslaburjc.github.io/2019-tfg-ruben-alvarez), WebSim robot simulator.
-  - [Elías Barcia](https://roboticslaburjc.github.io/2017-tfm-elias-barcia), visual SLAM, slam-testbed tool
-  - [Alexandre Rodríguez](https://roboticslaburjc.github.io/2017-tfm-alexandre-rodriguez), Visual multiobject tracker with DeepLearning
-  - [Jéssica Fernández](https://roboticslaburjc.github.io/2018-tfm-Jessica-Fernandez), DeepLearning for visual detection and tracking
-  - [Vanessa Fernández](https://roboticslaburjc.github.io/2017-tfm-vanessa-fernandez), DeepLearning for learning a visual controller
-  - [Ignacio Malo](http://roboticslaburjc.github.io/2016-tfg-Ignacio-Malo), robotic arm exercise in RoboticsAcademy
+  - [Rubén Álvarez](https://roboticslaburjc.github.io/2019-tfg-ruben-alvarez) (grad), WebSim robot simulator.
+  - [Elías Barcia](https://roboticslaburjc.github.io/2017-tfm-elias-barcia) (master), visual SLAM, slam-testbed tool
+  - [Alexandre Rodríguez](https://roboticslaburjc.github.io/2017-tfm-alexandre-rodriguez) (master), Visual multiobject tracker with DeepLearning
+  - [Jéssica Fernández](https://roboticslaburjc.github.io/2018-tfm-Jessica-Fernandez) (master), DeepLearning for visual detection and tracking
+  - [Vanessa Fernández](https://roboticslaburjc.github.io/2017-tfm-vanessa-fernandez) (master), DeepLearning for learning a visual controller
+  - [Ignacio Malo](http://roboticslaburjc.github.io/2016-tfg-Ignacio-Malo) (grad), robotic arm exercise in RoboticsAcademy
 
 
 

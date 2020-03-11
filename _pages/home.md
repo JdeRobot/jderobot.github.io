@@ -122,16 +122,18 @@ We are registered as **non-profit organization** in Spain Ref.#615800.
 
 ## News
 
+* **JdeRobot has been accepted as a mentoring organization for Google Summer of Code 2020**, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2020) and our candidate selection process.
+* The last stable release, JdeRobot-5.7.0, has been released as debian package (2020/02/14): full compatible with ROS Melodic.
+<!-- * All our web pages are finally being migrated to GitHub Pages: nice, under version control and convenient. -->
+<!-- * JdeRobot was accepted as a mentoring organization for Google Summer of Code 2019, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2019) and our candidate selection process. --> 
+<!--  * The last stable release, [JdeRobot/base 5.6.7](https://github.com/JdeRobot/base/wiki/JdeRobot-5.6.7) has been released (2019/03/12): full compatible with ROS Kinetic. -->
+<!-- * 3rd edition of [Program-A-Robot Challenge](https://jderobot.github.io/activities/competitions/2018) was celebrated inside the [International Conference on Intelligent Robots and Systems (IROS 2018)](https://www.iros2018.org/competitions) (2018/10/03). Watch the [summary video](https://www.youtube.com/watch?v=VFBL6zuXqgo): a drone (cat) searches and pursues a moving target (mouse). -->
+
+
 <div align="center">
   <a class="twitter-timeline" data-lang="en" data-width="800" data-height="700" href="https://twitter.com/JdeRobot?ref_src=twsrc%5Etfw">Tweets by JdeRobot</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-* **JdeRobot has been accepted as a mentoring organization for Google Summer of Code 2020**, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2020) and our candidate selection process.
-* The last stable release, JdeRobot-5.7.0, has been released as debian package (2020/02/14): full compatible with ROS Melodic.
-* All our web pages are finally being migrated to GitHub Pages: nice, under version control and convenient.
-<!-- * JdeRobot was accepted as a mentoring organization for Google Summer of Code 2019, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2019) and our candidate selection process. --> 
-<!--  * The last stable release, [JdeRobot/base 5.6.7](https://github.com/JdeRobot/base/wiki/JdeRobot-5.6.7) has been released (2019/03/12): full compatible with ROS Kinetic. -->
-<!-- * 3rd edition of [Program-A-Robot Challenge](https://jderobot.github.io/activities/competitions/2018) was celebrated inside the [International Conference on Intelligent Robots and Systems (IROS 2018)](https://www.iros2018.org/competitions) (2018/10/03). Watch the [summary video](https://www.youtube.com/watch?v=VFBL6zuXqgo): a drone (cat) searches and pursues a moving target (mouse). -->
 
 <figure class="half">
     <a href="/assets/images/cover/projects.png"><iframe src="https://www.youtube.com/embed/gDP9nWCL0Vg"></iframe></a>
@@ -148,7 +150,8 @@ We are working on:
 * [VisualStates tool](https://jderobot.github.io/VisualStates) for visual programming of the robot intelligence with Finite State Machines. It creates a C++ or a Python component from the visual description of the automata.
 <!-- * Scratch4Robots tool for programming of TurtleBot and drones using Scratch visual language -->
 * [RoboticsAcademy](https://jderobot.github.io/RoboticsAcademy): a framework to learn robotics and computer vision with drones, autonomous cars.... It is a collection of Python programmed exercises. Include a web service for this.
-* (*done*) <del>Compatibility with ROS robotics middleware: interoperation between ROS nodes and JdeRobot components, use of ROS drivers, use of ROS bag files...</del> JdeRobot (>= 5.6) is fully compatible with ROS Kinetic including its official debian packages
+* (*done*) <del>All our web pages are finally being migrated to GitHub Pages: nice, under version control and convenient</del>
+* (*done*) <del>Compatibility with ROS robotics middleware: interoperation between ROS nodes and JdeRobot components, use of ROS drivers, use of ROS bag files... JdeRobot (>= 5.6) is fully compatible with ROS Kinetic including its official debian packages</del>
 * (*done*) <del>Update of underlying infrastructure: jump to Ubuntu 16.04, OpenCV-3, migration to Gazebo-7 simulator (revisit existing plugins and models), PCL-1.8, ICE-3.6</del>
 * (*done*) <del>Use of Web technologies in robotics: ICE-JS, WebRTC, HTML5, electron, nodeJS... </del> Many webtools have been developed: viewers, teleoperators and drivers.
 
@@ -164,4 +167,8 @@ We are working on:
     <a href="https://summerofcode.withgoogle.com" target="_blank"><img src="/assets/images/cover/GSoC.png" style="width:400px;"></a>
     <a href="http://www.qualoom.es" target="_blank"><img src="/assets/images/cover/logo_qualoom.png" style="width:400px;"></a>
     <a href="https://urjc.es" target="_blank"><img src="/assets/images/cover/logoURJC.jpg" style="width:400px;"></a>
+</figure>
+
+<figure class="third">
+    <a href="https://twitter.com/roboticslaburjc" target="_blank"><img src="/assets/images/cover/peloto3-sinletra.png" style="width:150px;"></a>
 </figure>
