@@ -44,7 +44,6 @@ classes: wide
   - [David Valladares](https://roboticslaburjc.github.io/2019-tfg-david-valladares), robotics education with Kibotics
   - [Ángel Perea](https://roboticslaburjc.github.io/2019-tfg-angel-perea/), robotics education with Kibotics
   - [Natalia Monforte](https://roboticslaburjc.github.io/2019-tfg-natalia-monforte), robotics education with Kibotics
-  - [Pedro Arias](https://github.com/RoboticsLabURJC/2019-tfg-pedro-arias), ROSpilot project with drones
   - [Ana Cuevas](https://github.com/RoboticsLabURJC/2019-tfg-ana-cuevas), computer vision exercises in Unibotics
   - [Jorge Cruz](https://github.com/RoboticsLabURJC/2019-tfg-jorge-cruz), PiBot visual behaviors in Kibotics
   - [Eloy Navarro](https://github.com/RoboticsLabURJC/2018-tfg-eloy-navarro), drones4kids in Kibotics
@@ -64,7 +63,7 @@ classes: wide
 
 ## 2020
   - Carlos Awadallah (master), Robotics Academy
-
+  - [Pedro Arias](https://github.com/RoboticsLabURJC/2019-tfg-pedro-arias) (grad), ROSpilot project with drones
 
 ## 2019
   - [Rubén Álvarez](https://roboticslaburjc.github.io/2019-tfg-ruben-alvarez) (grad), WebSim robot simulator.
