@@ -16,7 +16,6 @@ classes: wide
   - [Sergio Paniego](https://github.com/RoboticsLabURJC/2019-phd-sergio-paniego), DeepLearning in robotics
 <!---  - [Luis Caiza](https://github.com/RoboticsLabURJC/2018-phd-luis-caiza), vision in drones -->
   - [Pedro Fernández](https://github.com/RoboticsLabURJC/2018-phd-pedro-fernandez), DeepLearning
-  - Eldon Caldwell, Social robotics
   - [Alberto Martín](https://roboticslaburjc.github.io/2019-phd-alberto-martin), Reinforcement Learning
   - [Francisco Rivas](https://github.com/RoboticsLabURJC/2017-phd-francisco-rivas), DeepLearning
 
@@ -46,7 +45,6 @@ classes: wide
   - [Natalia Monforte](https://roboticslaburjc.github.io/2019-tfg-natalia-monforte), robotics education with Kibotics
   - [Ana Cuevas](https://github.com/RoboticsLabURJC/2019-tfg-ana-cuevas), computer vision exercises in Unibotics
   - [Jorge Cruz](https://github.com/RoboticsLabURJC/2019-tfg-jorge-cruz), PiBot visual behaviors in Kibotics
-  - [Eloy Navarro](https://github.com/RoboticsLabURJC/2018-tfg-eloy-navarro), drones4kids in Kibotics
 <!---  - [Rodrigo Pacheco](https://github.com/RoboticsLabURJC/2018-tfg-rodrigo-pacheco), Tello drones support in Kibotics -->
 <!---  - [Sergio Lorenzo](https://github.com/RoboticsLabURJC/2018-tfg-sergio-lorenzo), VisualCircuit robot programming tool in Python -->
 <!---  - [Eva García](https://github.com/RoboticsLabURJC/2017-tfg-eva_garcia), mbot support in Kibotics -->
@@ -62,9 +60,11 @@ classes: wide
 # Previous students
 
 ## 2020
-  - Carlos Awadallah (master), Robotics Academy
+  - [Eldon Caldwell](https://gsyc.urjc.es/jmplaza/students/phd-eldon_caldwell-2020.pdf) (PhD), Social robotics
+  - [Eloy Navarro](https://github.com/RoboticsLabURJC/2018-tfg-eloy-navarro) (grad), drone stabilization with an FPGA ground station	 
   - [Pedro Arias](https://github.com/RoboticsLabURJC/2019-tfg-pedro-arias) (grad), ROSpilot project with drones
-
+  - Carlos Awadallah (master), Robotics Academy
+  
 ## 2019
   - [Rubén Álvarez](https://roboticslaburjc.github.io/2019-tfg-ruben-alvarez) (grad), WebSim robot simulator.
   - [Elías Barcia](https://roboticslaburjc.github.io/2017-tfm-elias-barcia) (master), visual SLAM, slam-testbed tool
