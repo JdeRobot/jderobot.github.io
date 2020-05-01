@@ -60,7 +60,7 @@ classes: wide
 # Previous students
 
 ## 2020
-  - [Eldon Caldwell](https://gsyc.urjc.es/jmplaza/students/phd-eldon_caldwell-2020.pdf) (PhD), Social robotics
+  - [Eldon Caldwell](https://gsyc.urjc.es/jmplaza/students/phd-eldon_caldwell-2020.pdf) (PhD), Social assistive robotics for speech language therapy
   - [Eloy Navarro](https://github.com/RoboticsLabURJC/2018-tfg-eloy-navarro) (grad), drone stabilization with an FPGA ground station	 
   - [Pedro Arias](https://github.com/RoboticsLabURJC/2019-tfg-pedro-arias) (grad), ROSpilot project with drones
   - Carlos Awadallah (master), Robotics Academy

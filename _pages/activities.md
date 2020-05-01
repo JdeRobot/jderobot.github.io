@@ -48,7 +48,5 @@ feature_row:
 
 ---
 
-## The Activities are:
-
 
 {% include feature_row %}
