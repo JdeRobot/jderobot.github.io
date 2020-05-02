@@ -26,7 +26,7 @@ classes: wide
   - [Nacho Condés](https://roboticslaburjc.github.io/2019-tfm-nacho_condes/), DeepLearning perception for a social autonomous robot
   - Álvaro Paniagua, robotics education with Kibotics, data design
   - [David Pascual](https://roboticslaburjc.github.io/2017-tfm-david-pascual/), Convolutional Pose Machines
-  - Nuria Oyaga, Predicting images, learning time sequences
+  - [Nuria Oyaga](https://roboticslaburjc.github.io/2017-tfm-nuria-oyaga/logbook/), Predicting images, learning time sequences
 <!---  - Mikel Díez, visual perception on an autonomous boat  -->
   - [Omar Garrido](https://roboticslaburjc.github.io/2019-tfm-omar-garrido), VisualSLAM algorithm with RGBD sensors
   - [Javier Martínez](https://roboticslaburjc.github.io/2018-tfm-javier-martinez), VisualSLAM including IMU information
