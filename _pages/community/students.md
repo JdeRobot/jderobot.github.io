@@ -41,9 +41,10 @@ classes: wide
 ## Current Grad students
 
   - [David Valladares](https://roboticslaburjc.github.io/2019-tfg-david-valladares), robotics education with Kibotics
+  - [Daniel Pulido](https://github.com/RoboticsLabURJC/2020-tfg-daniel-pulido), robotics education with Kibotics
   - [Ángel Perea](https://roboticslaburjc.github.io/2019-tfg-angel-perea/), robotics education with Kibotics
   - [Natalia Monforte](https://roboticslaburjc.github.io/2019-tfg-natalia-monforte), robotics education with Kibotics
-  - [Ana Cuevas](https://github.com/RoboticsLabURJC/2019-tfg-ana-cuevas), computer vision exercises in Unibotics
+  - [Ana Cuevas](https://github.com/RoboticsLabURJC/2019-tfg-ana-cuevas), computer vision exercises in JdeRobot Academy
   - [Jorge Cruz](https://github.com/RoboticsLabURJC/2019-tfg-jorge-cruz), PiBot visual behaviors in Kibotics
 <!---  - [Rodrigo Pacheco](https://github.com/RoboticsLabURJC/2018-tfg-rodrigo-pacheco), Tello drones support in Kibotics -->
 <!---  - [Sergio Lorenzo](https://github.com/RoboticsLabURJC/2018-tfg-sergio-lorenzo), VisualCircuit robot programming tool in Python -->
