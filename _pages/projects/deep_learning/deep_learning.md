@@ -11,9 +11,9 @@ classes: wide
 feature_row:
   - image_path: /assets/images/projects/deep_learning/detection_suite.png
     alt: "Detection Studio"
-    title: "DetectionStudio"
-    excerpt: "Tool to test and train different DeepLearning architectures for object detection on images."
-    url: "DetectionSuite/"
+    title: "Detection Studio"
+    excerpt: "Set of tools to evaluate object detection neural networks models over the common object detection datasets."
+    url: "DetectionStudio/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
@@ -68,4 +68,4 @@ Adding support for segmentation, more datasets and more DL frameworks.
 
 The goal of this project is to expand the supported datasets (ImageNet, COCO...) and expand the neural frameworks (Keras, TensorFlow, Caffe...). In addition several detection architectures should be trained and compared with the new release of the tool.
 
-The expected result is a new release of DetectionSuite tool extending the existing functionality for objection but also for two new deep learning problems: classification and segmentation including new statistics for each of them.
+The expected result is a new release of DetectionStudio tool extending the existing functionality for objection but also for two new deep learning problems: classification and segmentation including new statistics for each of them.

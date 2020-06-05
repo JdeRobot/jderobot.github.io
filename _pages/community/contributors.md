@@ -69,7 +69,7 @@ projects:
   - image_path: /assets/images/community/contributors/jeevan.jpg
     alt: "Jeevan Kumar"
     title: <a href='https://github.com/sleep-404' target='_blank'>Jeevan Kumar</a>
-    excerpt: "DetectionSuite"
+    excerpt: "DetectionStudio"
 
   - image_path: /assets/images/community/contributors/jessica.jpg
     alt: "Jessica Fernández"
@@ -79,7 +79,7 @@ projects:
   - image_path: /assets/images/community/contributors/jmplaza.jpg
     alt: "JoseMaría Cañas"
     title: <a href='https://gsyc.urjc.es/jmplaza/' target='_blank'>JoseMaría Cañas</a>
-    excerpt: "Project maintainer, VisualStates, DetectionSuite, Robotics-Academy, progeo lib, fuzzylib"
+    excerpt: "Project maintainer, VisualStates, DetectionStudio, Robotics-Academy, progeo lib, fuzzylib"
 
   - image_path: /assets/images/community/contributors/julio-vega.jpg
     alt: "Julio Vega"
@@ -139,7 +139,7 @@ projects:
   - image_path: /assets/images/community/contributors/spaniego.png
     alt: "Sergio Paniego"
     title: <a href='https://github.com/sergiopaniego' target='_blank'>Sergio Paniego</a>
-    excerpt: "PyOnArduino, PyOnBrowser, DetectionSuite tool, Kibotics, Academy"
+    excerpt: "PyOnArduino, PyOnBrowser, DetectionStudio tool, Kibotics, Academy"
 
   - image_path: /assets/images/community/contributors/vanessa.jpg
     alt: "Vanessa Fernández"
@@ -149,7 +149,7 @@ projects:
   - image_path: /assets/images/community/contributors/vinay-sharma.jpg
     alt: "Vinay Sharma"
     title: <a href='https://github.com/vinay0410' target='_blank'>Vinay Sharma</a>
-    excerpt: "DetectionSuite tool, ROS1+ROS2 compatibility"
+    excerpt: "DetectionStudio tool, ROS1+ROS2 compatibility"
 
 ---
 

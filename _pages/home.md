@@ -84,7 +84,7 @@ Our (international) community mainly works on six fields inside Robotics and Com
   </tr>
   <tr>
     <td class="tg-lboi" rowspan="2"><a href="https://jderobot.github.io/projects/deep_learning">DeepLearning</a> in robotics</td>
-    <td class="tg-0pky"><a href="https://jderobot.github.io/DetectionSuite">DetectionSuite </a>tool for evaluation of visual detection networks</td>
+    <td class="tg-0pky"><a href="https://jderobot.github.io/DetectionStudio">DetectionStudio </a>tool for evaluation of visual detection networks</td>
   </tr>
   <tr>
     <td class="tg-0pky"><a href="https://github.com/JdeRobot/ObjectDetector">ObjectDetector </a>see deep learning networks in action</td>
