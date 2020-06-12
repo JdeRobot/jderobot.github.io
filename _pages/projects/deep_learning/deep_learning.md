@@ -34,8 +34,8 @@ feature_row:
     btn_label: "Go!"
 
   - image_path: /assets/images/projects/neural_behavior/autonomous.jpeg
-    alt: "BehaviorStudio"
-    title: "BehaviorStudio"
+    alt: "Behavior Studio"
+    title: "Behavior Studio"
     excerpt: "Different types of neural networks that allow learning behavior "
     url: "/projects/deep_learning/behavior_suite"
     btn_class: "btn--primary"
