@@ -13,7 +13,7 @@ feature_row:
     alt: "Detection Studio"
     title: "Detection Studio"
     excerpt: "Set of tools to evaluate object detection neural networks models over the common object detection datasets."
-    url: "DetectionStudio/"
+    url: "https://jderobot.github.io/DetectionStudio/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
@@ -34,8 +34,8 @@ feature_row:
     btn_label: "Go!"
 
   - image_path: /assets/images/projects/neural_behavior/autonomous.jpeg
-    alt: "BehaviorStudio"
-    title: "BehaviorStudio"
+    alt: "Behavior Studio"
+    title: "Behavior Studio"
     excerpt: "Different types of neural networks that allow learning behavior "
     url: "/projects/deep_learning/behavior_suite"
     btn_class: "btn--primary"
