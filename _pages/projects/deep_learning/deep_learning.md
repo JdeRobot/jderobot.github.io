@@ -13,7 +13,7 @@ feature_row:
     alt: "Detection Studio"
     title: "Detection Studio"
     excerpt: "Set of tools to evaluate object detection neural networks models over the common object detection datasets."
-    url: "DetectionStudio/"
+    url: "https://jderobot.github.io/DetectionStudio/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
