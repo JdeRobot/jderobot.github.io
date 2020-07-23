@@ -22,13 +22,10 @@ classes: wide
 
 ## Current Master students
 
-  - [Pablo Moreno](https://roboticslaburjc.github.io/2019-tfm-pablo-moreno/), robotics education with Kibotics
-  - [Nacho Condés](https://roboticslaburjc.github.io/2019-tfm-nacho_condes/), DeepLearning perception for a social autonomous robot
   - Álvaro Paniagua, robotics education with Kibotics, data design
   - [David Pascual](https://roboticslaburjc.github.io/2017-tfm-david-pascual/), Convolutional Pose Machines
   - [Nuria Oyaga](https://roboticslaburjc.github.io/2017-tfm-nuria-oyaga/logbook/), Predicting images, learning time sequences
 <!---  - Mikel Díez, visual perception on an autonomous boat  -->
-  - [Omar Garrido](https://roboticslaburjc.github.io/2019-tfm-omar-garrido), VisualSLAM algorithm with RGBD sensors
   - [Javier Martínez](https://roboticslaburjc.github.io/2018-tfm-javier-martinez), VisualSLAM including IMU information
 <!---  - [Francisco J. Palacios](https://roboticslaburjc.github.io/2018-tfm-Francisco-Palacios), SDSLAMmobile: visualSLAM in Android for Augmented Reality applications. -->
   - [Francisco Pérez](https://roboticslaburjc.github.io/2017-tfm-francisco-perez), DeepLearning in autonomous vision based navigation of real robots
@@ -42,7 +39,6 @@ classes: wide
 
   - [David Valladares](https://roboticslaburjc.github.io/2019-tfg-david-valladares), robotics education with Kibotics
   - [Daniel Pulido](https://github.com/RoboticsLabURJC/2020-tfg-daniel-pulido), robotics education with Kibotics
-  - [Ángel Perea](https://roboticslaburjc.github.io/2019-tfg-angel-perea/), robotics education with Kibotics
   - [Natalia Monforte](https://roboticslaburjc.github.io/2019-tfg-natalia-monforte), robotics education with Kibotics
   - [Ana Cuevas](https://github.com/RoboticsLabURJC/2019-tfg-ana-cuevas), computer vision exercises in JdeRobot Academy
   - [Jorge Cruz](https://github.com/RoboticsLabURJC/2019-tfg-jorge-cruz), PiBot visual behaviors in Kibotics
@@ -61,10 +57,14 @@ classes: wide
 # Previous students
 
 ## 2020
+  - [Nacho Condés](https://roboticslaburjc.github.io/2019-tfm-nacho_condes/) (master), DeepLearning perception for a social autonomous robot
+  - [Ángel Perea](https://roboticslaburjc.github.io/2019-tfg-angel-perea/) (grad), analytics in a robotics education online platform
+  - [Omar Garrido](https://roboticslaburjc.github.io/2019-tfm-omar-garrido) (master), SDLAM+: VisualSLAM algorithm with RGBD sensors
+  - [Pablo Moreno](https://roboticslaburjc.github.io/2019-tfm-pablo-moreno/) (master), automatic competitions in a robotics education online platform
   - [Eldon Caldwell](https://gsyc.urjc.es/jmplaza/students/phd-eldon_caldwell-2020.pdf) (PhD), Social assistive robotics for speech language therapy
   - [Eloy Navarro](https://github.com/RoboticsLabURJC/2018-tfg-eloy-navarro) (grad), drone stabilization with an FPGA ground station	 
   - [Pedro Arias](https://github.com/RoboticsLabURJC/2019-tfg-pedro-arias) (grad), ROSpilot project with drones
-  - Carlos Awadallah (master), Robotics Academy
+  - [Carlos Awadallah](https://gsyc.urjc.es/jmplaza/students/tfm-academy-carlos_awadallah-2020.pdf) (master), Robotics Academy
   
 ## 2019
   - [Rubén Álvarez](https://roboticslaburjc.github.io/2019-tfg-ruben-alvarez) (grad), WebSim robot simulator.
