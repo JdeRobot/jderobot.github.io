@@ -15,8 +15,8 @@ classes: wide
 
   - [Sergio Paniego](https://github.com/RoboticsLabURJC/2019-phd-sergio-paniego), DeepLearning in robotics
 <!---  - [Luis Caiza](https://github.com/RoboticsLabURJC/2018-phd-luis-caiza), vision in drones -->
-  - [Pedro Fernández](https://github.com/RoboticsLabURJC/2018-phd-pedro-fernandez), DeepLearning
-  - [Alberto Martín](https://roboticslaburjc.github.io/2019-phd-alberto-martin), Reinforcement Learning
+<!--  - [Pedro Fernández](https://github.com/RoboticsLabURJC/2018-phd-pedro-fernandez), DeepLearning -->
+<!--  - [Alberto Martín](https://roboticslaburjc.github.io/2019-phd-alberto-martin), Reinforcement Learning -->
   - [Francisco Rivas](https://github.com/RoboticsLabURJC/2017-phd-francisco-rivas), DeepLearning
 
 
