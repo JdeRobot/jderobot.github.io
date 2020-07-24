@@ -37,6 +37,7 @@ classes: wide
 
 ## Current Grad students
 
+  - [Marta Quintana](https://roboticslaburjc.github.io/2020-tfg-marta-quintana), robotics education with Kibotics
   - [David Valladares](https://roboticslaburjc.github.io/2019-tfg-david-valladares), robotics education with Kibotics
   - [Daniel Pulido](https://github.com/RoboticsLabURJC/2020-tfg-daniel-pulido), robotics education with Kibotics
   - [Natalia Monforte](https://roboticslaburjc.github.io/2019-tfg-natalia-monforte), robotics education with Kibotics
