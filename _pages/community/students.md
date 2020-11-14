@@ -21,9 +21,9 @@ classes: wide
 
 
 ## Current Master students
-  - [Pablo Asensio]((https://roboticslaburjc.github.io/2020-tfm-pablo-asensio), VisualSLAM in drones
+  - [Pablo Asensio](https://roboticslaburjc.github.io/2020-tfm-pablo-asensio), VisualSLAM in drones
   - Vladislav Kavchenko, RoboticsAcademy
-  - [David Valladares]((https://roboticslaburjc.github.io/2020-tfm-david-valladares), RoboticsAcademy
+  - [David Valladares](https://roboticslaburjc.github.io/2020-tfm-david-valladares), RoboticsAcademy
   - Álvaro Paniagua, robotics education with Kibotics, data design
 <!---  - Mikel Díez, visual perception on an autonomous boat  -->
 <!---  - [Francisco J. Palacios](https://roboticslaburjc.github.io/2018-tfm-Francisco-Palacios), SDSLAMmobile: visualSLAM in Android for Augmented Reality applications. -->
@@ -50,15 +50,15 @@ classes: wide
 # Previous students
 
 ## 2020
-  - [David Pascual](https://roboticslaburjc.github.io/2017-tfm-david-pascual/), Convolutional Pose Machines
-  - [Nuria Oyaga](https://roboticslaburjc.github.io/2017-tfm-nuria-oyaga/logbook/), Predicting images, learning time sequences
-  - [Javier Martínez](https://roboticslaburjc.github.io/2018-tfm-javier-martinez), VisualSLAM including IMU information
-  - [Francisco Pérez](https://roboticslaburjc.github.io/2017-tfm-francisco-perez), DeepLearning in autonomous vision based navigation of real robots
-  - [Ignacio Arranz](https://roboticslaburjc.github.io/2019-tfm-ignacio-arranz), Deep Reinforcement Learning for autonomous robot navigation
-  - [Aitor Martínez](https://roboticslaburjc.github.io/2019-tfm-aitor-martinez), Visual navigation of a Tello drone
-  - [David Valladares](https://roboticslaburjc.github.io/2019-tfg-david-valladares), robotics education with Kibotics
-  - [Natalia Monforte](https://roboticslaburjc.github.io/2019-tfg-natalia-monforte), robotics education with Kibotics
-  - [Jorge Cruz](https://github.com/RoboticsLabURJC/2019-tfg-jorge-cruz), PiBot visual behaviors in Kibotics
+  - [David Pascual](https://roboticslaburjc.github.io/2017-tfm-david-pascual/) (master), Convolutional Pose Machines
+  - [Nuria Oyaga](https://roboticslaburjc.github.io/2017-tfm-nuria-oyaga/logbook/) (master), Predicting images, learning time sequences
+  - [Javier Martínez](https://roboticslaburjc.github.io/2018-tfm-javier-martinez) (master), VisualSLAM including IMU information
+  - [Francisco Pérez](https://roboticslaburjc.github.io/2017-tfm-francisco-perez) (master), DeepLearning in autonomous vision based navigation of real robots
+  - [Ignacio Arranz](https://roboticslaburjc.github.io/2019-tfm-ignacio-arranz) (master), Deep Reinforcement Learning for autonomous robot navigation
+  - [Aitor Martínez](https://roboticslaburjc.github.io/2019-tfm-aitor-martinez) (master), Visual navigation of a Tello drone
+  - [David Valladares](https://roboticslaburjc.github.io/2019-tfg-david-valladares) (grad), robotics education with Kibotics
+  - [Natalia Monforte](https://roboticslaburjc.github.io/2019-tfg-natalia-monforte) (grad), robotics education with Kibotics
+  - [Jorge Cruz](https://github.com/RoboticsLabURJC/2019-tfg-jorge-cruz) (grad), PiBot visual behaviors in Kibotics
   - [Nacho Condés](https://roboticslaburjc.github.io/2019-tfm-nacho_condes/) (master), DeepLearning perception for a social autonomous robot
   - [Ángel Perea](https://roboticslaburjc.github.io/2019-tfg-angel-perea/) (grad), analytics in a robotics education online platform
   - [Omar Garrido](https://roboticslaburjc.github.io/2019-tfm-omar-garrido) (master), SDLAM+: VisualSLAM algorithm with RGBD sensors
