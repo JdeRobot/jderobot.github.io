@@ -13,14 +13,17 @@ classes: wide
 
 ## Current PhD students
   - Pedro Cuenca, DeepLearning in image enhancement
-  - [Sergio Paniego](https://github.com/RoboticsLabURJC/2019-phd-sergio-paniego), DeepLearning in robotics
+  - [Sergio Paniego](https://github.com/RoboticsLabURJC/2019-phd-sergio-paniego), Machine Learning in robotics
+  - [Rubén Lucas](https://github.com/RoboticsLabURJC/2020-phd-ruben-lucas), Machine Learning in robotics
 <!---  - [Luis Caiza](https://github.com/RoboticsLabURJC/2018-phd-luis-caiza), vision in drones -->
-<!--  - [Pedro Fernández](https://github.com/RoboticsLabURJC/2018-phd-pedro-fernandez), DeepLearning -->
+  - [Pedro Fernández](https://github.com/RoboticsLabURJC/2018-phd-pedro-fernandez), DeepLearning 
 <!--  - [Alberto Martín](https://roboticslaburjc.github.io/2019-phd-alberto-martin), Reinforcement Learning -->
-  - [Francisco Rivas](https://github.com/RoboticsLabURJC/2017-phd-francisco-rivas), DeepLearning
+<!--  - [Francisco Rivas](https://github.com/RoboticsLabURJC/2017-phd-francisco-rivas), DeepLearning -->
 
 
 ## Current Master students
+  - José Miguel Zamora, Machine Learning in Robotics
+  - [Antonio Tiguero](https://roboticslaburjc.github.io/2020-tfm-antonio-triguero), Machine Learning in Robotics
   - [Pablo Asensio](https://roboticslaburjc.github.io/2020-tfm-pablo-asensio), VisualSLAM in drones
   - Vladislav Kavchenko, RoboticsAcademy
   - [David Valladares](https://roboticslaburjc.github.io/2020-tfm-david-valladares), RoboticsAcademy
@@ -32,8 +35,8 @@ classes: wide
 
 
 ## Current Grad students
+  - Álvaro Martín, Predicting images, learning time sequences
   - [Marta Quintana](https://roboticslaburjc.github.io/2020-tfg-marta-quintana), robotics education with Kibotics
-  - [Daniel Pulido](https://github.com/RoboticsLabURJC/2020-tfg-daniel-pulido), robotics education with Kibotics
   - [Ana Cuevas](https://github.com/RoboticsLabURJC/2019-tfg-ana-cuevas), computer vision exercises in JdeRobot Academy
 <!---  - [Rodrigo Pacheco](https://github.com/RoboticsLabURJC/2018-tfg-rodrigo-pacheco), Tello drones support in Kibotics -->
 <!---  - [Sergio Lorenzo](https://github.com/RoboticsLabURJC/2018-tfg-sergio-lorenzo), VisualCircuit robot programming tool in Python -->
@@ -50,6 +53,7 @@ classes: wide
 # Previous students
 
 ## 2020
+  - [Daniel Pulido](https://github.com/RoboticsLabURJC/2020-tfg-daniel-pulido) (grad), robotics education with Kibotics
   - [David Pascual](https://roboticslaburjc.github.io/2017-tfm-david-pascual/) (master), Convolutional Pose Machines
   - [Nuria Oyaga](https://roboticslaburjc.github.io/2017-tfm-nuria-oyaga/logbook/) (master), Predicting images, learning time sequences
   - [Javier Martínez](https://roboticslaburjc.github.io/2018-tfm-javier-martinez) (master), VisualSLAM including IMU information
