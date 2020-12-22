@@ -23,7 +23,7 @@ classes: wide
 
 ## Current Master students
   - José Miguel Zamora, Machine Learning in Robotics
-  - [Antonio Tiguero](https://roboticslaburjc.github.io/2020-tfm-antonio-triguero), Machine Learning in Robotics
+  - [Antonio Triguero](https://roboticslaburjc.github.io/2020-tfm-antonio-triguero), Machine Learning in Robotics
   - [Pablo Asensio](https://roboticslaburjc.github.io/2020-tfm-pablo-asensio), VisualSLAM in drones
   - Vladislav Kavchenko, RoboticsAcademy
   - [David Valladares](https://roboticslaburjc.github.io/2020-tfm-david-valladares), RoboticsAcademy
