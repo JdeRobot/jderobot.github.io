@@ -198,11 +198,11 @@ projects:
 - [Carlos Rodríguez](https://github.com/crodriguezgarci): PiBot, RoboticsAcademy, Kibotics, Academy.
 - [Iñaki San Román](https://github.com/IgnacioSRL): MachineLearning-openCV tool.
 - [Redouane Kachach](https://github.com/rkachach): Calibrator, imgrectifier, SmartTrafficSensor.
-#- [Juan Gonzalez](https://github.com/Obijuan): FPGA-robotics.
+<!--  - [Juan Gonzalez](https://github.com/Obijuan): FPGA-robotics. -->
 - **Gonzalo Abella**: v4l2 driver.
 - **Victor Arribas**: ArDroneServer (GPS support), libEasyIce, refactoring of quadrotor2 and flyingkinect plugins for Gazebo.
 - **Jianxiong Cai** (ShanghaiTech University): Map Generator project.
-#- **Roberto Calvo** (IMDEA Networks): Project maintainer, Surveillance, components in Android, 3DPeopleTracker
+<!--  - **Roberto Calvo** (IMDEA Networks): Project maintainer, Surveillance, components in Android, 3DPeopleTracker -->
 - **Satyaki Chakraborty** (GSoC-2015): Compatibiliy with ROS.
 - **Agustín Gallardo**: Calibrator.
 - **Teodoro González**: Gazebo driver.
