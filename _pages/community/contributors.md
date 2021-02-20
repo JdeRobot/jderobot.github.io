@@ -94,7 +94,7 @@ projects:
   - image_path: /assets/images/community/contributors/julio-vega.jpg
     alt: "Julio Vega"
     title: <a href='https://gestion2.urjc.es/pdi/ver/julio.vega' target='_blank'>Julio Vega</a>
-    excerpt: "Kibotics, Academy, giraffeserver, visionlib, gazeboserver"
+    excerpt: "giraffeserver, visionlib, gazeboserver"
 
 #  - image_path: /assets/images/community/contributors/jordonezcerezo.jpg
 #    alt: "Juan Ordoñez"
