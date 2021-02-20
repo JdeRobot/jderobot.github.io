@@ -86,10 +86,10 @@ projects:
     title: <a href='https://gestion2.urjc.es/pdi/ver/julio.vega' target='_blank'>Julio Vega</a>
     excerpt: "Kibotics, Academy, giraffeserver, visionlib, gazeboserver"
 
-  - image_path: /assets/images/community/contributors/jordonezcerezo.jpg
-    alt: "Juan Ordoñez"
-    title: <a href='https://github.com/jordonezcerezo' target='_blank'>Juan Ordoñez</a>
-    excerpt: "FPGA-robotics"
+#  - image_path: /assets/images/community/contributors/jordonezcerezo.jpg
+#    alt: "Juan Ordoñez"
+#    title: <a href='https://github.com/jordonezcerezo' target='_blank'>Juan Ordoñez</a>
+#    excerpt: "FPGA-robotics"
 
   - image_path: /assets/images/community/contributors/lroberto.jpg
     alt: "Luis Roberto Morales"
@@ -158,6 +158,7 @@ projects:
 
 ## Previous and awesome JdeRobot Contributors
 
+- [Juan Ordoñez](https://github.com/jordonezcerezo): FPGA-robotics
 - [Carlos Rodríguez](https://github.com/crodriguezgarci): PiBot, RoboticsAcademy, Kibotics, Academy.
 - [Iñaki San Román](https://github.com/IgnacioSRL): MachineLearning-openCV tool.
 - [Redouane Kachach](https://github.com/rkachach): Calibrator, imgrectifier, SmartTrafficSensor.
@@ -170,7 +171,7 @@ projects:
 - **Agustín Gallardo**: Calibrator.
 - **Teodoro González**: Gazebo driver.
 - **Maikel González**: Introrob, basic component, cmake.
-- [**Alejandro Hernández**](https://github.com/ahcorde) (ERLE Robotics): replayer, recorder, kinectserver.
+- [**Alejandro Hernández**](https://github.com/ahcorde) (Open Robotics Org): replayer, recorder, kinectserver.
 - **Victor Hidalgo**: CarSpeed.
 - **Lihang Li** (GSoC-2015): RTABmap component for visual 3D localization.
 - **Javier Martín**: Evi driver, mplayer driver.
