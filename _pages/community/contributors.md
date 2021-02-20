@@ -16,10 +16,10 @@ projects:
     title: <a href='https://github.com/aitormf' target='_blank'>Aitor Martínez</a>
     excerpt: "Package generation, web technology, Kibotics, Academy cameraview.js, rgbdviewer.js, uavviewer.js, committer"
 
-  - image_path: /assets/images/community/contributors/alberto-gsoc.jpg
-    alt: "Alberto Martín Florido"
-    title: <a href='https://github.com/almartinflorido' target='_blank'>Alberto Martín Florido</a>
-    excerpt: "ArDroneServer, drones, introrob"
+#  - image_path: /assets/images/community/contributors/alberto-gsoc.jpg
+#    alt: "Alberto Martín Florido"
+#    title: <a href='https://github.com/almartinflorido' target='_blank'>Alberto Martín Florido</a>
+#    excerpt: "ArDroneServer, drones, introrob"
 
   - image_path: /assets/images/community/contributors/alvaro-paniagua.jpg
     alt: "Álvaro Paniagua"
@@ -29,17 +29,27 @@ projects:
   - image_path: /assets/images/community/contributors/cawadallah.jpg
     alt: "Carlos Awadallah"
     title: <a href='https://github.com/cawadall' target='_blank'>Carlos Awadallah</a>
-    excerpt: "Kibotics, Academy"
+    excerpt: "Kibotics, RoboticsAcademy"
 
-  - image_path: /assets/images/community/contributors/debrup.jpg
-    alt: "Debrup Datta"
-    title: <a href='https://github.com/dattadebrup' target='_blank'>Debrup Datta</a>
-    excerpt: "SLAM-Testbed"
+  - image_path: /assets/images/community/contributors/david_roldan.png
+    alt: "David Roldán"
+    title: <a href='https://github.com/davidrol6' target='_blank'>David Roldán</a>
+    excerpt: "RoboticsAcademy, Kibotics"
+
+  - image_path: /assets/images/community/contributors/david_valladares.png
+    alt: "David Valladares"
+    title: <a href='https://github.com/dvalladaresv' target='_blank'>David Valladares</a>
+    excerpt: "RoboticsAcademy, Kibotics"
+
+#  - image_path: /assets/images/community/contributors/debrup.jpg
+#    alt: "Debrup Datta"
+#    title: <a href='https://github.com/dattadebrup' target='_blank'>Debrup Datta</a>
+#    excerpt: "SLAM-Testbed"
 
   - image_path: /assets/images/community/contributors/diegomartin.jpg
     alt: "Diego Martín Martín"
     title: <a href='https://github.com/diegomrt' target='_blank'>Diego Martín Martín</a>
-    excerpt: "Drones"
+    excerpt: "Drones, RoboticsAcademy (industrial robots)"
 
   - image_path: /assets/images/community/contributors/dlobato.jpg
     alt: "David Lobato"
@@ -66,10 +76,10 @@ projects:
     title: <a href='https://github.com/chanfr' target='_blank'>Francisco Rivas</a>
     excerpt: "NaoBody, openniServer, kinectviewer, 3DPeopleTracker, DetectionSuite tool"
 
-  - image_path: /assets/images/community/contributors/jeevan.jpg
-    alt: "Jeevan Kumar"
-    title: <a href='https://github.com/sleep-404' target='_blank'>Jeevan Kumar</a>
-    excerpt: "DetectionStudio"
+#  - image_path: /assets/images/community/contributors/jeevan.jpg
+#    alt: "Jeevan Kumar"
+#    title: <a href='https://github.com/sleep-404' target='_blank'>Jeevan Kumar</a>
+#    excerpt: "DetectionStudio"
 
   - image_path: /assets/images/community/contributors/jessica.jpg
     alt: "Jessica Fernández"
@@ -96,20 +106,25 @@ projects:
     title: "Luis Roberto Morales"
     excerpt: "Project maintainer, cmake, gtk3Dviewer"
 
+  - image_path: /assets/images/community/contributors/muhammad-taha.jpg
+    alt: "Muhammad Taha"
+    title:  <a href='http://github.com/AbsorbedInThought' target='_blank'>Muhammad Taha</a>
+    excerpt: "VisualCircuit"
+
   - image_path: /assets/images/community/contributors/nachoaz.jpg
     alt: "Nacho Arranz"
     title: <a href='https://github.com/igarag' target='_blank'>Nacho Arranz</a>
     excerpt: "PiBot, KiBotics, Academy, Docs"
 
-  - image_path: /assets/images/community/contributors/nikhil.jpg
-    alt: "Nikhil Khedekar"
-    title: <a href='https://github.com/nkhedekar' target='_blank'>Nikhil Khedekar</a>
-    excerpt: "RoboticsAcademy, drones"
+#  - image_path: /assets/images/community/contributors/nikhil.jpg
+#    alt: "Nikhil Khedekar"
+#    title: <a href='https://github.com/nkhedekar' target='_blank'>Nikhil Khedekar</a>
+#    excerpt: "RoboticsAcademy, drones"
 
-  - image_path: /assets/images/community/contributors/okan-asik.jpg
-    alt: "Okan Asik"
-    title: <a href='https://github.com/okanasik' target='_blank'>Okan Asik</a>
-    excerpt: "VisualStates tool"
+#  - image_path: /assets/images/community/contributors/okan-asik.jpg
+#    alt: "Okan Asik"
+#    title: <a href='https://github.com/okanasik' target='_blank'>Okan Asik</a>
+#    excerpt: "VisualStates tool"
 
   - image_path: /assets/images/community/contributors/pankhuri.jpg
     alt: "Pankhuri Vanjani"
@@ -126,6 +141,11 @@ projects:
     title: <a href='https://github.com/pushkalkatara' target='_blank'>Pushkal Katara</a>
     excerpt: "Visual States Tool"
 
+  - image_path: /assets/images/community/contributors/Roberto_Calvo_Palomino.jpg
+    alt: "Roberto Calvo"
+    title: <a href='https://github.com/rperezgonz' target='_blank'>Roberto Calvo</a>
+    excerpt: "Surveillance, components in Android, 3DPeopleTracker"
+
   - image_path: /assets/images/community/contributors/rperez.jpg
     alt: "Roberto Pérez"
     title: <a href='https://github.com/rperezgonz' target='_blank'>Roberto Pérez</a>
@@ -135,6 +155,16 @@ projects:
     alt: "Rubén Álvarez"
     title: <a href='https://github.com/ralvarezmar' target='_blank'>Rubén Álvarez</a>
     excerpt: "Kibotics, Websim"
+
+  - image_path: /assets/images/community/contributors/sakshay-mahna.jpg
+    alt: "Sakshay Mahna"
+    title: <a href='https://github.com/SakshayMahna' target='_blank'>Sakshay Mahna</a>
+    excerpt: "RoboticsAcademy"
+
+  - image_path: /assets/images/community/contributors/shreyas-gokhale.jpg
+    alt: "Shreyas Gokhale"
+    title: <a href='https://github.com/shreyasgokhale' target='_blank'>Shreyas Gokhale</a>
+    excerpt: "RoboticsAcademy"
 
   - image_path: /assets/images/community/contributors/spaniego.png
     alt: "Sergio Paniego"
@@ -146,10 +176,10 @@ projects:
     title: <a href='https://github.com/vmartinezf' target='_blank'>Vanessa Fernández</a>
     excerpt: "RoboticsAcademy, Deeplearning for robot behaviors"
 
-  - image_path: /assets/images/community/contributors/vinay-sharma.jpg
-    alt: "Vinay Sharma"
-    title: <a href='https://github.com/vinay0410' target='_blank'>Vinay Sharma</a>
-    excerpt: "DetectionStudio tool, ROS1+ROS2 compatibility"
+#  - image_path: /assets/images/community/contributors/vinay-sharma.jpg
+#    alt: "Vinay Sharma"
+#    title: <a href='https://github.com/vinay0410' target='_blank'>Vinay Sharma</a>
+#    excerpt: "DetectionStudio tool, ROS1+ROS2 compatibility"
 
 ---
 
@@ -158,15 +188,21 @@ projects:
 
 ## Previous and awesome JdeRobot Contributors
 
+- [Nikhil Khedekar](https://github.com/nkhedekar): RoboticsAcademy, drones
+- [Alberto Martín](https://github.com/almartinflorido): ArDroneServer, drones, introrob
+- [Okan Asik](https://github.com/okanasik): VisualStates tool
+- [Vinay Sharma](https://github.com/vinay0410): DetectionStudio tool, ROS1+ROS2 compatibility
+- [Debrup Datta](https://github.com/dattadebrup): SLAM-testbed, RoboticsAcademy slam exercise
+- [Jeevan Kumar](https://github.com/sleep-404): DetectionStudio
 - [Juan Ordoñez](https://github.com/jordonezcerezo): FPGA-robotics
 - [Carlos Rodríguez](https://github.com/crodriguezgarci): PiBot, RoboticsAcademy, Kibotics, Academy.
 - [Iñaki San Román](https://github.com/IgnacioSRL): MachineLearning-openCV tool.
 - [Redouane Kachach](https://github.com/rkachach): Calibrator, imgrectifier, SmartTrafficSensor.
-- [Juan Gonzalez](https://github.com/Obijuan): FPGA-robotics.
+#- [Juan Gonzalez](https://github.com/Obijuan): FPGA-robotics.
 - **Gonzalo Abella**: v4l2 driver.
 - **Victor Arribas**: ArDroneServer (GPS support), libEasyIce, refactoring of quadrotor2 and flyingkinect plugins for Gazebo.
 - **Jianxiong Cai** (ShanghaiTech University): Map Generator project.
-- **Roberto Calvo** (IMDEA Networks): Project maintainer, Surveillance, components in Android, 3DPeopleTracker
+#- **Roberto Calvo** (IMDEA Networks): Project maintainer, Surveillance, components in Android, 3DPeopleTracker
 - **Satyaki Chakraborty** (GSoC-2015): Compatibiliy with ROS.
 - **Agustín Gallardo**: Calibrator.
 - **Teodoro González**: Gazebo driver.
