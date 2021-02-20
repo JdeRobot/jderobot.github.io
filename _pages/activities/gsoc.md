@@ -8,13 +8,17 @@ sidebar:
 classes: wide
 
 
-gsoc2020:
-  - url: /activities/gsoc/2020
-    image_path: /assets/images/activities/gsoc-2020.jpg
-    alt: "GSoC 2020"
-    title: "GSoC 2020"
+gsoc2021:
+  - url: /activities/gsoc/2021
+    image_path: /assets/images/activities/gsoc/gsoc-2021.jpg
+    alt: "GSoC 2021"
+    title: "GSoC 2021"
 
 gallery:
+  - url: /activities/gsoc/2020
+    image_path: /assets/images/activities/gsoc/gsoc-2020.jpg
+    alt: "GSoC 2020"
+    title: "GSoC 2020"
   - url: /activities/gsoc/2019
     image_path: /assets/images/activities/gsoc/gsoc-2019.jpg
     alt: "GSoC 2019"
@@ -37,9 +41,11 @@ gallery:
 
 [**The Google Summer of Code**](https://summerofcode.withgoogle.com/) (GSoC), is an international annual program, first held from May to August 2005, in which Google awards stipends, which depends on the purchasing power parity of the country the student's university belongs to, to all students who successfully complete a requested free and open-source software coding project during the summer. The program is open to university students aged 18 or over. (source [Wikipedia](https://en.wikipedia.org/wiki/Google_Summer_of_Code)).
 
-Once again, Google has selected JdeRobot to continue growing as a robotics project by reaching out to collaborators around the world. An exciting adventure. You can see the [**current projects here**](/activities/gsoc/2020):
+<!-- Once again, Google has selected JdeRobot to continue growing as a robotics project by reaching out to collaborators around the world. An exciting adventure. You can see the [**current projects here**](/activities/gsoc/2021): -->
 
-{% include gallery id="gsoc2020" layout="" %}
+JdeRobot has applied for GSoC-2021. You can see the [**proposed projects here**](/activities/gsoc/2021):
+
+{% include gallery id="gsoc2021" layout="" %}
 
 ## Previous GSoC projects
 
@@ -49,6 +55,11 @@ Once again, Google has selected JdeRobot to continue growing as a robotics proje
 
 ## Previous GSoC students
 
+- [Muhammad Taha](https://theroboticsclub.github.io/colab-gsoc2020-Muhammad_Taha/) (GSoC-2020) VisualCircuit tool, digital electronics language for robot behaviors.
+- [Sakshay Mahna](https://theroboticsclub.github.io/colab-gsoc2020-Sakshay_Mahna/) (GSoC-2020) Robotics-Academy exercises on Evolutionary Robotics.
+- [Shreyas Gokhale](https://theroboticsclub.github.io/colab-gsoc2020-Shreyas_Gokhale/) (GSoC-2020) Multi-Robot exercises for Robotics Academy In ROS2.
+- [Yijia Wu](https://theroboticsclub.github.io/colab-gsoc2020-Yijia_Wu/) (GSoC-2020) Vision-based Industrial Robot Manipulation with MoveIt.
+- [Diego Charrez](https://theroboticsclub.github.io/colab-gsoc2020-Diego_Charrez/logbook/) (GSoC-2020) Reinforcement Learning for Autonomous Driving with Gazebo and OpenAI gym.
 - [Nikhil Khedekar](https://theroboticsclub.github.io/colab-gsoc2019-Nikhil_Khedekar/) (GSoC-2019) Migration to ROS of drones exercises on JdeRobot Academy. 
 - [Shyngyskhan Abilkassov](https://theroboticsclub.github.io/colab-gsoc2019-Shyngyskhan_Abilkassov) (GSoC-2019) Amazon warehouse exercise on JdeRobot Academy
 - [Jeevan Kumar](https://theroboticsclub.github.io/colab-gsoc2019-Jeevan_Kumar/) (GSoC-2019) Improving DetectionSuite Deep Learning tool.
