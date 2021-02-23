@@ -35,6 +35,7 @@ classes: wide
 
 
 ## Current Grad students
+  - [Claudia Álvarez](https://roboticslaburjc.github.io/2021-tfg-claudia-alvarez/logbook/), Unibotics and Elasticsearch
   - Álvaro Martín, Predicting images, learning time sequences
   - [Marta Quintana](https://roboticslaburjc.github.io/2020-tfg-marta-quintana), robotics education with Kibotics
   - [Ana Cuevas](https://github.com/RoboticsLabURJC/2019-tfg-ana-cuevas), computer vision exercises in JdeRobot Academy

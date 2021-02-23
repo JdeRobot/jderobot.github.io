@@ -57,7 +57,7 @@ Robotics applications are typically distributed, made up of a collection of conc
 | Easy installation from debian, PIP and npm packages |
 
 
-Our (international) community mainly works on six fields inside Robotics and Computer Vision:
+Our (international) community mainly works on five fields inside Robotics and Computer Vision:
 
 <style type="text/css">
 .mytable{text-align: center}
@@ -76,37 +76,40 @@ Our (international) community mainly works on six fields inside Robotics and Com
     <th class="tg-kmbl"><a href="http://jderobot.org/Projects#Robot_Programming_Tools">Products</a></th>
   </tr>
   <tr>
-    <td class="tg-lboi" rowspan="2"><a href="https://jderobot.github.io/projects/robotics_education">Robotics education and games</a></td>
+    <td class="tg-lboi" rowspan="2"><a href="https://jderobot.github.io/projects/robotics_education">Robotics Education and Games</a></td>
     <td class="tg-0pky"><a href="https://jderobot.github.io/RoboticsAcademy/">Robotics-Academy</a> for engineering students</td>
   </tr>
   <tr>
     <td class="tg-0pky">Kibotics online platform for children learning robotics</td>
   </tr>
   <tr>
-    <td class="tg-lboi" rowspan="2"><a href="https://jderobot.github.io/projects/deep_learning">DeepLearning</a> in robotics</td>
+    <td class="tg-lboi" rowspan="3"><a href="https://jderobot.github.io/projects/deep_learning">MachineLearning</a> in Robotics</td>
     <td class="tg-0pky"><a href="https://jderobot.github.io/DetectionStudio">DetectionStudio </a>tool for evaluation of visual detection networks</td>
   </tr>
+     <tr>
+    <td class="tg-0pky"><a href="https://jderobot.github.io/BehaviorStudio">BehaviorStudio </a>tool for evaluation of control networks</td>
+   </tr>
   <tr>
     <td class="tg-0pky"><a href="https://github.com/JdeRobot/ObjectDetector">ObjectDetector </a>see deep learning networks in action</td>
   </tr>
+   <tr>
+    <td class="tg-lboi" rowspan="3"><a href="https://jderobot.github.io/projects/robots_programming_tools">Robot Programming Tools</a></td>
+    <td class="tg-0pky"><a href="https://jderobot.github.io/VisualCircuit/">VisualCircuit</a> visual robot programming using connected blocks and wires</td>
+  </tr>
   <tr>
-    <td class="tg-lboi" rowspan="2">FPGAs in robotics</td>
+    <td class="tg-lboi"><a href="https://jderobot.github.io/VisualStates">VisualStates</a> tool for robot programming with automata</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a href="https://github.com/JdeRobot/WebSim2D">WebSim2D </a>robot simulator with web technologies</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi" rowspan="2">FPGAs in Robotics</td>
     <td class="tg-0pky"><a href="https://github.com/JdeRobot/neuralFPGA">neuralFPGA </a>running deeplearning networks on FPGAs</td>
   </tr>
   <tr>
     <td class="tg-0pky"><a href="https://github.com/JdeRobot/FPGA-robotics">FPGA-robotics </a>designing robot intelligence with IceStudio blocks</td>
   </tr>
-  <tr>
-    <td class="tg-lboi" rowspan="1">Drones</td>
-    <td class="tg-0pky"><a href="https://wiki.jderobot.org/Drones">Drones</a> infrastructure and applications</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi" rowspan="2"><a href="https://jderobot.github.io/projects/robots_programming_tools">Robot Programming Tools</a></td>
-    <td class="tg-lboi"><a href="https://jderobot.github.io/VisualStates">VisualStates </a>tool for robot programming with automata</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/WebSim2D">WebSim2D </a>robot simulator with web technologies</td>
-  </tr>
+ 
   <tr>
     <td class="tg-lboi" rowspan="2"><a href="https://jderobot.github.io/projects/visual_slam/visual_slam">SLAM</a>, visual localization</td>
     <td class="tg-0pky"><a href="https://github.com/JdeRobot/SDslam">SDslam </a>visual SLAM algorithm</td>
@@ -122,8 +125,11 @@ We are registered as **non-profit organization** in Spain Ref.#615800.
 
 ## News
 
-* **JdeRobot has been accepted as a mentoring organization for Google Summer of Code 2020**, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2020) and our candidate selection process.
-* The last stable release, JdeRobot-5.7.0, has been released as debian package (2020/02/14): full compatible with ROS Melodic.
+* (2021/02/15) JdeRobot-base and JdeRobot-assets are now deprecated. Our toolkit is now fully ROS-based!.
+* (2021/02/01) [*RoboticsAcademy 2.3.2*](https://jderobot.github.io/RoboticsAcademy) released. It includes four web based exercises, solve them from your browser :-)
+* (2020/12/22) [*VisualCircuit*](https://jderobot.github.io/VisualCircuit/) tool has born, it is ready to use. Program your robot application using blocks and wires, as in electronic circuits.
+* *JdeRobot has been accepted as a mentoring organization for Google Summer of Code 2020*, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2020) and our candidate selection process.
+<!-- * The last stable release, JdeRobot-5.7.0, has been released as debian package (2020/02/14): full compatible with ROS Melodic. -->
 <!-- * All our web pages are finally being migrated to GitHub Pages: nice, under version control and convenient. -->
 <!-- * JdeRobot was accepted as a mentoring organization for Google Summer of Code 2019, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2019) and our candidate selection process. --> 
 <!--  * The last stable release, [JdeRobot/base 5.6.7](https://github.com/JdeRobot/base/wiki/JdeRobot-5.6.7) has been released (2019/03/12): full compatible with ROS Kinetic. -->
@@ -145,11 +151,11 @@ We are registered as **non-profit organization** in Spain Ref.#615800.
 
 We are working on:
 
-* Update of underlying infrastructure: jump to Ubuntu 18.04, ROS Melodic Morenia, Gazebo9 simulator, Python 3.5.
+* Update of underlying infrastructure: jump to Ubuntu 20.04, ROS Noetic, Gazebo11 simulator, Python 3.5.
 * Use of reconfigurable hardware (FPGAs) in robotics, with third party open tools like IceStudio
 * [VisualStates tool](https://jderobot.github.io/VisualStates) for visual programming of the robot intelligence with Finite State Machines. It creates a C++ or a Python component from the visual description of the automata.
 <!-- * Scratch4Robots tool for programming of TurtleBot and drones using Scratch visual language -->
-* [RoboticsAcademy](https://jderobot.github.io/RoboticsAcademy): a framework to learn robotics and computer vision with drones, autonomous cars.... It is a collection of Python programmed exercises. Include a web service for this.
+* [RoboticsAcademy](https://jderobot.github.io/RoboticsAcademy): a framework to learn Robotics, Artificial Intelligence and Computer Vision in a practical way. It is a collection of Python exercises. Our goal is to provide its functionality as a web service and create new exercises.
 * (*done*) <del>All our web pages are finally being migrated to GitHub Pages: nice, under version control and convenient</del>
 * (*done*) <del>Compatibility with ROS robotics middleware: interoperation between ROS nodes and JdeRobot components, use of ROS drivers, use of ROS bag files... JdeRobot (>= 5.6) is fully compatible with ROS Kinetic including its official debian packages</del>
 * (*done*) <del>Update of underlying infrastructure: jump to Ubuntu 16.04, OpenCV-3, migration to Gazebo-7 simulator (revisit existing plugins and models), PCL-1.8, ICE-3.6</del>
