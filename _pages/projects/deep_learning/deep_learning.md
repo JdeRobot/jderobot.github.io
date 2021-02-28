@@ -1,6 +1,6 @@
 ---
 permalink: /projects/deep_learning/
-title: "Deep Learning"
+title: "Machine Learning"
 
 sidebar:
   nav: "docs"
