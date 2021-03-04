@@ -116,6 +116,11 @@ projects:
     title: <a href='https://github.com/igarag' target='_blank'>Nacho Arranz</a>
     excerpt: "PiBot, KiBotics, Academy, Docs"
 
+  - image_path: /assets/images/community/contributors/NachoCondes.jpg
+    alt: "Nacho Condés"
+    title: <a href='https://github.com/naxvm' target='_blank'>Nacho Condés</a>
+    excerpt: "MachineLearning in Robotics"
+
 #  - image_path: /assets/images/community/contributors/nikhil.jpg
 #    alt: "Nikhil Khedekar"
 #    title: <a href='https://github.com/nkhedekar' target='_blank'>Nikhil Khedekar</a>

@@ -22,6 +22,7 @@ classes: wide
 
 
 ## Current Master students
+  - [Pedro Arias](https://roboticslaburjc.github.io/2021-tfm-pedro-arias), Drone exercises in RoboticsAcademy
   - José Miguel Zamora, Machine Learning in Robotics
   - [Antonio Triguero](https://roboticslaburjc.github.io/2020-tfm-antonio-triguero), Machine Learning in Robotics
   - [Pablo Asensio](https://roboticslaburjc.github.io/2020-tfm-pablo-asensio), VisualSLAM in drones

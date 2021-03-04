@@ -128,7 +128,7 @@ We are registered as **non-profit organization** in Spain Ref.#615800.
 * (2021/02/15) JdeRobot-base and JdeRobot-assets are now deprecated. Our toolkit is now fully ROS-based!.
 * (2021/02/01) [*RoboticsAcademy 2.3.2*](https://jderobot.github.io/RoboticsAcademy) released. It includes four web based exercises, solve them from your browser :-)
 * (2020/12/22) [*VisualCircuit*](https://jderobot.github.io/VisualCircuit/) tool has born, it is ready to use. Program your robot application using blocks and wires, as in electronic circuits.
-* *JdeRobot has been accepted as a mentoring organization for Google Summer of Code 2020*, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2020) and our candidate selection process.
+* (2020/05/04) *JdeRobot has been accepted as a mentoring organization for Google Summer of Code 2020*, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2020) and our candidate selection process.
 <!-- * The last stable release, JdeRobot-5.7.0, has been released as debian package (2020/02/14): full compatible with ROS Melodic. -->
 <!-- * All our web pages are finally being migrated to GitHub Pages: nice, under version control and convenient. -->
 <!-- * JdeRobot was accepted as a mentoring organization for Google Summer of Code 2019, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2019) and our candidate selection process. --> 
