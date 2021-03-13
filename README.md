@@ -41,6 +41,12 @@ bundle exec jekyll serve
 
 If in the process of building the server there is a dependency problem, for example, there is a missing library to install, it is **necessary to delete** the `Gemfile.lock` file so that it is rebuilt with the installed dependency. This list of dependencies is found in the `Gemfile` file (in Python it would be equivalent to the `requirements.txt` file) and the version of each of the installed gems (packages) is specified. Having a list of dependencies is important for future updates as well as knowing the libraries needed to run the server. Once the `Gemfile.lock` file is deleted, the command shown above is launched again and the dependency errors should end.
 
+## Add new pages to the site.
+
+The pages are saved in the path `/_pages/section/new_page.md`. Special care must be taken in choosing the family to which the new page will belong so that it goes in the corresponding folder.
+
+It is recommended to take as an example some `.md` file that is already done. 
+
 ## Notes for exercise cards.
 
 - Teaser Images size: multiple of 600x400px
@@ -54,10 +60,28 @@ If in the process of building the server there is a dependency problem, for exam
 jekyll build --incremental --verbose
 ```
 
+- Update `Rubygems`, `bundler` and `Gemfile.lock`:
 
-## Add new pages to the site.
+  ```
+  warn_for_outdated_bundler_version': You must use Bundler 2 or greater with this lockfile. (Bundler::LockfileError)
+  ```
 
-The pages are saved in the path `/_pages/section/new_page.md`. Special care must be taken in choosing the family to which the new page will belong so that it goes in the corresponding folder.
+  To use Bundler 2 in your `.lockfile`:
 
-It is recommended to take as an example some `.md` file that is already done. 
+  #### Update Rubygems
 
+  ```
+  gem update --system
+  ```
+
+  #### Update bundler
+
+  ```
+  gem install bundler
+  ```
+
+  #### Update Gemfile.lock in your project
+
+  ```
+  bundler update --bundler
+  ```

@@ -1,6 +1,6 @@
 ---
 permalink: /projects/deep_learning/
-title: "Deep Learning"
+title: "Machine Learning"
 
 sidebar:
   nav: "docs"
@@ -10,10 +10,10 @@ classes: wide
 
 feature_row:
   - image_path: /assets/images/projects/deep_learning/detection_suite.png
-    alt: "Detection Suite"
-    title: "Detection Suite"
-    excerpt: "Tool to test and train different DeepLearning architectures for object detection on images."
-    url: "DetectionSuite/"
+    alt: "Detection Studio"
+    title: "Detection Studio"
+    excerpt: "Set of tools to evaluate object detection neural networks models over the common object detection datasets."
+    url: "https://jderobot.github.io/DetectionStudio/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
@@ -34,10 +34,10 @@ feature_row:
     btn_label: "Go!"
 
   - image_path: /assets/images/projects/neural_behavior/autonomous.jpeg
-    alt: "Neural Behavior"
-    title: "Neural Behavior"
+    alt: "Behavior Studio"
+    title: "Behavior Studio"
     excerpt: "Different types of neural networks that allow learning behavior "
-    url: "/projects/deep_learning/neural_behavior/"
+    url: "/projects/deep_learning/behavior_suite"
     btn_class: "btn--primary"
     btn_label: "Go!"
 ---
@@ -59,7 +59,7 @@ feature_row:
 - [Nuria Oyaga](https://jderobot.org/Noyaga-tfm), (master): Predicting images, learning time sequences.
 - [Vanessa Fernández](https://jderobot.org/Vmartinezf-tfm) (master): Visual Control with DeepLearning.
 
-[Pretrained network models](http://jderobot.org/store/deeplearning-networks/).
+[Pretrained network models](http://wiki.jderobot.org/store/deeplearning-networks/).
 {: .notice--info}
 
 ## Challenges
@@ -68,4 +68,4 @@ Adding support for segmentation, more datasets and more DL frameworks.
 
 The goal of this project is to expand the supported datasets (ImageNet, COCO...) and expand the neural frameworks (Keras, TensorFlow, Caffe...). In addition several detection architectures should be trained and compared with the new release of the tool.
 
-The expected result is a new release of DetectionSuite tool extending the existing functionality for objection but also for two new deep learning problems: classification and segmentation including new statistics for each of them.
+The expected result is a new release of DetectionStudio tool extending the existing functionality for objection but also for two new deep learning problems: classification and segmentation including new statistics for each of them.

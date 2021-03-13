@@ -28,9 +28,9 @@ projects:
     btn_label: "Go!"
 
   - image_path: /assets/images/projects/detection_suite.png
-    alt: "Deep Learning"
-    title: "Deep Learning"
-    excerpt: "Development areas: evaluation of deep learning detection and segmentation models, dataset creation, object detection and hardware customization with neural FPGAs."
+    alt: "Machine Learning"
+    title: "Machine Learning"
+    excerpt: "DeepLearning for control, Reinforcement Learning for control, Deeplearnig for visual object detection, DeepLearning for prediction..."
     url: "/projects/deep_learning/"
     btn_class: "btn--primary"
     btn_label: "Go!"
@@ -38,7 +38,7 @@ projects:
   - image_path: /assets/images/projects/fpga.jpg
     alt: "FPGAs in robotics"
     title: "FPGAs in robotics"
-    excerpt: "[Neural FPGA project](https://github.com/JdeRobot/neuralFPGA) goal is to produce custom hardware able to do inference over generic neural networks. In order to test our hardware designs we rely on hardware simulations and FPGAs."
+    excerpt: "[Neural FPGA project](https://github.com/JdeRobot/neuralFPGA) goal is to produce custom hardware able to do inference with generic neural networks. We rely on hardware simulations and real FPGAs."
     url: "/projects/fpga_robotics/fpga_robotics"
     btn_class: "btn--primary"
     btn_label: "Go!" 
