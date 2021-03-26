@@ -22,6 +22,7 @@ classes: wide
 
 
 ## Current Master students
+  - [Vanesa Lomas](https://roboticslaburjc.github.io/2021-tfm-vanesa-lomas), RoboticsAcademy
   - [Pedro Arias](https://roboticslaburjc.github.io/2021-tfm-pedro-arias), Drone exercises in RoboticsAcademy
   - José Miguel Zamora, Machine Learning in Robotics
   - [Antonio Triguero](https://roboticslaburjc.github.io/2020-tfm-antonio-triguero), Machine Learning in Robotics

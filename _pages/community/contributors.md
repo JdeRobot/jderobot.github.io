@@ -11,20 +11,20 @@ sidebar:
 
 
 projects:
-  - image_path: /assets/images/community/contributors/aitor.jpg
-    alt: "Aitor Martínez"
-    title: <a href='https://github.com/aitormf' target='_blank'>Aitor Martínez</a>
-    excerpt: "Package generation, web technology, Kibotics, Academy cameraview.js, rgbdviewer.js, uavviewer.js, committer"
+#  - image_path: /assets/images/community/contributors/aitor.jpg
+#    alt: "Aitor Martínez"
+#    title: <a href='https://github.com/aitormf' target='_blank'>Aitor Martínez</a>
+#    excerpt: "Package generation, web technology, Kibotics, Academy cameraview.js, rgbdviewer.js, uavviewer.js, committer"
 
 #  - image_path: /assets/images/community/contributors/alberto-gsoc.jpg
 #    alt: "Alberto Martín Florido"
 #    title: <a href='https://github.com/almartinflorido' target='_blank'>Alberto Martín Florido</a>
 #    excerpt: "ArDroneServer, drones, introrob"
 
-  - image_path: /assets/images/community/contributors/alvaro-paniagua.jpg
-    alt: "Álvaro Paniagua"
-    title: <a href='https://github.com/AlvaroPaniaguaT' target='_blank'>Álvaro Paniagua</a>
-    excerpt: "Kibotics, WebSim"
+#  - image_path: /assets/images/community/contributors/alvaro-paniagua.jpg
+#    alt: "Álvaro Paniagua"
+#    title: <a href='https://github.com/AlvaroPaniaguaT' target='_blank'>Álvaro Paniagua</a>
+#    excerpt: "Kibotics, WebSim"
   
   - image_path: /assets/images/community/contributors/cawadallah.jpg
     alt: "Carlos Awadallah"
@@ -91,10 +91,10 @@ projects:
     title: <a href='https://gsyc.urjc.es/jmplaza/' target='_blank'>JoseMaría Cañas</a>
     excerpt: "Project maintainer, VisualStates, DetectionStudio, Robotics-Academy, progeo lib, fuzzylib"
 
-  - image_path: /assets/images/community/contributors/julio-vega.jpg
-    alt: "Julio Vega"
-    title: <a href='https://gestion2.urjc.es/pdi/ver/julio.vega' target='_blank'>Julio Vega</a>
-    excerpt: "giraffeserver, visionlib, gazeboserver"
+#  - image_path: /assets/images/community/contributors/julio-vega.jpg
+#    alt: "Julio Vega"
+#    title: <a href='https://gestion2.urjc.es/pdi/ver/julio.vega' target='_blank'>Julio Vega</a>
+#    excerpt: "giraffeserver, visionlib, gazeboserver"
 
 #  - image_path: /assets/images/community/contributors/jordonezcerezo.jpg
 #    alt: "Juan Ordoñez"
@@ -156,10 +156,10 @@ projects:
     title: <a href='https://github.com/rperezgonz' target='_blank'>Roberto Pérez</a>
     excerpt: "Webtools, WebSim2D, 3DViz"
 
-  - image_path: /assets/images/community/contributors/ralvarez.jpg
-    alt: "Rubén Álvarez"
-    title: <a href='https://github.com/ralvarezmar' target='_blank'>Rubén Álvarez</a>
-    excerpt: "Kibotics, Websim"
+#  - image_path: /assets/images/community/contributors/ralvarez.jpg
+#    alt: "Rubén Álvarez"
+#    title: <a href='https://github.com/ralvarezmar' target='_blank'>Rubén Álvarez</a>
+#    excerpt: "Kibotics, Websim"
 
   - image_path: /assets/images/community/contributors/sakshay-mahna.jpg
     alt: "Sakshay Mahna"
@@ -193,6 +193,9 @@ projects:
 
 ## Previous and awesome JdeRobot Contributors
 
+- [Aitor Martínez](href='https://github.com/aitormf): Package generation, web technology, Academy cameraview.js, rgbdviewer.js, uavviewer.js
+- [Julio Vega](https://gestion2.urjc.es/pdi/ver/julio.vega): giraffeserver, visionlib, gazeboserver
+- [Rubén Álvarez](https://github.com/ralvarezmar): Kibotics, Websim
 - [Nikhil Khedekar](https://github.com/nkhedekar): RoboticsAcademy, drones
 - [Alberto Martín](https://github.com/almartinflorido): ArDroneServer, drones, introrob
 - [Okan Asik](https://github.com/okanasik): VisualStates tool
