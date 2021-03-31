@@ -46,11 +46,6 @@ projects:
 #    title: <a href='https://github.com/dattadebrup' target='_blank'>Debrup Datta</a>
 #    excerpt: "SLAM-Testbed"
 
-  - image_path: /assets/images/community/contributors/diegomartin.jpg
-    alt: "Diego Martín Martín"
-    title: <a href='https://github.com/diegomrt' target='_blank'>Diego Martín Martín</a>
-    excerpt: "Drones, RoboticsAcademy (industrial robots)"
-
   - image_path: /assets/images/community/contributors/dlobato.jpg
     alt: "David Lobato"
     title: <a href='https://github.com/dlobato' target='_blank'>David Lobato</a>
@@ -60,6 +55,11 @@ projects:
     alt: "David Pascual"
     title: <a href='https://github.com/dpascualhe' target='_blank'>David Pascual</a>
     excerpt: "DeepLearning, Convolutional Pose Machines"
+
+  - image_path: /assets/images/community/contributors/diegomartin.jpg
+    alt: "Diego Martín Martín"
+    title: <a href='https://github.com/diegomrt' target='_blank'>Diego Martín Martín</a>
+    excerpt: "Drones, RoboticsAcademy (industrial robots)"
 
   - image_path: /assets/images/community/contributors/eperdices.jpg
     alt: "Eduardo Perdices"
@@ -121,10 +121,10 @@ projects:
     title: <a href='https://github.com/naxvm' target='_blank'>Nacho Condés</a>
     excerpt: "MachineLearning in Robotics"
 
-#  - image_path: /assets/images/community/contributors/nikhil.jpg
-#    alt: "Nikhil Khedekar"
-#    title: <a href='https://github.com/nkhedekar' target='_blank'>Nikhil Khedekar</a>
-#    excerpt: "RoboticsAcademy, drones"
+  - image_path: /assets/images/community/contributors/nikhil.jpg
+    alt: "Nikhil Khedekar"
+    title: <a href='https://github.com/nkhedekar' target='_blank'>Nikhil Khedekar</a>
+    excerpt: "RoboticsAcademy, drones"
 
 #  - image_path: /assets/images/community/contributors/okan-asik.jpg
 #    alt: "Okan Asik"
@@ -185,6 +185,13 @@ projects:
 #    alt: "Vinay Sharma"
 #    title: <a href='https://github.com/vinay0410' target='_blank'>Vinay Sharma</a>
 #    excerpt: "DetectionStudio tool, ROS1+ROS2 compatibility"
+
+  - image_path: /assets/images/community/contributors/yijia.jpg
+    alt: "Yijia Wu"
+    title: <a href='https://github.com/sixer51' target='_blank'>Yijia Wu</a>
+    excerpt: "RoboticsAcademy, industrial robots"
+
+
 
 ---
 
