@@ -203,7 +203,7 @@ projects:
 - [Aitor Martínez](href='https://github.com/aitormf): Package generation, web technology, Academy cameraview.js, rgbdviewer.js, uavviewer.js
 - [Julio Vega](https://gestion2.urjc.es/pdi/ver/julio.vega): giraffeserver, visionlib, gazeboserver
 - [Rubén Álvarez](https://github.com/ralvarezmar): Kibotics, Websim
-- [Nikhil Khedekar](https://github.com/nkhedekar): RoboticsAcademy, drones
+<!--- [Nikhil Khedekar](https://github.com/nkhedekar): RoboticsAcademy, drones -->
 - [Alberto Martín](https://github.com/almartinflorido): ArDroneServer, drones, introrob
 - [Okan Asik](https://github.com/okanasik): VisualStates tool
 - [Vinay Sharma](https://github.com/vinay0410): DetectionStudio tool, ROS1+ROS2 compatibility
