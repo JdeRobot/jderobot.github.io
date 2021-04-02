@@ -26,10 +26,10 @@ projects:
 #    title: <a href='https://github.com/AlvaroPaniaguaT' target='_blank'>Álvaro Paniagua</a>
 #    excerpt: "Kibotics, WebSim"
   
-  - image_path: /assets/images/community/contributors/cawadallah.jpg
-    alt: "Carlos Awadallah"
-    title: <a href='https://github.com/cawadall' target='_blank'>Carlos Awadallah</a>
-    excerpt: "Kibotics, RoboticsAcademy"
+#  - image_path: /assets/images/community/contributors/cawadallah.jpg
+#    alt: "Carlos Awadallah"
+#    title: <a href='https://github.com/cawadall' target='_blank'>Carlos Awadallah</a>
+#    excerpt: "Kibotics, RoboticsAcademy"
 
   - image_path: /assets/images/community/contributors/david_roldan.png
     alt: "David Roldán"
