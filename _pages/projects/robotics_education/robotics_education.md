@@ -26,7 +26,7 @@ classes: wide
 
 
 
-# JdeRobot Academy
+# RoboticsAcademy
 
 It is an **open source** collection of exercises to learn robotics in a practical way for engineering students. Gazebo simulator is the main tool required, as ROS. The students program their solutions in **Python language**. Each exercise is composed of:
 

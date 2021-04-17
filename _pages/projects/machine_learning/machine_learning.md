@@ -1,6 +1,6 @@
 ---
-permalink: /projects/deep_learning/
-title: "Machine Learning"
+permalink: /projects/machine_learning/
+title: "Machine Learning in Robotics"
 
 sidebar:
   nav: "docs"

@@ -57,7 +57,7 @@ Robotics applications are typically distributed, made up of a collection of conc
 | Easy installation from debian, PIP and npm packages |
 
 
-Our (international) community mainly works on five fields inside Robotics and Computer Vision:
+Our (international) community mainly works on three fields inside Robotics and Computer Vision:
 
 <style type="text/css">
 .mytable{text-align: center}
@@ -82,8 +82,9 @@ Our (international) community mainly works on five fields inside Robotics and Co
   <tr>
     <td class="tg-0pky">Kibotics online platform for children learning robotics</td>
   </tr>
+  
   <tr>
-    <td class="tg-lboi" rowspan="3"><a href="https://jderobot.github.io/projects/deep_learning">MachineLearning</a> in Robotics</td>
+    <td class="tg-lboi" rowspan="3"><a href="https://jderobot.github.io/projects/machine_learning">MachineLearning in Robotics</a></td>
     <td class="tg-0pky"><a href="https://jderobot.github.io/DetectionStudio">DetectionStudio </a>tool for evaluation of visual detection networks</td>
   </tr>
      <tr>
@@ -92,32 +93,39 @@ Our (international) community mainly works on five fields inside Robotics and Co
   <tr>
     <td class="tg-0pky"><a href="https://github.com/JdeRobot/ObjectDetector">ObjectDetector </a>see deep learning networks in action</td>
   </tr>
-   <tr>
-    <td class="tg-lboi" rowspan="3"><a href="https://jderobot.github.io/projects/robots_programming_tools">Robot Programming Tools</a></td>
-    <td class="tg-0pky"><a href="https://jderobot.github.io/VisualCircuit/">VisualCircuit</a> visual robot programming using connected blocks and wires</td>
-  </tr>
+
   <tr>
-    <td class="tg-lboi"><a href="https://jderobot.github.io/VisualStates">VisualStates</a> tool for robot programming with automata</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/WebSim2D">WebSim2D </a>robot simulator with web technologies</td>
-  </tr>
-  <tr>
-    <td class="tg-lboi" rowspan="2">FPGAs in Robotics</td>
+    <td class="tg-lboi" rowspan="3"><a href="https://jderobot.github.io/projects/fpga_robotics">Reconfigurable Computing in Robotics</a></td>
     <td class="tg-0pky"><a href="https://github.com/JdeRobot/neuralFPGA">neuralFPGA </a>running deeplearning networks on FPGAs</td>
   </tr>
   <tr>
     <td class="tg-0pky"><a href="https://github.com/JdeRobot/FPGA-robotics">FPGA-robotics </a>designing robot intelligence with IceStudio blocks</td>
   </tr>
- 
   <tr>
-    <td class="tg-lboi" rowspan="2"><a href="https://jderobot.github.io/projects/visual_slam/visual_slam">SLAM</a>, visual localization</td>
+  <td class="tg-0pky"><a href="https://jderobot.github.io/VisualCircuit/">VisualCircuit</a> visual robot programming using connected blocks and wires</td>
+  </tr>
+
+<!--
+  <tr>
+    <td class="tg-lboi" rowspan="2"><a href="https://jderobot.github.io/projects/robots_programming_tools">Robot Programming Tools</a></td>
+    <td class="tg-lboi"><a href="https://jderobot.github.io/VisualStates">VisualStates</a> tool for robot programming with automata</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a href="https://github.com/JdeRobot/WebSim2D">WebSim2D </a>robot simulator with web technologies</td>
+  </tr>
+-->
+  
+<!--  <tr>
+   <td class="tg-lboi" rowspan="2"><a href="https://jderobot.github.io/projects/visual_slam/visual_slam">SLAM</a>, visual localization</td>
     <td class="tg-0pky"><a href="https://github.com/JdeRobot/SDslam">SDslam </a>visual SLAM algorithm</td>
   </tr>
   <tr>
     <td class="tg-0pky"><a href="https://github.com/JdeRobot/slam-TestBed">slam-testbed </a>tool for evaluation of SLAM algorithms<br></td>
   </tr>
+-->
+  
   </table>
+  
 
 </div>
 

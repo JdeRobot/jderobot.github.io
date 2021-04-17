@@ -31,7 +31,7 @@ projects:
     alt: "Machine Learning"
     title: "Machine Learning"
     excerpt: "DeepLearning for control, Reinforcement Learning for control, Deeplearnig for visual object detection, DeepLearning for prediction..."
-    url: "/projects/deep_learning/"
+    url: "/projects/machine_learning/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
@@ -51,21 +51,21 @@ projects:
     btn_class: "btn--primary"
     btn_label: "Go!"
 
-  - image_path: /assets/images/projects/visual_slam.png
-    alt: "Visual Slam"
-    title: "Visual Slam"
-    excerpt: "[VisualSLAM](https://github.com/JdeRobot/SDslam) uses computer vision to locate a 3D camera with 6 degrees of freedom inside a unknown environment and, at the same time, create a map of this environment."
-    url: "/projects/visual_slam/visual_slam"
-    btn_class: "btn--primary"
-    btn_label: "Go!"
+#  - image_path: /assets/images/projects/visual_slam.png
+#    alt: "Visual Slam"
+#    title: "Visual Slam"
+#    excerpt: "[VisualSLAM](https://github.com/JdeRobot/SDslam) uses computer vision to locate a 3D camera with 6 degrees of freedom inside a unknown environment and, at the same time, create a map of this environment."
+#    url: "/projects/visual_slam/visual_slam"
+#    btn_class: "btn--primary"
+#    btn_label: "Go!"
 
-  - image_path: /assets/images/projects/drones.png
-    alt: "Drones"
-    title: "Drones"
-    excerpt: "The new Hardware Abstraction Layer (HAL) for working in robotic applications for Unmanned Aerial Vehicles (UAVs) in JdeRobot is based on using ROS/Gazebo, PX4 and MavROS."
-    url: "/projects/drones/drones"
-    btn_class: "btn--primary"
-    btn_label: "Go!"   
+#  - image_path: /assets/images/projects/drones.png
+#    alt: "Drones"
+#    title: "Drones"
+#    excerpt: "The new Hardware Abstraction Layer (HAL) for working in robotic applications for Unmanned Aerial Vehicles (UAVs) in JdeRobot is based on using ROS/Gazebo, PX4 and MavROS."
+#    url: "/projects/drones/drones"
+#    btn_class: "btn--primary"
+#    btn_label: "Go!"   
 
 ---
 
@@ -77,7 +77,8 @@ Our (international) community mainly works on six fields inside Robotics and Com
 
 ## Previous project fields
 
-
+- [**Drones**](/projects/drones/drones)
+- [**Visual SLAM**](/projects/visual_slam/visual_slam)
 - [People Tracking](http://wiki.jderobot.org/ElderCare)
 - [TrafficMonitor](http://wiki.jderobot.org/TrafficMonitor)
 - [Home Automation](http://wiki.jderobot.org/Surveillance)
