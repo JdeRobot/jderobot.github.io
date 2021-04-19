@@ -20,27 +20,34 @@ Once accepted you would be assigned a mentor that would help, advise your collab
 
 ## Ongoing projects
 
- - [Baidyanath_Kundu](https://theroboticsclub.github.io/colab-gsoc2019-Baidyanath_Kundu), (GSoC-2019) VisualStates tool.
- - [Jeevan Kumar](https://theroboticsclub.github.io/colab-gsoc2019-Jeevan_Kumar), (GSoC-2019) DetectionSuite tool.
- - [Srinivasan Vijayraghavan](https://theroboticsclub.github.io/colab-gsoc2019-Srinivasan_Vijayraghavan), (GSoC-2019) PyOnBrowser project.
- - [Pankhuri Vanjani](https://theroboticsclub.github.io/colab-gsoc2019-Pankhuri_Vanjani), (GSoC-2019) migrating JdeRobot tools to ROS2.
- - [Nikhil Khedekar](https://theroboticsclub.github.io/colab-gsoc2019-Nikhil_Khedekar), (GSoC-2019) drone exercises in JdeRobot's RoboticsAcademy.
- - [Shyngyskhan Abilkassov](https://theroboticsclub.github.io/colab-gsoc2019-Shyngyskhan_Abilkassov), (GSoC-2019)warehouse robots in JdeRobot's RoboticsAcademy.
- - [Debrup Datta](https://jderobot.org/Club-dattadebrup), Robotics Academy.
- - [Fernando González](https://github.com/TheRoboticsClub/2018-colab-FernandoGonzalez), Educational robotics, KiBotics.
- - [David Lobato](https://jderobot.org/Club-dlobato), FPGA technologies in JdeRobot, neuralFPGA.
- - [Pushkal Katara](https://jderobot.org/Club-PushkalKatara), (GSoC-2018) VisualStates tool.
- - [Arsalan Akhter](https://jderobot.org/Club-aakhter), (GSoC-2018) Robotics-Academy.
- - [Hanqing Xie](https://jderobot.org/Club-hanqingxie), (GSoC-2018) Robotics-Academy.
- - [Sergio Paniego](https://jderobot.org/Club-spaniego), (GSoC-2018) PyOnArduino tool.
- - [Jianxiong Cai](https://jderobot.org/Club-jianxiong), (GSoC-2018) Creating realistic 3D map from online SLAM result.
- - [Ram Yoogesh](https://jderobot.org/Club-RamYoogesh), DeepLearning on visual control.
- - [Vinay Sharma](https://jderobot.org/Club-VinaySharma), (GSoC-2018) DeepLearning, DetectionSuite tool.
- - [IEEE Delorean](https://jderobot.org/Ieee-delorean), Wireless car.
+ - Manuel Pérez: Unibotics
 
 
 ## Previous Projects
-
+- Jorge Guerrero: Unibotics
+- [Marta Quintana](https://theroboticsclub.github.io/2020-upe-marta-quintana/logbook/), Unibotics
+- [Yijia Wu](https://github.com/TheRoboticsClub/colab-gsoc2020-Yijia_Wu), (GSoC-2020) Vision-based Industrial Robot Manipulation with MoveIt.
+- [Shreyas Gokhale](https://github.com/TheRoboticsClub/colab-gsoc2020-Shreyas_Gokhale), (GSoC-2020) Multi-Robot exercises for Robotics Academy In ROS2.
+- [Sakshay Mahna](https://github.com/TheRoboticsClub/colab-gsoc2020-Sakshay_Mahna), (GSoC-2020) Robotics-Academy exercises on Evolutionary Robotics.
+- [Diego Charrez]("https://github.com/TheRoboticsClub/colab-gsoc2020-Diego_Charrez), (GSoC-2020) Reinforcement Learning for Autonomous Driving with Gazebo and OpenAI gym.
+- [Muhammad Taha](https://github.com/TheRoboticsClub/colab-gsoc2020-Muhammad_Taha) (GSoC-2020) VisualCircuit tool.
+- [Baidyanath_Kundu](https://theroboticsclub.github.io/colab-gsoc2019-Baidyanath_Kundu), (GSoC-2019) VisualStates tool.
+- [Jeevan Kumar](https://theroboticsclub.github.io/colab-gsoc2019-Jeevan_Kumar), (GSoC-2019) DetectionSuite tool.
+- [Srinivasan Vijayraghavan](https://theroboticsclub.github.io/colab-gsoc2019-Srinivasan_Vijayraghavan), (GSoC-2019) PyOnBrowser project.
+- [Pankhuri Vanjani](https://theroboticsclub.github.io/colab-gsoc2019-Pankhuri_Vanjani), (GSoC-2019) migrating JdeRobot tools to ROS2.
+- [Nikhil Khedekar](https://theroboticsclub.github.io/colab-gsoc2019-Nikhil_Khedekar), (GSoC-2019) drone exercises in JdeRobot's RoboticsAcademy.
+- [Shyngyskhan Abilkassov](https://theroboticsclub.github.io/colab-gsoc2019-Shyngyskhan_Abilkassov), (GSoC-2019)warehouse robots in JdeRobot's RoboticsAcademy.
+- [Debrup Datta](https://jderobot.org/Club-dattadebrup), Robotics Academy.
+- [Fernando González](https://github.com/TheRoboticsClub/2018-colab-FernandoGonzalez), Educational robotics, KiBotics.
+- [David Lobato](https://jderobot.org/Club-dlobato), FPGA technologies in JdeRobot, neuralFPGA.
+- [Pushkal Katara](https://jderobot.org/Club-PushkalKatara), (GSoC-2018) VisualStates tool.
+- [Arsalan Akhter](https://jderobot.org/Club-aakhter), (GSoC-2018) Robotics-Academy.
+- [Hanqing Xie](https://jderobot.org/Club-hanqingxie), (GSoC-2018) Robotics-Academy.
+- [Sergio Paniego](https://jderobot.org/Club-spaniego), (GSoC-2018) PyOnArduino tool.
+- [Jianxiong Cai](https://jderobot.org/Club-jianxiong), (GSoC-2018) Creating realistic 3D map from online SLAM result.
+- [Ram Yoogesh](https://jderobot.org/Club-RamYoogesh), DeepLearning on visual control.
+- [Vinay Sharma](https://jderobot.org/Club-VinaySharma), (GSoC-2018) DeepLearning, DetectionSuite tool.
+- [IEEE Delorean](https://jderobot.org/Ieee-delorean), Wireless car.
 - [Nigel Fernandez](https://jderobot.org/Ni9elf-colab) (GSoC-2017), DeepLearning for PeopleTracking.
 - [Okan Asik](https://jderobot.org/Okanasik-colab) (GSoC-2017), VisualStates Tool.
 - [S.Mehdi Mohaimanian](https://jderobot.org/Deep_Reinforcement_Learning_in_Robotics) (GSoC-2017), Reinforcement Learning.

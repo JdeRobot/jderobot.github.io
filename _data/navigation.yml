@@ -20,10 +20,10 @@ docs:
         url: /projects/robotics_education/
       - title: "Machine Learning in Robotics"
         url: /projects/machine_learning/
-      - title: "FPGAs in robotics"
+      - title: "Reconfigurable Computing in Robotics"
         url: /projects/fpga_robotics/fpga_robotics/
-      - title: "Robot Programming Tools"
-        url: /projects/robots_programming_tools/
+#      - title: "Robot Programming Tools"
+#        url: /projects/robots_programming_tools/
 #      - title: "Visual SLAM"
 #        url: /projects/visual_slam/visual_slam
 #      - title: "Drones"

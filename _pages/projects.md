@@ -1,5 +1,5 @@
 ---
-title: Project Fields
+title: Projects
 layout: collection
 permalink: /projects/
 
@@ -29,27 +29,27 @@ projects:
 
   - image_path: /assets/images/projects/detection_suite.png
     alt: "Machine Learning"
-    title: "Machine Learning"
+    title: "Machine Learning in Robotics"
     excerpt: "DeepLearning for control, Reinforcement Learning for control, Deeplearnig for visual object detection, DeepLearning for prediction..."
     url: "/projects/machine_learning/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
   - image_path: /assets/images/projects/fpga.jpg
-    alt: "FPGAs in robotics"
-    title: "FPGAs in robotics"
+    alt: "Reconfigurable Computing in Robotics"
+    title: "Reconfigurable Computing in Robotics"
     excerpt: "[Neural FPGA project](https://github.com/JdeRobot/neuralFPGA) goal is to produce custom hardware able to do inference with generic neural networks. We rely on hardware simulations and real FPGAs."
     url: "/projects/fpga_robotics/fpga_robotics"
     btn_class: "btn--primary"
     btn_label: "Go!" 
   
-  - image_path: /assets/images/projects/visual_states.png
-    alt: "Robot Programming Tools"
-    title: "Robot Programming Tools" 
-    excerpt: "Several development areas: robot programming tools, learning robotics, drones, SLAM algorithms, DeepLearning. All of them are open for collaboration."
-    url: "/projects/robots_programming_tools/"
-    btn_class: "btn--primary"
-    btn_label: "Go!"
+#  - image_path: /assets/images/projects/visual_states.png
+#    alt: "Robot Programming Tools"
+#    title: "Robot Programming Tools" 
+#    excerpt: "Several development areas: robot programming tools, learning robotics, drones, SLAM algorithms, DeepLearning. All of them are open for collaboration."
+#    url: "/projects/robots_programming_tools/"
+#    btn_class: "btn--primary"
+#    btn_label: "Go!"
 
 #  - image_path: /assets/images/projects/visual_slam.png
 #    alt: "Visual Slam"
@@ -70,13 +70,14 @@ projects:
 ---
 
 
-Our (international) community mainly works on six fields inside Robotics and Computer Vision:
+Our (international) community mainly works on three lines inside Robotics and Computer Vision:
 
 {% include feature_row_advanced %}
 
 
-## Previous project fields
+## Previous lines and projects
 
+- [**Robot Programming Tools**](/projects/robots_programming_tools/)
 - [**Drones**](/projects/drones/drones)
 - [**Visual SLAM**](/projects/visual_slam/visual_slam)
 - [People Tracking](http://wiki.jderobot.org/ElderCare)
