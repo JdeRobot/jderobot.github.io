@@ -21,7 +21,7 @@ docs:
       - title: "Machine Learning in Robotics"
         url: /projects/machine_learning/
       - title: "Reconfigurable Computing in Robotics"
-        url: /projects/fpga_robotics/fpga_robotics/
+        url: /projects/fpga_robotics/
 #      - title: "Robot Programming Tools"
 #        url: /projects/robots_programming_tools/
 #      - title: "Visual SLAM"
