@@ -54,15 +54,15 @@ Configuration files, ROS template and webpage are already provided. The student 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 -->
 
-# Kibotics 
+# Unibotics 
 
-Online platform to learn Robotics for children. [Take a look!](https://www.youtube.com/channel/UCVH_ODFODyRUidhtR0IIZnw/videos)
+Online open platform to learn Robotics for engineering students. [Take a look!](https://www.youtube.com/channel/UCS9IvIytJNqQqImT99g-d6g/videos)
 
 <!--
 {% include youtubePlayer.html id=page.youtubeId3 %}
 -->
 
 <figure class="half">
-    <a href=""><iframe src="https://www.youtube.com/embed/Jhw3R0SjNc4"></iframe></a>
-    <a href=""><iframe src="https://www.youtube.com/embed/hrSIM2HUEaA"></iframe></a>
+    <a href=""><iframe src="https://www.youtube.com/embed/eFJBP8mY5VU"></iframe></a>
+    <a href=""><iframe src="https://www.youtube.com/embed/z_vA4nvi-cY"></iframe></a>
 </figure>

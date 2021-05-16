@@ -10,18 +10,18 @@ classes: wide
 
 feature_row:
   - image_path: /assets/images/projects/deep_learning/detection_suite.png
-    alt: "Detection Studio"
-    title: "Detection Studio"
+    alt: "Detection Metrics"
+    title: "Detection Metrics"
     excerpt: "Set of tools to evaluate object detection neural networks models over the common object detection datasets."
-    url: "https://jderobot.github.io/DetectionStudio/"
+    url: "https://jderobot.github.io/DetectionMetrics/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
-  - image_path: /assets/images/projects/deep_learning/object_detector.png
-    alt: "Object Detector"
-    title: "Object Detector"
-    excerpt: "Easily window which simultaneously shows on real-time the image captured from a webcam or video ..."
-    url: "/projects/deep_learning/object_detector/"
+  - image_path: /assets/images/projects/neural_behavior/autonomous.jpeg
+    alt: "Behavior Metrics"
+    title: "Behavior Metrics"
+    excerpt: "Different types of neural networks that allow learning behavior "
+    url: "https://jderobot.github.io/BehaviorMetrics"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
@@ -33,11 +33,11 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Go!"
 
-  - image_path: /assets/images/projects/neural_behavior/autonomous.jpeg
-    alt: "Behavior Studio"
-    title: "Behavior Studio"
-    excerpt: "Different types of neural networks that allow learning behavior "
-    url: "/projects/deep_learning/behavior_suite"
+  - image_path: /assets/images/projects/deep_learning/object_detector.png
+    alt: "Object Detector"
+    title: "Object Detector"
+    excerpt: "Easily window which simultaneously shows on real-time the image captured from a webcam or video ..."
+    url: "/projects/deep_learning/object_detector/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 ---
@@ -51,13 +51,16 @@ feature_row:
 
 
 
-## DeepLearning Projects
+## MachineLearning Projects
 
-- [Vinay Sharma (GSoC-2018)](https://jderobot.org/Club-VinaySharma) DeepLearning, DetectionSuite tool
-- [Alexandre Rodriguez](https://jderobot.org/Arodriguez-tfm) (master): DeepLearning.
+- [**Reinforcement Learning Studio GitHub**](https://github.com/JdeRobot/RL-Studio)
+- [Francisco Pérez](https://roboticslaburjc.github.io/2017-tfm-francisco-perez/) (master): DeepLearning in autonomous vision based navigation of real robots.
+- [Nacho Arranz](https://roboticslaburjc.github.io/2019-tfm-ignacio-arranz/) (master): Deep Reinforcement Learning for autonomous car.
 - [David Pascual](https://jderobot.org/Dpascual-tfm), (master): Convolutional Pose Machines.
 - [Nuria Oyaga](https://jderobot.org/Noyaga-tfm), (master): Predicting images, learning time sequences.
-- [Vanessa Fernández](https://jderobot.org/Vmartinezf-tfm) (master): Visual Control with DeepLearning.
+- [Vanessa Fernández](https://jderobot.org/Vmartinezf-tfm) (master): Deep Learning for Visual Control.
+- [Alexandre Rodriguez](https://jderobot.org/Arodriguez-tfm) (master): DeepLearning.
+- [Vinay Sharma (GSoC-2018)](https://jderobot.org/Club-VinaySharma) DeepLearning, DetectionSuite tool
 
 [Pretrained network models](http://wiki.jderobot.org/store/deeplearning-networks/).
 {: .notice--info}

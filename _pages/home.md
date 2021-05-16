@@ -47,7 +47,7 @@ youTube_id: ID7qaEcIu4k
 
 {% include feature_row %}
 
-Robotics applications are typically distributed, made up of a collection of concurrent asynchronous components which communicate using some middleware (ROS messages, ICE, DDS...). Building robotics applications is a complex task. Integrating existing nodes or libraries, which provide already solved functionality, and using several tools may increase the software robustness and shorten the development time. JdeRobot toolkit provides several tools, libraries and reusable nodes for Robotics and Computer Vision.
+Robotics applications are typically distributed, made up of a collection of concurrent asynchronous components which communicate using some middleware (ROS messages, ICE, DDS...). Building robotics applications is a complex task. Integrating existing nodes or libraries, which provide already solved functionality, and using several tools may increase the software robustness and shorten the development time. JdeRobot toolkit provides several tools, libraries and reusable nodes for Robotics, Artificial Intelligence and Computer Vision.
 
 | Main Features |
 | :--- |
@@ -77,29 +77,29 @@ Our (international) community mainly works on three fields inside Robotics and C
   </tr>
   <tr>
     <td class="tg-lboi" rowspan="2"><a href="https://jderobot.github.io/projects/robotics_education">Robotics Education and Games</a></td>
-    <td class="tg-0pky"><a href="https://jderobot.github.io/RoboticsAcademy/">Robotics-Academy</a> for engineering students</td>
+    <td class="tg-0pky"><a href="https://jderobot.github.io/RoboticsAcademy/">Robotics-Academy</a>, offline platform for engineering students</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Kibotics online platform for children learning robotics</td>
+    <td class="tg-0pky"><a href="https://unibotics.org/">Unibotics</a>, open online platform for learning robotics</td>
   </tr>
   
   <tr>
     <td class="tg-lboi" rowspan="3"><a href="https://jderobot.github.io/projects/machine_learning">MachineLearning in Robotics</a></td>
-    <td class="tg-0pky"><a href="https://jderobot.github.io/DetectionStudio">DetectionStudio </a>tool for evaluation of visual detection networks</td>
+    <td class="tg-0pky"><a href="https://jderobot.github.io/DetectionMetrics">DetectionMetrics</a> tool for evaluation of visual detection networks</td>
   </tr>
      <tr>
-    <td class="tg-0pky"><a href="https://jderobot.github.io/BehaviorStudio">BehaviorStudio </a>tool for evaluation of control networks</td>
+    <td class="tg-0pky"><a href="https://jderobot.github.io/BehaviorMetrics">BehaviorMetrics</a> tool for evaluation of control networks</td>
    </tr>
   <tr>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/ObjectDetector">ObjectDetector </a>see deep learning networks in action</td>
+    <td class="tg-0pky"><a href="https://github.com/JdeRobot/RL-Studio">Reinforcement Learning Studio</a>, robot programming with rewards</td>
   </tr>
 
   <tr>
     <td class="tg-lboi" rowspan="3"><a href="https://jderobot.github.io/projects/fpga_robotics">Reconfigurable Computing in Robotics</a></td>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/neuralFPGA">neuralFPGA </a>running deeplearning networks on FPGAs</td>
+    <td class="tg-0pky"><a href="https://github.com/JdeRobot/neuralFPGA">neuralFPGA</a>, run deeplearning networks on FPGAs</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/FPGA-robotics">FPGA-robotics </a>designing robot intelligence with IceStudio blocks</td>
+    <td class="tg-0pky"><a href="https://github.com/JdeRobot/FPGA-robotics">FPGA-robotics</a>, design your robot intelligence with IceStudio blocks</td>
   </tr>
   <tr>
   <td class="tg-0pky"><a href="https://jderobot.github.io/VisualCircuit/">VisualCircuit</a> visual robot programming using connected blocks and wires</td>
