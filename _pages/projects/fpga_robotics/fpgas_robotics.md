@@ -1,5 +1,5 @@
 ---
-permalink: /projects/fpga_robotics/fpga_robotics/
+permalink: /projects/fpga_robotics/
 title: "Reconfigurable Computing in Robotics"
 
 sidebar:

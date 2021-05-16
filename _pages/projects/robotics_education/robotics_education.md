@@ -37,7 +37,7 @@ It is an **open source** collection of exercises to learn robotics in a practica
 
 Configuration files, ROS template and webpage are already provided. The student has to develop her code on a separate file, the template, filling in the implementation of a function. The student may use there a simple Python API to access to _sensor readings and actuator commands_ (HAL API) and a simple Python API for _Graphical User Interface and debugging_ (GUI API). 
 
-[JdeRobot Academy](https://jderobot.github.io/RoboticsAcademy/) includes exercises about Autonomous Cars, Mobile robots, Drones and Computer Vision.
+[RoboticsAcademy](https://jderobot.github.io/RoboticsAcademy/) includes exercises about Autonomous Cars, Mobile robots, Drones and Computer Vision.
 
 <figure class="half">
     <a href=""><iframe src="https://www.youtube.com/embed/s7p5MFL2xjA"></iframe></a>
