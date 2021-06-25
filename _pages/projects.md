@@ -84,7 +84,7 @@ Our (international) community mainly works on three lines inside Robotics and Co
 - [TrafficMonitor](http://wiki.jderobot.org/TrafficMonitor)
 - [Home Automation](http://wiki.jderobot.org/Surveillance)
 - [Industrial AGVs](http://wiki.jderobot.org/AutoRob)
-- [Robot Navigation](http://viki.jderobot.org/RobotNavigationLocalization)
+- [Robot Navigation](http://wiki.jderobot.org/RobotNavigationLocalization)
 - [Robot Localization](http://wiki.jderobot.org/RobotLocalization)
 - [Robot Maps](http://wiki.jderobot.org/RobotMaps)
 - [Robot Vision and Attention](http://wiki.jderobot.org/RobotVision)
