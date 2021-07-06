@@ -40,7 +40,6 @@ classes: wide
   - [Daniel Hervás](https://roboticslaburjc.github.io/2021-tfg-daniel-hervas/logbook/), Gamification in Unibotics
   - [Claudia Álvarez](https://roboticslaburjc.github.io/2021-tfg-claudia-alvarez/logbook/), Unibotics and Elasticsearch
   - Álvaro Martín, Predicting images, learning time sequences
-  - [Marta Quintana](https://roboticslaburjc.github.io/2020-tfg-marta-quintana), robotics education with Kibotics
 <!---  - [Rodrigo Pacheco](https://github.com/RoboticsLabURJC/2018-tfg-rodrigo-pacheco), Tello drones support in Kibotics -->
 <!---  - [Sergio Lorenzo](https://github.com/RoboticsLabURJC/2018-tfg-sergio-lorenzo), VisualCircuit robot programming tool in Python -->
 <!---  - [Eva García](https://github.com/RoboticsLabURJC/2017-tfg-eva_garcia), mbot support in Kibotics -->
@@ -56,6 +55,7 @@ classes: wide
 # Previous students
 
 ## 2021
+  - [Marta Quintana](https://roboticslaburjc.github.io/2020-tfg-marta-quintana), robotics education with Kibotics
   - [Ana Cuevas](https://github.com/RoboticsLabURJC/2019-tfg-ana-cuevas), Digital Image Processing exercises in Robotics Academy
 
 ## 2020
