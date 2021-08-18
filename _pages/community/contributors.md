@@ -191,6 +191,11 @@ projects:
     title: <a href='https://github.com/sixer51' target='_blank'>Yijia Wu</a>
     excerpt: "RoboticsAcademy, industrial robots"
 
+  - image_path: /assets/images/community/contributors/utkarshmishra04.jpg
+    alt: "Utkarsh A. Mishra"
+    title: <a href='https://utkarshmishra04.github.io' target='_blank'>Utkarsh A. Mishra</a>
+    excerpt: "Behavior Metrics, DeepLearningStudio"
+
 
 
 ---
