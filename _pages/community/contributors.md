@@ -196,6 +196,10 @@ projects:
     title: <a href='https://utkarshmishra04.github.io' target='_blank'>Utkarsh A. Mishra</a>
     excerpt: "Behavior Metrics, DeepLearningStudio"
 
+  - image_path: /assets/images/community/contributors/siddharth_saha.jpg
+    alt: "Siddharth Saha"
+    title: <a href='https://trunc8.github.io/' target='_blank'>Siddharth Saha</a>
+    excerpt: "RoboticsAcademy, Nav2, Git-blamed for ROS2 RADI :)"
 
 
 ---
