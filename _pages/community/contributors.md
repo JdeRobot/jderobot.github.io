@@ -201,6 +201,10 @@ projects:
     title: <a href='https://trunc8.github.io/' target='_blank'>Siddharth Saha</a>
     excerpt: "RoboticsAcademy, Nav2, Git-blamed for ROS2 RADI :)"
 
+  - image_path: /assets/images/community/contributors/arkajyoti-basak.jpg
+    alt: "Arkajyoti Basak"
+    title: <a href='https://github.com/iamarkaj' target='_blank'>Arkajyoti Basak</a>
+    excerpt: "RoboticsAcademy, Drones"
 
 ---
 
