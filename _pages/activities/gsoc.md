@@ -8,13 +8,17 @@ sidebar:
 classes: wide
 
 
-gsoc2021:
+gsoc2022:
+  - url: /activities/gsoc/2022
+    image_path: /assets/images/activities/gsoc/gsoc-2022.png
+    alt: "GSoC 2022"
+    title: "GSoC 2022"
+
+gallery:
   - url: /activities/gsoc/2021
     image_path: /assets/images/activities/gsoc/gsoc-2021.jpg
     alt: "GSoC 2021"
     title: "GSoC 2021"
-
-gallery:
   - url: /activities/gsoc/2020
     image_path: /assets/images/activities/gsoc/gsoc-2020.jpg
     alt: "GSoC 2020"
@@ -43,17 +47,17 @@ gallery:
 
 <!-- Once again, Google has selected JdeRobot to continue growing as a robotics project by reaching out to collaborators around the world. An exciting adventure. You can see the [**current projects here**](/activities/gsoc/2021): -->
 
-JdeRobot has applied for GSoC-2021. You can see the [**proposed projects here**](/activities/gsoc/2021):
+JdeRobot has applied for GSoC-2022. You can see the [**proposed projects here**](/activities/gsoc/2022):
 
-{% include gallery id="gsoc2021" layout="" %}
+{% include gallery id="gsoc2022" layout="" %}
 
 ## Previous GSoC projects
 
-**JdeRobot** has been represented on **5 times** where students from many **parts of the world** have collaborated in software development. Take a look at the previous projects and get to know the students involved.
+**JdeRobot** has been selected on **6 times** and 30 contributors from many **parts of the world** have collaborated in the open software development of our community from GSoC. Take a look at the previous projects and get to know the contributors involved.
 
 {% include gallery id="gallery" layout="half" %}
 
-## Previous GSoC students
+## Previous GSoC contributors
 
 - [Muhammad Taha](https://theroboticsclub.github.io/colab-gsoc2020-Muhammad_Taha/) (GSoC-2020) VisualCircuit tool, digital electronics language for robot behaviors.
 - [Sakshay Mahna](https://theroboticsclub.github.io/colab-gsoc2020-Sakshay_Mahna/) (GSoC-2020) Robotics-Academy exercises on Evolutionary Robotics.
