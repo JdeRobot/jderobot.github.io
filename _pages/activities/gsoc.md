@@ -53,12 +53,18 @@ JdeRobot has applied for GSoC-2022. You can see the [**proposed projects here**]
 
 ## Previous GSoC projects
 
-**JdeRobot** has been selected on **6 times** and 30 contributors from many **parts of the world** have collaborated in the open software development of our community from GSoC. Take a look at the previous projects and get to know the contributors involved.
+**JdeRobot** has been selected **6 times** and 30 contributors from many **parts of the world** have collaborated in the open software development of our community from GSoC. Take a look at the previous projects and get to know the contributors involved.
 
 {% include gallery id="gallery" layout="half" %}
 
 ## Previous GSoC contributors
 
+- [Suhas Gopal](https://theroboticsclub.github.io/gsoc2021-Suhas_Gopal/) (GSoC-2021) Shifting VisualCircuit to a web server
+- [Utkarsh Mishra](https://theroboticsclub.github.io/gsoc2021-Utkarsh_Mishra/) (GSoC-2021) Autonomous Driving drone with Gazebo using Deep Learning techniques
+- [Siddharth Saha](https://theroboticsclub.github.io/gsoc2021-Siddharth_Saha/) (GSoC-2021) Robotics Academy: multirobot version of the Amazon warehouse exercise in ROS2
+- [Shashwat Dalakoti](https://theroboticsclub.github.io/gsoc2021-Shashwat_Dalakoti/) (GSoC-2021) Robotics-Academy: exercise using Deep Learning for Visual Detection
+- [Arkajyoti Basak](https://theroboticsclub.github.io/gsoc2021-Arkajyoti_Basak/) (GSoC-2021) Robotics Academy: new drone based exercises
+- [Chandan Kumar](https://theroboticsclub.github.io/gsoc2021-Chandan_Kumar/) (GSoC-2021) Robotics Academy: Migrating industrial robot manipulation exercises to web server
 - [Muhammad Taha](https://theroboticsclub.github.io/colab-gsoc2020-Muhammad_Taha/) (GSoC-2020) VisualCircuit tool, digital electronics language for robot behaviors.
 - [Sakshay Mahna](https://theroboticsclub.github.io/colab-gsoc2020-Sakshay_Mahna/) (GSoC-2020) Robotics-Academy exercises on Evolutionary Robotics.
 - [Shreyas Gokhale](https://theroboticsclub.github.io/colab-gsoc2020-Shreyas_Gokhale/) (GSoC-2020) Multi-Robot exercises for Robotics Academy In ROS2.
