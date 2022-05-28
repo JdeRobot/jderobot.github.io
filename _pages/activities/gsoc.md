@@ -10,7 +10,7 @@ classes: wide
 
 gsoc2022:
   - url: /activities/gsoc/2022
-    image_path: /assets/images/activities/gsoc/gsoc-2022.png
+    image_path: /assets/images/activities/gsoc/gsoc-2022-badge.svg
     alt: "GSoC 2022"
     title: "GSoC 2022"
 
