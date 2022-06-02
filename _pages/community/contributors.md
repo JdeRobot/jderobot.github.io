@@ -31,6 +31,11 @@ projects:
 #    title: <a href='https://github.com/cawadall' target='_blank'>Carlos Awadallah</a>
 #    excerpt: "Kibotics, RoboticsAcademy"
 
+  - image_path: /assets/images/community/contributors/arkajyoti-basak.jpg
+    alt: "Arkajyoti Basak"
+    title: <a href='https://github.com/iamarkaj' target='_blank'>Arkajyoti Basak</a>
+    excerpt: "RoboticsAcademy, Drones"
+
   - image_path: /assets/images/community/contributors/david_roldan.png
     alt: "David Roldán"
     title: <a href='https://github.com/davidrol6' target='_blank'>David Roldán</a>
@@ -49,27 +54,32 @@ projects:
   - image_path: /assets/images/community/contributors/dlobato.jpg
     alt: "David Lobato"
     title: <a href='https://github.com/dlobato' target='_blank'>David Lobato</a>
-    excerpt: "Software architecture design, Ice expert, cameraserver, neuralFPGA tool"
+    excerpt: "Software architecture design, ICE expert, cameraserver, neuralFPGA tool"
+
+  - image_path: /assets/images/community/contributors/davidmaria.png
+    alt: "David Maria"
+    title: <a href='https://github.com/dlobato' target='_blank'>David Maria</a>
+    excerpt: "RoboticsAcademy, Unibotics, full web stack expert"
 
   - image_path: /assets/images/community/contributors/dpascualhe.jpg
     alt: "David Pascual"
     title: <a href='https://github.com/dpascualhe' target='_blank'>David Pascual</a>
     excerpt: "DeepLearning, Convolutional Pose Machines"
 
-  - image_path: /assets/images/community/contributors/diegomartin.jpg
-    alt: "Diego Martín Martín"
-    title: <a href='https://github.com/diegomrt' target='_blank'>Diego Martín Martín</a>
-    excerpt: "Drones, RoboticsAcademy (industrial robots)"
+#  - image_path: /assets/images/community/contributors/diegomartin.jpg
+#    alt: "Diego Martín Martín"
+#    title: <a href='https://github.com/diegomrt' target='_blank'>Diego Martín Martín</a>
+#    excerpt: "Drones, RoboticsAcademy (industrial robots)"
 
   - image_path: /assets/images/community/contributors/eperdices.jpg
     alt: "Eduardo Perdices"
     title: <a href='https://github.com/eperdices' target='_blank'>Eduardo Perdices</a>
     excerpt: "Visionlib, calibrator, mobileTeleoperator, replayer, opencvdemo, VisualSLAM: slam-SDVL, slam-SD-SLAM"
 
-  - image_path: /assets/images/community/contributors/fperez.jpg
-    alt: "Francisco Pérez"
-    title: <a href='https://github.com/fqez' target='_blank'>Francisco Pérez</a>
-    excerpt: "Project maintainer, committer"
+#  - image_path: /assets/images/community/contributors/fperez.jpg
+#    alt: "Francisco Pérez"
+#    title: <a href='https://github.com/fqez' target='_blank'>Francisco Pérez</a>
+#    excerpt: "Project maintainer, committer"
 
   - image_path: /assets/images/community/contributors/frivas.jpg
     alt: "Francisco Rivas"
@@ -116,15 +126,15 @@ projects:
     title: <a href='https://github.com/igarag' target='_blank'>Nacho Arranz</a>
     excerpt: "PiBot, KiBotics, Academy, Docs"
 
-  - image_path: /assets/images/community/contributors/NachoCondes.jpg
-    alt: "Nacho Condés"
-    title: <a href='https://github.com/naxvm' target='_blank'>Nacho Condés</a>
-    excerpt: "MachineLearning in Robotics"
+#  - image_path: /assets/images/community/contributors/NachoCondes.jpg
+#    alt: "Nacho Condés"
+#    title: <a href='https://github.com/naxvm' target='_blank'>Nacho Condés</a>
+#    excerpt: "MachineLearning in Robotics"
 
-  - image_path: /assets/images/community/contributors/nikhil.jpg
-    alt: "Nikhil Khedekar"
-    title: <a href='https://github.com/nkhedekar' target='_blank'>Nikhil Khedekar</a>
-    excerpt: "RoboticsAcademy, drones"
+#  - image_path: /assets/images/community/contributors/nikhil.jpg
+#    alt: "Nikhil Khedekar"
+#    title: <a href='https://github.com/nkhedekar' target='_blank'>Nikhil Khedekar</a>
+#    excerpt: "RoboticsAcademy, drones"
 
 #  - image_path: /assets/images/community/contributors/okan-asik.jpg
 #    alt: "Okan Asik"
@@ -146,15 +156,15 @@ projects:
     title: <a href='https://github.com/pushkalkatara' target='_blank'>Pushkal Katara</a>
     excerpt: "Visual States Tool"
 
-  - image_path: /assets/images/community/contributors/Roberto_Calvo_Palomino.jpg
-    alt: "Roberto Calvo"
-    title: <a href='https://github.com/rperezgonz' target='_blank'>Roberto Calvo</a>
-    excerpt: "Surveillance, components in Android, 3DPeopleTracker"
+#  - image_path: /assets/images/community/contributors/Roberto_Calvo_Palomino.jpg
+#    alt: "Roberto Calvo"
+#    title: <a href='https://github.com/rperezgonz' target='_blank'>Roberto Calvo</a>
+#    excerpt: "Surveillance, components in Android, 3DPeopleTracker"
 
-  - image_path: /assets/images/community/contributors/rperez.jpg
-    alt: "Roberto Pérez"
-    title: <a href='https://github.com/rperezgonz' target='_blank'>Roberto Pérez</a>
-    excerpt: "Webtools, WebSim2D, 3DViz"
+#  - image_path: /assets/images/community/contributors/rperez.jpg
+#    alt: "Roberto Pérez"
+#    title: <a href='https://github.com/rperezgonz' target='_blank'>Roberto Pérez</a>
+#    excerpt: "Webtools, WebSim2D, 3DViz"
 
 #  - image_path: /assets/images/community/contributors/ralvarez.jpg
 #    alt: "Rubén Álvarez"
@@ -176,6 +186,26 @@ projects:
     title: <a href='https://github.com/sergiopaniego' target='_blank'>Sergio Paniego</a>
     excerpt: "PyOnArduino, PyOnBrowser, DetectionStudio tool, Kibotics, Academy"
 
+  - image_path: /assets/images/community/contributors/shashwat-dalakoti.jpg
+    alt: "Shashwat Dalakoti"
+    title: <a href='https://trunc8.github.io/' target='_blank'>Siddharth Saha</a>
+    excerpt: "RoboticsAcademy, DeepLearning"
+
+  - image_path: /assets/images/community/contributors/siddharth_saha.jpg
+    alt: "Siddharth Saha"
+    title: <a href='https://trunc8.github.io/' target='_blank'>Siddharth Saha</a>
+    excerpt: "RoboticsAcademy, Nav2, Git-blamed for ROS2 RADI :)"
+
+  - image_path: /assets/images/community/contributors/suhas-gopal.jpg
+    alt: "Suhas Gopal"
+    title: <a href='https://trunc8.github.io/' target='_blank'>Siddharth Saha</a>
+    excerpt: "VisualCircuit"
+
+  - image_path: /assets/images/community/contributors/utkarshmishra04.jpg
+    alt: "Utkarsh A. Mishra"
+    title: <a href='https://utkarshmishra04.github.io' target='_blank'>Utkarsh A. Mishra</a>
+    excerpt: "Behavior Metrics, DeepLearningStudio"
+
   - image_path: /assets/images/community/contributors/vanessa.jpg
     alt: "Vanessa Fernández"
     title: <a href='https://github.com/vmartinezf' target='_blank'>Vanessa Fernández</a>
@@ -186,25 +216,10 @@ projects:
 #    title: <a href='https://github.com/vinay0410' target='_blank'>Vinay Sharma</a>
 #    excerpt: "DetectionStudio tool, ROS1+ROS2 compatibility"
 
-  - image_path: /assets/images/community/contributors/yijia.jpg
-    alt: "Yijia Wu"
-    title: <a href='https://github.com/sixer51' target='_blank'>Yijia Wu</a>
-    excerpt: "RoboticsAcademy, industrial robots"
-
-  - image_path: /assets/images/community/contributors/utkarshmishra04.jpg
-    alt: "Utkarsh A. Mishra"
-    title: <a href='https://utkarshmishra04.github.io' target='_blank'>Utkarsh A. Mishra</a>
-    excerpt: "Behavior Metrics, DeepLearningStudio"
-
-  - image_path: /assets/images/community/contributors/siddharth_saha.jpg
-    alt: "Siddharth Saha"
-    title: <a href='https://trunc8.github.io/' target='_blank'>Siddharth Saha</a>
-    excerpt: "RoboticsAcademy, Nav2, Git-blamed for ROS2 RADI :)"
-
-  - image_path: /assets/images/community/contributors/arkajyoti-basak.jpg
-    alt: "Arkajyoti Basak"
-    title: <a href='https://github.com/iamarkaj' target='_blank'>Arkajyoti Basak</a>
-    excerpt: "RoboticsAcademy, Drones"
+#  - image_path: /assets/images/community/contributors/yijia.jpg
+#    alt: "Yijia Wu"
+#    title: <a href='https://github.com/sixer51' target='_blank'>Yijia Wu</a>
+#    excerpt: "RoboticsAcademy, industrial robots"
 
 ---
 
@@ -212,11 +227,14 @@ projects:
 {% include feature_row_advanced %}
 
 ## Previous and awesome JdeRobot Contributors
-
-- [Aitor Martínez](href='https://github.com/aitormf): Package generation, web technology, Academy cameraview.js, rgbdviewer.js, uavviewer.js
+- [Diego Martín Martín](https://github.com/diegomrt): Drones, RoboticsAcademy (industrial robots)
+- [Francisco Pérez](https://github.com/fqez): Project maintainer, committer
+- [Nacho Condés](href=https://github.com/naxvm): MachineLearning in Robotics
+- [Yijia Wu](href=https://github.com/sixer51): RoboticsAcademy, Industrial Robots
+- [Aitor Martínez](href=https://github.com/aitormf): Package generation, web technology, Academy cameraview.js, rgbdviewer.js, uavviewer.js
 - [Julio Vega](https://gestion2.urjc.es/pdi/ver/julio.vega): giraffeserver, visionlib, gazeboserver
 - [Rubén Álvarez](https://github.com/ralvarezmar): Kibotics, Websim
-<!--- [Nikhil Khedekar](https://github.com/nkhedekar): RoboticsAcademy, drones -->
+- [Nikhil Khedekar](https://github.com/nkhedekar): RoboticsAcademy, drones 
 - [Alberto Martín](https://github.com/almartinflorido): ArDroneServer, drones, introrob
 - [Okan Asik](https://github.com/okanasik): VisualStates tool
 - [Vinay Sharma](https://github.com/vinay0410): DetectionStudio tool, ROS1+ROS2 compatibility
