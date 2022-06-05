@@ -76,6 +76,11 @@ projects:
     title: <a href='https://github.com/eperdices' target='_blank'>Eduardo Perdices</a>
     excerpt: "Visionlib, calibrator, mobileTeleoperator, replayer, opencvdemo, VisualSLAM: slam-SDVL, slam-SD-SLAM"
 
+  - image_path: /assets/images/community/contributors/felipe-machado.jpg
+    alt: "Felipe Machado"
+    title: <a href='https://github.com/felipe-m' target='_blank'>Felipe Machado</a>
+    excerpt: "FPGA-Robotics, FPGA expert"
+
 #  - image_path: /assets/images/community/contributors/fperez.jpg
 #    alt: "Francisco Pérez"
 #    title: <a href='https://github.com/fqez' target='_blank'>Francisco Pérez</a>
@@ -231,7 +236,7 @@ projects:
 - [Francisco Pérez](https://github.com/fqez): Project maintainer, committer
 - [Nacho Condés](href=https://github.com/naxvm): MachineLearning in Robotics
 - [Yijia Wu](href=https://github.com/sixer51): RoboticsAcademy, Industrial Robots
-- [Aitor Martínez](href=https://github.com/aitormf): Package generation, web technology, Academy cameraview.js, rgbdviewer.js, uavviewer.js
+- [Aitor Martínez](href=https://github.com/aitormf): Web technology, Academy, cameraview.js, rgbdviewer.js, uavviewer.js
 - [Julio Vega](https://gestion2.urjc.es/pdi/ver/julio.vega): giraffeserver, visionlib, gazeboserver
 - [Rubén Álvarez](https://github.com/ralvarezmar): Kibotics, Websim
 - [Nikhil Khedekar](https://github.com/nkhedekar): RoboticsAcademy, drones 
