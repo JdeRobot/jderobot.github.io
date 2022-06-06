@@ -36,6 +36,11 @@ projects:
     title: <a href='https://github.com/iamarkaj' target='_blank'>Arkajyoti Basak</a>
     excerpt: "RoboticsAcademy, Drones"
 
+  - image_path: /assets/images/community/contributors/DanielPalacios.png
+    alt: "Daniel Palacios"
+    title: <a href='https://github.com/dpa3001' target='_blank'>Daniel Palacios</a>
+    excerpt: "RoboticsAcademy"
+
   - image_path: /assets/images/community/contributors/david_roldan.png
     alt: "David Roldán"
     title: <a href='https://github.com/davidrol6' target='_blank'>David Roldán</a>
