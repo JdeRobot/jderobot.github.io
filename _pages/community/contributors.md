@@ -176,6 +176,11 @@ projects:
 #    title: <a href='https://github.com/ralvarezmar' target='_blank'>Rubén Álvarez</a>
 #    excerpt: "Kibotics, Websim"
 
+  - image_path: /assets/images/community/contributors/RubenNieto.jpg
+    alt: "Rubén Nieto"
+    title: <a href='https://github.com/rubennc91' target='_blank'>Rubén Nieto</a>
+    excerpt: "FPGA-Robotics, FPGA expert"
+
   - image_path: /assets/images/community/contributors/sakshay-mahna.jpg
     alt: "Sakshay Mahna"
     title: <a href='https://github.com/SakshayMahna' target='_blank'>Sakshay Mahna</a>
