@@ -203,7 +203,7 @@ projects:
 
   - image_path: /assets/images/community/contributors/shashwat-dalakoti.jpg
     alt: "Shashwat Dalakoti"
-    title: <a href='https://trunc8.github.io/' target='_blank'>Siddharth Saha</a>
+    title: <a href='https://trunc8.github.io/' target='_blank'>Shashwat Dalakoti</a>
     excerpt: "RoboticsAcademy, DeepLearning"
 
   - image_path: /assets/images/community/contributors/siddharth_saha.jpg
@@ -213,7 +213,7 @@ projects:
 
   - image_path: /assets/images/community/contributors/suhas-gopal.jpg
     alt: "Suhas Gopal"
-    title: <a href='https://trunc8.github.io/' target='_blank'>Siddharth Saha</a>
+    title: <a href='https://trunc8.github.io/' target='_blank'>Suhas Gopal</a>
     excerpt: "VisualCircuit"
 
   - image_path: /assets/images/community/contributors/utkarshmishra04.jpg
