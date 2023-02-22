@@ -9,12 +9,16 @@ classes: wide
 
 
 gsoc2022:
+  - url: /activities/gsoc/2023
+    image_path: /assets/images/activities/gsoc/gsoc-2023-badge.svg
+    alt: "GSoC 2023"
+    title: "GSoC 2023"
+
+gallery:
   - url: /activities/gsoc/2022
     image_path: /assets/images/activities/gsoc/gsoc-2022-badge.svg
     alt: "GSoC 2022"
     title: "GSoC 2022"
-
-gallery:
   - url: /activities/gsoc/2021
     image_path: /assets/images/activities/gsoc/gsoc-2021.jpg
     alt: "GSoC 2021"
