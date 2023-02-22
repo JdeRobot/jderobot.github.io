@@ -10,7 +10,7 @@ classes: wide
 
 gsoc2022:
   - url: /activities/gsoc/2023
-    image_path: /assets/images/activities/gsoc/gsoc-2023-badge.svg
+    image_path: /assets/images/activities/gsoc/gsoc-2023.jpg
     alt: "GSoC 2023"
     title: "GSoC 2023"
 
@@ -57,7 +57,7 @@ JdeRobot has applied for GSoC-2022. You can see the [**proposed projects here**]
 
 ## Previous GSoC projects
 
-**JdeRobot** has been selected **6 times** and 30 contributors from many **parts of the world** have collaborated in the open software development of our community from GSoC. Take a look at the previous projects and get to know the contributors involved.
+**JdeRobot** has been selected **8 times** and 35 contributors from many **parts of the world** have collaborated in the open software development of our community from GSoC. Take a look at the previous projects and get to know the contributors involved.
 
 {% include gallery id="gallery" layout="half" %}
 
