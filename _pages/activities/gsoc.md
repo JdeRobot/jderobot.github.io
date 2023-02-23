@@ -51,18 +51,24 @@ gallery:
 
 <!-- Once again, Google has selected JdeRobot to continue growing as a robotics project by reaching out to collaborators around the world. An exciting adventure. You can see the [**current projects here**](/activities/gsoc/2021): -->
 
-JdeRobot has applied for GSoC-2022. You can see the [**proposed projects here**](/activities/gsoc/2022):
+JdeRobot has applied for GSoC-2023. You can see the [**proposed projects here**](/activities/gsoc/2022):
 
 {% include gallery id="gsoc2022" layout="" %}
 
 ## Previous GSoC projects
 
-**JdeRobot** has been selected **8 times** and 35 contributors from many **parts of the world** have collaborated in the open software development of our community from GSoC. Take a look at the previous projects and get to know the contributors involved.
+**JdeRobot** has been selected **8 times** and 36 contributors from many **parts of the world** have collaborated in the open software development of our community from GSoC. Take a look at the previous projects and get to know the contributors involved.
 
 {% include gallery id="gallery" layout="half" %}
 
 ## Previous GSoC contributors
 
+- [Apoorv Garg](https://theroboticsclub.github.io/gsoc2022-Apoorv_Garg/) (GSoC-2022) Improvement of Web Templates of Robotics Academy exercises
+- [Toshan Luktuke](https://theroboticsclub.github.io/gsoc2022-Toshan_Luktuke/) (GSoC-2022) Improvement of VisualCircuit web service
+- [Nikhil Paliwal](https://theroboticsclub.github.io/gsoc2022-Nikhil_Paliwal/)(GSoC-2022) Optimization of Deep Learning models for autonomous driving
+- [Akshay Narisetti](https://theroboticsclub.github.io/gsoc2022-Akshay_Narisetti/)(GSoC-2022) Robotics Academy: improvement of autonomous driving exercises
+- [Prakarsh Kaushik](https://theroboticsclub.github.io/gsoc2022-Prakarsh_Kaushik/)(GSoC-2022) Robotics Academy: consolidation of drone based exercises
+- [Bhavesh Misra](https://theroboticsclub.github.io/gsoc2022-Bhavesh_Misra/) (GSoC-2022) Robotics Academy: improve Deep Learning based Human Detection exercise
 - [Suhas Gopal](https://theroboticsclub.github.io/gsoc2021-Suhas_Gopal/) (GSoC-2021) Shifting VisualCircuit to a web server
 - [Utkarsh Mishra](https://theroboticsclub.github.io/gsoc2021-Utkarsh_Mishra/) (GSoC-2021) Autonomous Driving drone with Gazebo using Deep Learning techniques
 - [Siddharth Saha](https://theroboticsclub.github.io/gsoc2021-Siddharth_Saha/) (GSoC-2021) Robotics Academy: multirobot version of the Amazon warehouse exercise in ROS2
