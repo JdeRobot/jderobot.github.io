@@ -16,7 +16,7 @@ gsoc2023:
 
 gallery:
   - url: /activities/gsoc/2022
-    image_path: /assets/images/activities/gsoc/gsoc-2022-badge.svg
+    image_path: /assets/images/activities/gsoc/gsoc-2022.jpg
     alt: "GSoC 2022"
     title: "GSoC 2022"
   - url: /activities/gsoc/2021
