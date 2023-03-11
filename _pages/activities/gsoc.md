@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 
 
-gsoc2022:
+gsoc2023:
   - url: /activities/gsoc/2023
     image_path: /assets/images/activities/gsoc/gsoc-2023.jpg
     alt: "GSoC 2023"
@@ -51,9 +51,9 @@ gallery:
 
 <!-- Once again, Google has selected JdeRobot to continue growing as a robotics project by reaching out to collaborators around the world. An exciting adventure. You can see the [**current projects here**](/activities/gsoc/2021): -->
 
-JdeRobot has applied for GSoC-2023. You can see the [**proposed projects here**](/activities/gsoc/2022):
+JdeRobot has been selected as mentoring organization for GSoC-2023. You can see the [**proposed projects here**](/activities/gsoc/2023):
 
-{% include gallery id="gsoc2022" layout="" %}
+{% include gallery id="gsoc2023" layout="" %}
 
 ## Previous GSoC projects
 
