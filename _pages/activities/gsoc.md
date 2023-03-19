@@ -85,8 +85,8 @@ JdeRobot has been selected as mentoring organization for GSoC-2023. You can see 
 - [Jeevan Kumar](https://theroboticsclub.github.io/colab-gsoc2019-Jeevan_Kumar/) (GSoC-2019) Improving DetectionSuite Deep Learning tool.
 - [Baidyanath Kundu](https://theroboticsclub.github.io/colab-gsoc2019-Baidyanath_Kundu/) (GSoC-2019) A parameterized automata Library for VisualStates tool.
 - [Srinivasan Vijayraghavan](https://theroboticsclub.github.io/colab-gsoc2019-Srinivasan_Vijayraghavan/) (GSoC-2019) Running Python code on the web browser.
-- [Pankhuri Vanjani](https://jderobot.org/Club-PushkalKatara) (GSoC-2019) Migration of JdeRobot tools to ROS 2.
-- [Pushkal Katara](https://theroboticsclub.github.io/colab-gsoc2019-Pankhuri_Vanjani/) (GSoC-2018) VisualStates tool.
+- [Pankhuri Vanjani](https://theroboticsclub.github.io/colab-gsoc2019-Pankhuri_Vanjani/) (GSoC-2019) Migration of JdeRobot tools to ROS 2.
+- [Pushkal Katara](https://jderobot.org/Club-PushkalKatara) (GSoC-2018) VisualStates tool.
 - [Arsalan Akhter](https://jderobot.org/Club-aakhter) (GSoC-2018) Robotics-Academy.
 - [Hanqing Xie](https://jderobot.org/Club-hanqingxie) (GSoC-2018) Robotics-Academy.
 - [Sergio Paniego](https://jderobot.org/Club-spaniego) (GSoC-2018) PyOnArduino tool.
