@@ -144,6 +144,9 @@ footer:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/jderobot/"
 
 
 # Reading Files

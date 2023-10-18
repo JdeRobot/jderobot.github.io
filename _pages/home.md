@@ -39,10 +39,11 @@ youTube_id: ID7qaEcIu4k
 ---
 
 
-<figure class="third" style="text-align: center">
+<figure style="text-align: center">
     <a href="https://github.com/JdeRobot" target="_blank"><img src="/assets/images/cover/github_social_button.png" style="width:200px;"></a>
     <a href="https://twitter.com/jderobot" target="_blank"><img src="/assets/images/cover/twitter_social_button.png" style="width:200px;"></a>
     <a href="https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ/videos" target="_blank"><img src="/assets/images/cover/youtube_social_button.png" style="width:200px;"></a>
+    <a href="https://www.linkedin.com/company/jderobot/" target="_blank"><img src="/assets/images/cover/Linkedin-logo-png.png" style="width:200px;"></a>
 </figure>
 
 {% include feature_row %}
