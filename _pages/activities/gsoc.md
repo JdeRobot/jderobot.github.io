@@ -63,6 +63,10 @@ JdeRobot has been selected as mentoring organization for GSoC-2023. You can see 
 
 ## Previous GSoC contributors
 
+- [Prakhar Bansal](https://theroboticsclub.github.io/gsoc2023-Prakhar_Bansal/) (GSoC-2023) RoboticsAcademy: Cross-Platform Desktop Application using ElectronJS
+- [Siddheshsingh Tanwar](https://theroboticsclub.github.io/gsoc2023-Siddheshsingh_Tanwar/) (GSoC-2023) Dockerization of Visual Circuit
+- [Meiqi Zhao](https://theroboticsclub.github.io/gsoc2023-Meiqi_Zhao/) (GSoC-2023) Obstacle Avoidance for Autonomous Driving in CARLA Using Segmentation Deep Learning Models
+- [Pawan Wadhwani](https://theroboticsclub.github.io/gsoc2023-Pawan_Wadhwani/) (GSoC-2023) Robotics Academy: migration to ROS2 Humble
 - [Apoorv Garg](https://theroboticsclub.github.io/gsoc2022-Apoorv_Garg/) (GSoC-2022) Improvement of Web Templates of Robotics Academy exercises
 - [Toshan Luktuke](https://theroboticsclub.github.io/gsoc2022-Toshan_Luktuke/) (GSoC-2022) Improvement of VisualCircuit web service
 - [Nikhil Paliwal](https://theroboticsclub.github.io/gsoc2022-Nikhil_Paliwal/)(GSoC-2022) Optimization of Deep Learning models for autonomous driving
