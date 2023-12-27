@@ -56,13 +56,12 @@ feature_row:
 
 # Questions and support
 
+The main communication channel to ask for support is JdeRobot [Discussion page](https://github.com/orgs/JdeRobot/discussions). Feel free to post your questions there.
+
 The general mailing list for jderobot users and developers is jde-developers [at] gsyc [dot] urjc [dot] es.
 
 It is open, and you can automatically subscribe at this **[SUBSCRIPTION PAGE](https://gsyc.urjc.es/cgi-bin/mailman/listinfo/jde-developers)**
 Are you looking for a certain message or topic?, search it in the **[ARCHIVE OF PREVIOUS MESSAGES](http://jderobot-developer-list.2315034.n4.nabble.com/)** or in this [alternative archive](https://gsyc.urjc.es/pipermail/jde-developers/index.html)
-
-The main way to ask for support is to use the GitHub repository of the software piece you are interested in.
-
 
 
 # Join the team. How to contribute
