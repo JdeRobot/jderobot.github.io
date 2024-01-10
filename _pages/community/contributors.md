@@ -31,6 +31,11 @@ projects:
 #    title: <a href='https://github.com/cawadall' target='_blank'>Carlos Awadallah</a>
 #    excerpt: "Kibotics, RoboticsAcademy"
 
+  - image_path: /assets/images/community/contributors/pawan-wadhwani.jpg
+    alt: "Pawan Wadhwani"
+    title: <a href='https://github.com/pawanw17' target='_blank'>Pawan Wadhwani</a>
+    excerpt: "RoboticsAcademy, ROS2 RADI, Drones"
+
   - image_path: /assets/images/community/contributors/arkajyoti-basak.jpg
     alt: "Arkajyoti Basak"
     title: <a href='https://github.com/iamarkaj' target='_blank'>Arkajyoti Basak</a>
