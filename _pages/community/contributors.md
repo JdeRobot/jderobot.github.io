@@ -41,7 +41,7 @@ projects:
     title: <a href='https://github.com/Apoorvgarg-creator' target='_blank'>Apoorv Garg</a>
     excerpt: "RoboticsAcademy, RA-Desktop"
 
-  - image_path: /assets/images/community/contributors/LuciaChen.jpg
+  - image_path: /assets/images/community/contributors/LuciaChen-member.jpg
     alt: "Lucia Chen"
     title: <a href='https://github.com/lu164' target='_blank'>Lucia Chen</a>
     excerpt: "RoboticsAcademy, service robotics"
