@@ -36,6 +36,16 @@ projects:
     title: <a href='https://github.com/pawanw17' target='_blank'>Pawan Wadhwani</a>
     excerpt: "RoboticsAcademy, ROS2 RADI, Drones"
 
+  - image_path: /assets/images/community/contributors/ApoorvGarg-member.jpg
+    alt: "Apoorv Garg"
+    title: <a href='https://github.com/Apoorvgarg-creator' target='_blank'>Apoorv Garg</a>
+    excerpt: "RoboticsAcademy, RA-Desktop"
+
+  - image_path: /assets/images/community/contributors/LuciaChen.jpg
+    alt: "Lucia Chen"
+    title: <a href='https://github.com/lu164' target='_blank'>Lucia Chen</a>
+    excerpt: "RoboticsAcademy, service robotics"
+ 
   - image_path: /assets/images/community/contributors/arkajyoti-basak.jpg
     alt: "Arkajyoti Basak"
     title: <a href='https://github.com/iamarkaj' target='_blank'>Arkajyoti Basak</a>
@@ -96,10 +106,10 @@ projects:
 #    title: <a href='https://github.com/fqez' target='_blank'>Francisco Pérez</a>
 #    excerpt: "Project maintainer, committer"
 
-  - image_path: /assets/images/community/contributors/frivas.jpg
-    alt: "Francisco Rivas"
-    title: <a href='https://github.com/chanfr' target='_blank'>Francisco Rivas</a>
-    excerpt: "NaoBody, openniServer, kinectviewer, 3DPeopleTracker, DetectionSuite tool"
+#  - image_path: /assets/images/community/contributors/frivas.jpg
+#    alt: "Francisco Rivas"
+#    title: <a href='https://github.com/chanfr' target='_blank'>Francisco Rivas</a>
+#    excerpt: "NaoBody, openniServer, kinectviewer, 3DPeopleTracker, DetectionSuite tool"
 
 #  - image_path: /assets/images/community/contributors/jeevan.jpg
 #    alt: "Jeevan Kumar"
