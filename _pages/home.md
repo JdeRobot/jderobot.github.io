@@ -134,10 +134,10 @@ We are registered as **non-profit organization** in Spain Ref.#615800.
 
 ## News
 
-* (2021/05/17) Accepted students for JdeRobot GSoC-2021 have been announced, take a look at the [selected students/projects](https://jderobot.github.io/activities/gsoc/2021).
-* (2021/02/15) JdeRobot-base and JdeRobot-assets are now deprecated. Our toolkit is now fully ROS-based!.
-* (2021/02/01) [*RoboticsAcademy 2.3.2*](https://jderobot.github.io/RoboticsAcademy) released. It includes four web based exercises, solve them from your browser :-)
-* (2020/12/22) [*VisualCircuit*](https://jderobot.github.io/VisualCircuit/) tool has born, it is ready to use. Program your robot application using blocks and wires, as in electronic circuits.
+<!--* (2021/05/17) Accepted students for JdeRobot GSoC-2021 have been announced, take a look at the [selected students/projects](https://jderobot.github.io/activities/gsoc/2021). .-->
+<!--* (2021/02/15) JdeRobot-base and JdeRobot-assets are now deprecated. Our toolkit is now fully ROS-based!. .-->
+<!--* (2021/02/01) [*RoboticsAcademy 2.3.2*](https://jderobot.github.io/RoboticsAcademy) released. It includes four web based exercises, solve them from your browser :-) .-->
+<!-- * (2020/12/22) [*VisualCircuit*](https://jderobot.github.io/VisualCircuit/) tool has born, it is ready to use. Program your robot application using blocks and wires, as in electronic circuits..-->
 <!--* (2020/05/04) Accepted students for JdeRobot GSoC-2020 have been announced, take a look at the [selected students/projects](https://jderobot.github.io/activities/gsoc/2020).-->
 <!-- * *JdeRobot has been accepted as a mentoring organization for Google Summer of Code 2020*, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2020) and our candidate selection process.-->
 <!-- * The last stable release, JdeRobot-5.7.0, has been released as debian package (2020/02/14): full compatible with ROS Melodic. -->
