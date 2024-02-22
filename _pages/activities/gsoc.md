@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 
 
-gsoc2023:
+gsoc2024:
   - url: /activities/gsoc/2024
     image_path: /assets/images/activities/gsoc/gsoc-2024.jpg
     alt: "GSoC 2024"
