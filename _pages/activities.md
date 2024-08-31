@@ -21,11 +21,19 @@ feature_row:
     url: "/activities/gsoc/"
     btn_class: "btn--primary"
     btn_label: "Go!"
+    
+  - image_path: /assets/images/activities/internships1.jpg
+    alt: "Internships"
+    title: "Internships"
+    excerpt: "Contribute to our robotics open source software projects while being mentored by our experts. Become an experienced robotics developer!"
+    url: "/activities/internships/"
+    btn_class: "btn--primary"
+    btn_label: "Go!"
 
   - image_path: /assets/images/activities/courses.jpg
     alt: "Robotics Courses"
     title: "Robotics Courses"
-    excerpt: "JdeRobot Robotics Academy has been used since 2006 for the teaching of robotics in various courses, both undergraduate and master."
+    excerpt: "Our RoboticsAcademy has been used since 2006 for the teaching of robotics in various courses, both undergraduate and master."
     url: "/activities/robotics_courses/"
     btn_class: "btn--primary"
     btn_label: "Go!"
@@ -33,7 +41,7 @@ feature_row:
   - image_path: /assets/images/activities/talks.jpg
     alt: "Talks"
     title: "Talks"
-    excerpt: "All these Technological Talks have been celebrated at the Universidad Rey Juan Carlos in the last years, fostered by the JdeRobot Foundation."
+    excerpt: "All these Technological Talks have been celebrated at the Universidad Rey Juan Carlos in the last years, fostered by JdeRobot org."
     url: "/activities/talks/"
     btn_class: "btn--primary"
     btn_label: "Go!"
@@ -41,7 +49,7 @@ feature_row:
   - image_path: /assets/images/activities/competition.jpg
     alt: "Competitions"
     title: "Competitions"
-    excerpt: "JdeRobot organizes every year robotics championships where you will have to demonstrate your skills as a programmer."
+    excerpt: "We organize every year robotics competitions where you have to demonstrate your skills as a robotics programmer."
     url: "/activities/competitions/"
     btn_class: "btn--primary"
     btn_label: "Go!" 

@@ -4,36 +4,38 @@ main:
     url: /projects
 # url: /projects/index/
   - title: Activities
-    url: /activities/
+    url: /activities
   - title: Community
 #    url: /community/index/
     url: /community
   - title: About
-    url: /about/
+    url: /about
 
 # left side bar
 docs:
   - title: "Projects"
     url: /projects
     children:
-      - title: "Robotics Education & Games"
+      - title: "Robotics Education"
         url: /projects/robotics_education/
-      - title: "Machine Learning in Robotics"
+      - title: "AI driven Robotics"
         url: /projects/machine_learning/
-      - title: "Reconfigurable Computing in Robotics"
-        url: /projects/fpga_robotics/
-#      - title: "Robot Programming Tools"
-#        url: /projects/robots_programming_tools/
+#      - title: "Reconfigurable Computing in Robotics"
+#        url: /projects/fpga_robotics/
+      - title: "Robot Programming Tools"
+        url: /projects/robot_programming_tools/
 #      - title: "Visual SLAM"
 #        url: /projects/visual_slam/visual_slam
 #      - title: "Drones"
 #        url: /projects/drones/drones/
 
   - title: "Activities"
-    url: /activities/
+    url: /activities
     children:
       - title: "Google Summer of Code"
         url: /activities/gsoc/
+      - title: "Internships"
+        url: /activities/internships/
       - title: "Robotics courses"
         url: /activities/robotics_courses/
       - title: "Tech Talks"
@@ -46,8 +48,8 @@ docs:
     children:
       - title: "Contributors"
         url: /community/contributors/
-      - title: "Students"
-        url: /community/students/
-      - title: "Robotics Club"
-        url: /community/robotics_club/
+ #     - title: "Students"
+ #       url: /community/students/
+ #     - title: "Robotics Club"
+ #       url: /community/robotics_club/
 

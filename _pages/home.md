@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/cover/projects.png
     alt: "Projects"
     title: "Projects"
-    excerpt: "Several development areas: robot programming tools, DeepLearning, FPGAs, Education, drones, SLAM algorithms. Open for collaboration."
+    excerpt: "In several areas: robot programming tools, AI driven Robotics, Education, drones..."
     url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/cover/activities.jpg
     alt: "Activities"
     title: "Activities"
-    excerpt: "Some of the activities of the organization where students from different areas come together to put together a common project."
+    excerpt: "Google Summer of Code, internships, etc."
     url: "/activities/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
@@ -30,7 +30,7 @@ feature_row:
   - image_path: /assets/images/cover/community.jpg
     alt: "Community"
     title: "Community"
-    excerpt: "The JdeRobot organization is open to contributions at development, documentation, testing, integration and research."
+    excerpt: "Who we are. Join us contributing in some development, testing, integrating, writting documentation or doing research."
     url: "/community/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -48,17 +48,12 @@ youTube_id: ID7qaEcIu4k
 
 {% include feature_row %}
 
-Robotics applications are typically distributed, made up of a collection of concurrent asynchronous components which communicate using some middleware (ROS messages, ICE, DDS...). Building robotics applications is a complex task. Integrating existing nodes or libraries, which provide already solved functionality, and using several tools may increase the software robustness and shorten the development time. JdeRobot toolkit provides several tools, libraries and reusable nodes for Robotics, Artificial Intelligence and Computer Vision.
+Currently robotics applications are typically distributed, made up of a collection of concurrent asynchronous components which communicate using some middleware. Building robotics applications is a complex task. Integrating existing software pieces and using several tools may increase the software robustness and shorten the development time. JdeRobot toolkit provides several tools, resources, libraries and reusable nodes for **Robotics**, **Artificial Intelligence** and **Computer Vision** applications.
 
-| Main Features |
-| :--- |
-| ROS friendly (full compatible with ROS-Kinetic) |
-| C++, Python, JavaScript |
-| Open Source |
-| Easy installation from debian, PIP and npm packages |
+We love open source software. All our software is ROS friendly. It has been developed mainly in Python, C++ and even JavaScript. Our mission is threefold: **develop useful open source robotics software**, **foster robotics education** worldwide, and also do some **research in robotics**. 
 
+We are registered as **non-profit organization** in Spain Ref.#615800. Our international community mainly works on three areas:
 
-Our (international) community mainly works on three fields inside Robotics and Computer Vision:
 
 <style type="text/css">
 .mytable{text-align: center}
@@ -70,40 +65,42 @@ Our (international) community mainly works on three fields inside Robotics and C
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top;}
 </style>
 
+
 <div class="mytable">
 <table class="tg">
   <tr>
     <th class="tg-kmbl"><a href="http://jderobot.org/Projects#Robot_Programming_Tools">Development Areas</a></th>
     <th class="tg-kmbl"><a href="http://jderobot.org/Projects#Robot_Programming_Tools">Products</a></th>
   </tr>
+
   <tr>
-    <td class="tg-lboi" rowspan="2"><a href="https://jderobot.github.io/projects/robotics_education">Robotics Education and Games</a></td>
-    <td class="tg-0pky"><a href="https://jderobot.github.io/RoboticsAcademy/">Robotics-Academy</a>, offline platform for engineering students</td>
+    <td class="tg-lboi" rowspan="4"><a href="https://jderobot.github.io/projects/fpga_robotics">Robot Programming Tools</a></td>
+   <td class="tg-0pky"><a href="https://unibotics.org/">Unibotics</a>, our online website for robot programming</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><a href="https://unibotics.org/">Unibotics</a>, open online platform for learning robotics</td>
+     <td class="tg-0pky"><a href="https://github.com/JdeRobot/bt-studio">BT-Studio</a>, for development of BehaviorTree-based robotics applications</td>
   </tr>
-  
-  <tr>
-    <td class="tg-lboi" rowspan="3"><a href="https://jderobot.github.io/projects/machine_learning">MachineLearning in Robotics</a></td>
-    <td class="tg-0pky"><a href="https://jderobot.github.io/DetectionMetrics">DetectionMetrics</a> tool for evaluation of visual detection networks</td>
+ <tr>
+  <td class="tg-0pky"><a href="https://jderobot.github.io/VisualCircuit/">VisualCircuit</a>, visual robot programming using connected blocks and wires</td>
   </tr>
-     <tr>
-    <td class="tg-0pky"><a href="https://jderobot.github.io/BehaviorMetrics">BehaviorMetrics</a> tool for evaluation of control networks</td>
-   </tr>
-  <tr>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/RL-Studio">Reinforcement Learning Studio</a>, robot programming with rewards</td>
+ <tr>
+    <td class="tg-0pky"><a href="https://github.com/JdeRobot/FPGA-robotics">FPGA-robotics</a> toolchain, design your robot intelligence in Verilog</td>
   </tr>
 
   <tr>
-    <td class="tg-lboi" rowspan="3"><a href="https://jderobot.github.io/projects/fpga_robotics">Reconfigurable Computing in Robotics</a></td>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/neuralFPGA">neuralFPGA</a>, run deeplearning networks on FPGAs</td>
+    <td class="tg-lboi" rowspan="1"><a href="https://jderobot.github.io/projects/robotics_education">Robotics Education</a></td>
+    <td class="tg-0pky"><a href="https://jderobot.github.io/RoboticsAcademy/">Robotics-Academy</a>, offline learning platform for engineering students</td>
   </tr>
+  
   <tr>
-    <td class="tg-0pky"><a href="https://github.com/JdeRobot/FPGA-robotics">FPGA-robotics</a>, design your robot intelligence with IceStudio blocks</td>
+    <td class="tg-lboi" rowspan="3"><a href="https://jderobot.github.io/projects/machine_learning">AI driven Robotics</a></td>
+     <td class="tg-0pky">Autonomous Driving with Imitation Learning and Reinforcement Learning</td>
   </tr>
+     <tr>
+    <td class="tg-0pky"><a href="https://jderobot.github.io/BehaviorMetrics">BehaviorMetrics</a> tool for evaluation of end2end robot control models</td>
+   </tr>
   <tr>
-  <td class="tg-0pky"><a href="https://jderobot.github.io/VisualCircuit/">VisualCircuit</a> visual robot programming using connected blocks and wires</td>
+   <td class="tg-0pky"><a href="https://jderobot.github.io/DetectionMetrics">DetectionMetrics</a> tool for evaluation of visual object detection models</td>
   </tr>
 
 <!--
@@ -126,57 +123,35 @@ Our (international) community mainly works on three fields inside Robotics and C
 -->
   
   </table>
-  
-
 </div>
 
-We are registered as **non-profit organization** in Spain Ref.#615800.
-
 ## News
-
-<!--* (2021/05/17) Accepted students for JdeRobot GSoC-2021 have been announced, take a look at the [selected students/projects](https://jderobot.github.io/activities/gsoc/2021). .-->
-<!--* (2021/02/15) JdeRobot-base and JdeRobot-assets are now deprecated. Our toolkit is now fully ROS-based!. .-->
-<!--* (2021/02/01) [*RoboticsAcademy 2.3.2*](https://jderobot.github.io/RoboticsAcademy) released. It includes four web based exercises, solve them from your browser :-) .-->
-<!-- * (2020/12/22) [*VisualCircuit*](https://jderobot.github.io/VisualCircuit/) tool has born, it is ready to use. Program your robot application using blocks and wires, as in electronic circuits..-->
-<!--* (2020/05/04) Accepted students for JdeRobot GSoC-2020 have been announced, take a look at the [selected students/projects](https://jderobot.github.io/activities/gsoc/2020).-->
-<!-- * *JdeRobot has been accepted as a mentoring organization for Google Summer of Code 2020*, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2020) and our candidate selection process.-->
-<!-- * The last stable release, JdeRobot-5.7.0, has been released as debian package (2020/02/14): full compatible with ROS Melodic. -->
-<!-- * All our web pages are finally being migrated to GitHub Pages: nice, under version control and convenient. -->
-<!-- * JdeRobot was accepted as a mentoring organization for Google Summer of Code 2019, several students will be funded by Google to work in open projects of our organizaton. Check the [proposed ideas list](https://jderobot.github.io/activities/gsoc/2019) and our candidate selection process. --> 
-<!--  * The last stable release, [JdeRobot/base 5.6.7](https://github.com/JdeRobot/base/wiki/JdeRobot-5.6.7) has been released (2019/03/12): full compatible with ROS Kinetic. -->
-<!-- * 3rd edition of [Program-A-Robot Challenge](https://jderobot.github.io/activities/competitions/2018) was celebrated inside the [International Conference on Intelligent Robots and Systems (IROS 2018)](https://www.iros2018.org/competitions) (2018/10/03). Watch the [summary video](https://www.youtube.com/watch?v=VFBL6zuXqgo): a drone (cat) searches and pursues a moving target (mouse). -->
-
 
 <div align="center">
   <a class="twitter-timeline" data-lang="en" data-width="800" data-height="700" href="https://twitter.com/JdeRobot?ref_src=twsrc%5Etfw">Tweets by JdeRobot</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-
 <figure class="half">
-    <a href="/assets/images/cover/projects.png"><iframe src="https://www.youtube.com/embed/gDP9nWCL0Vg"></iframe></a>
-    <a href="/assets/images/cover/activities.jpg"><iframe src="https://www.youtube.com/embed/1iYlJLJkESU"></iframe></a>
+    <a href="/assets/images/cover/projects.png"><iframe src="https://www.youtube.com/embed/-2D90I-wZKs"></iframe></a>
+    <a href="/assets/images/cover/activities.jpg"><iframe src="https://www.youtube.com/embed/yfScvcrjYkg"></iframe></a>
 <!--    <figcaption>Last two videos from YouTube channel.</figcaption> -->
 </figure>
 
-## Roadmap
 
-We are working on:
 
-* Update of underlying infrastructure: jump to Ubuntu 20.04, ROS Noetic, Gazebo11 simulator, Python 3.5.
-* Use of reconfigurable hardware (FPGAs) in robotics, with third party open tools like IceStudio
-* [VisualStates tool](https://jderobot.github.io/VisualStates) for visual programming of the robot intelligence with Finite State Machines. It creates a C++ or a Python component from the visual description of the automata.
-<!-- * Scratch4Robots tool for programming of TurtleBot and drones using Scratch visual language -->
-* [RoboticsAcademy](https://jderobot.github.io/RoboticsAcademy): a framework to learn Robotics, Artificial Intelligence and Computer Vision in a practical way. It is a collection of Python exercises. Our goal is to provide its functionality as a web service and create new exercises.
-* (*done*) <del>All our web pages are finally being migrated to GitHub Pages: nice, under version control and convenient</del>
-* (*done*) <del>Compatibility with ROS robotics middleware: interoperation between ROS nodes and JdeRobot components, use of ROS drivers, use of ROS bag files... JdeRobot (>= 5.6) is fully compatible with ROS Kinetic including its official debian packages</del>
-* (*done*) <del>Update of underlying infrastructure: jump to Ubuntu 16.04, OpenCV-3, migration to Gazebo-7 simulator (revisit existing plugins and models), PCL-1.8, ICE-3.6</del>
-* (*done*) <del>Use of Web technologies in robotics: ICE-JS, WebRTC, HTML5, electron, nodeJS... </del> Many webtools have been developed: viewers, teleoperators and drivers.
+## Published research papers
+
+* (2024) *Behavior Metrics: An Open-Source Assessment Tool for Autonomous Driving Tasks*. Sergio Paniego, Roberto Calvo-Palomino, José M. Cañas. SoftwareX, Volume 26, Elsevier, 2024. DOI: <a href="https://doi.org/10.1016/j.softx.2024.101702">https://doi.org/10.1016/j.softx.2024.101702</a>
+* (2024) *Model Optimization in Deep Learning based Robot Control for Autonomous Driving*. Sergio Paniego, Nikhil Paliwal, José M. Cañas. IEEE Robotics and Automation Letters (RA-L), Volume 9, Issue 1, Pages 715-722, 2024. DOI: <a href="https://doi.org/10.1109/LRA.2023.3336244">https://doi.org/10.1109/LRA.2023.3336244</a>
+* (2023) *Unibotics: open ROS-based online framework for practical learning of Robotics in higher education*. David Roldán-Álvarez, José M. Cañas, David Valladares, Pedro Arias-Perez, Sakshay Mahna. Multimedia Tools and Applications, Springer 2023. DOI: <a href="https://doi.org/10.1007/s11042-023-17514-z">https://doi.org/10.1007/s11042-023-17514-z</a>
+* (2023) *Vision-based robotics using open FPGAs*. Felipe Machado, Rubén Nieto, Jesus Fernández-Conde, David Lobato, José M. Cañas. Microprocessors and Microsystems, Volume 103, November 2023, 104974, Elsevier 2023. DOI:<a href="https://doi.org/10.1016/j.micpro.2023.104974">https://doi.org/10.1016/j.micpro.2023.104974</a>
+* (2022) *Open Source Assessment of Deep Learning Visual Object Detection*. Sergio Paniego, Vinay Sharma, José Marı́a Cañas. Sensors 2022, 22(12), 4575; MDPI. DOI: <a href="https://doi.org/10.3390/s22124575">https://doi.org/10.3390/s22124575</a>
 
 
 ## License
 
-* <img src="/assets/images/cover/GPLv3.png" style="width:200px;"> JdeRobot is open source. All its code is licensed under GPL v3.
-* <img src="/assets/images/cover/CC_BY-SA_3.0.png" style="width:200px;"> All the documentation of JdeRobot project is licensed under Creative Commons by-sa 
+* <img src="/assets/images/cover/GPLv3.png" style="width:200px;"> JdeRobot is open source. Its code is licensed under GPL v3.
+* <img src="/assets/images/cover/CC_BY-SA_3.0.png" style="width:200px;"> All the documentation of JdeRobot software is licensed under Creative Commons by-sa 
 
 ## Sponsors
 

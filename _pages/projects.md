@@ -20,36 +20,36 @@ sidebar:
 
 projects:
   - image_path: /assets/images/projects/robotics-academy-action.jpg
-    alt: "Robotics Education and Games"
-    title: "Robotics Education & Games"
-    excerpt: "RoboticsAcademy is an open source collection of exercises to learn robotics in a practical way. Programmed in Python, the Gazebo simulator and the ROS framework are used."
+    alt: "Robotics Education"
+    title: "Robotics Education"
+    excerpt: "RoboticsAcademy is an open source collection of exercises to learn robotics in a practical way. Programmed in Python, Gazebo simulator and ROS middleware are used."
     url: "/projects/robotics_education/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
   - image_path: /assets/images/projects/detection_suite.png
-    alt: "Machine Learning"
-    title: "Machine Learning in Robotics"
-    excerpt: "DeepLearning for control, Reinforcement Learning for control, Deeplearnig for visual object detection, DeepLearning for prediction..."
+    alt: "AI driven Robotics"
+    title: "AI driven Robotics"
+    excerpt: "DeepLearning for control, Reinforcement Learning for control, Deeplearnig for visual object detection..."
     url: "/projects/machine_learning/"
     btn_class: "btn--primary"
     btn_label: "Go!"
 
-  - image_path: /assets/images/projects/fpga.jpg
-    alt: "Reconfigurable Computing in Robotics"
-    title: "Reconfigurable Computing in Robotics"
-    excerpt: "[Neural FPGA project](https://github.com/JdeRobot/neuralFPGA) goal is to produce custom hardware able to do inference with generic neural networks. We rely on hardware simulations and real FPGAs."
-    url: "/projects/fpga_robotics/fpga_robotics"
-    btn_class: "btn--primary"
-    btn_label: "Go!" 
-  
-#  - image_path: /assets/images/projects/visual_states.png
-#    alt: "Robot Programming Tools"
-#    title: "Robot Programming Tools" 
-#    excerpt: "Several development areas: robot programming tools, learning robotics, drones, SLAM algorithms, DeepLearning. All of them are open for collaboration."
-#    url: "/projects/robots_programming_tools/"
+#  - image_path: /assets/images/projects/fpga.jpg
+#    alt: "Reconfigurable Computing in Robotics"
+#    title: "Reconfigurable Computing in Robotics"
+#    excerpt: "[Neural FPGA project](https://github.com/JdeRobot/neuralFPGA) goal is to produce custom hardware able to do inference with generic neural networks. We rely on hardware simulations and real FPGAs."
+#    url: "/projects/fpga_robotics/fpga_robotics"
 #    btn_class: "btn--primary"
-#    btn_label: "Go!"
+#    btn_label: "Go!" 
+  
+  - image_path: /assets/images/projects/visual_states.png
+    alt: "Robot Programming Tools"
+    title: "Robot Programming Tools" 
+    excerpt: "BT Studio (for BehaviorTree based applications), VisualCircuit (visual robot programming), FPGA-Robotics (robot programming in Verilog), dockerized RoboticsBackend..."
+    url: "/projects/robot_programming_tools/"
+    btn_class: "btn--primary"
+    btn_label: "Go!"
 
 #  - image_path: /assets/images/projects/visual_slam.png
 #    alt: "Visual Slam"
@@ -77,7 +77,8 @@ Our (international) community mainly works on three lines inside Robotics and Co
 
 ## Previous lines and projects
 
-- [**Robot Programming Tools**](/projects/robots_programming_tools/)
+<!--- [**Robot Programming Tools**](/projects/robots_programming_tools/)-->
+
 - [**Drones**](/projects/drones/drones)
 - [**Visual SLAM**](/projects/visual_slam/visual_slam)
 - [People Tracking](http://wiki.jderobot.org/ElderCare)
