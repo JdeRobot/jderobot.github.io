@@ -1,5 +1,5 @@
 ---
-permalink: /activities/internships
+permalink: /activities/internships/
 title: "Internships"
 
 sidebar:
@@ -11,14 +11,15 @@ classes: wide
 ---
 
 
+Contribute to our robotics open source software projects while being mentored by our experts. Become an experienced robotics developer!
 
-Do you wanna learn and enjoy programming robots, Artificial Intelligence or Computer Vision applications? We have a Robotics Club inside JdeRobot organization for that. Currently there are several active projects in AI and specifically DeepLearning. We are also working hard in new [tools](https://jderobot.org/Tools) in JdeRobot. New developers, testers and users are welcome. Take a look at ongoing projects.
+Do you wanna learn and enjoy programming robots or Artificial Intelligence? We accept internships (there is a selection process before setting the internship goals) inside JdeRobot organization, even remote ones. You will receive mentoring from our experts and will meet periodically with them. New developers, testers and users are welcome. Currently there are several active projects in AI and specifically DeepLearning. We are also working hard in new robotics development tools. Take a look at them. 
 
-To start working in the Robotics Club, just download some JdeRobot software, run several tutorials. Upload some videos of them on your computer to YouTube. Please send us (josemaria.plaza@gmail.com) your CV to better know your programming, robotics or computer vision abilities and to better think in a suitable collaboration project for you. Python, C++ or JavaScript capabilities are desirable and useful.
+Before applying for any internship slot, just download some JdeRobot software, run several tutorials and discuss with other contributors through the GitHub repo itself. Upload some videos of them on your computer to YouTube. Please send us (josemaria.plaza@gmail.com) your CV to better know your programming, robotics or AI abilities to better think in a suitable collaboration project for you. Python, C++ or JavaScript capabilities are desirable and useful.
 
-Once accepted you would be assigned a mentor that would help, advise your collaboration and teach you the required abilities, etc... Typically we arrange periodic meetings through video conference (Google Hangouts-Meet) to see the following steps. After a few weeks you will have your own [github repository](https://github.com/TheRoboticsClub) at the Robotics Club and your own web page there.
+Once accepted you would be assigned a mentor that will help, advise your collaboration and teach you the required abilities, etc... Typically we arrange periodic meetings through video conference (Google Hangouts-Meet) to see the following steps. After a few weeks you will have your own [github repository](https://github.com/TheRoboticsClub) at our Robotics Club and your own web page there.
 
-## Ongoing projects (2024)
+## Ongoing internships (2024)
 
 - [David Duro](https://theroboticsclub.github.io/2024-upe-david-duro/), Unibotics
 - [María Busto](https://theroboticsclub.github.io/2024-upe-maria-busto/), Unibotics
@@ -29,7 +30,7 @@ Once accepted you would be assigned a mentor that would help, advise your collab
 
 ***
 
-# Previous Projects
+# Previous internships
 
 ## 2024
 - [Stefan Gonzales](https://theroboticsclub.github.io/2024-upe-stefan-gonzales/), optimization at Unibotics
