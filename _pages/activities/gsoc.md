@@ -10,7 +10,7 @@ classes: wide
 
 gsoc2025:
   - url: /activities/gsoc/2025
-    image_path: /assets/images/activities/gsoc/gsoc-2024.jpg
+    image_path: /assets/images/activities/gsoc/gsoc-generic-badge.png
     alt: "GSoC 2025"
     title: "GSoC 2025"
 
@@ -63,7 +63,7 @@ gallery:
 
 JdeRobot is applying as mentoring organization for GSoC-2025. You can see the [**proposed projects here**](/activities/gsoc/2025):
 
-{% include gallery id="gsoc2024" layout="" %}
+{% include gallery id="gsoc2025" layout="" %}
 
 ## Previous GSoC projects
 
