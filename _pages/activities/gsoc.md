@@ -8,13 +8,17 @@ sidebar:
 classes: wide
 
 
-gsoc2024:
+gsoc2025:
+  - url: /activities/gsoc/2025
+    image_path: /assets/images/activities/gsoc/gsoc-generic-badge.png
+    alt: "GSoC 2025"
+    title: "GSoC 2025"
+
+gallery:
   - url: /activities/gsoc/2024
     image_path: /assets/images/activities/gsoc/gsoc-2024.jpg
     alt: "GSoC 2024"
     title: "GSoC 2024"
-
-gallery:
   - url: /activities/gsoc/2023
     image_path: /assets/images/activities/gsoc/gsoc-2023.jpg
     alt: "GSoC 2023"
@@ -55,9 +59,11 @@ gallery:
 
 <!-- Once again, Google has selected JdeRobot to continue growing as a robotics project by reaching out to collaborators around the world. An exciting adventure. You can see the [**current projects here**](/activities/gsoc/2021): -->
 
-JdeRobot has been selected as mentoring organization for GSoC-2024. You can see the [**proposed projects here**](/activities/gsoc/2024):
+<!-- JdeRobot has been selected as mentoring organization for GSoC-2024. You can see the [**proposed projects here**](/activities/gsoc/2024): -->
 
-{% include gallery id="gsoc2024" layout="" %}
+JdeRobot is applying as mentoring organization for GSoC-2025. You can see the [**proposed projects here**](/activities/gsoc/2025):
+
+{% include gallery id="gsoc2025" layout="" %}
 
 ## Previous GSoC projects
 
@@ -67,6 +73,11 @@ JdeRobot has been selected as mentoring organization for GSoC-2024. You can see 
 
 ## Previous GSoC contributors
 
+- [Prajyot Jadhav](https://github.com/TheRoboticsClub/gsoc2024-Prajyot_Jadhav) (GSoC 2024) Robotics-Academy: migration to Gazebo Fortress
+- [Mihir Gore](https://github.com/TheRoboticsClub/gsoc2024-Mihir_Gore) (GSoC 2024) Robotics-Academy: improve Deep Learning based exercises
+- [Pankaj Borade](https://github.com/TheRoboticsClub/gsoc2024-Pankaj_Borade) (SoC 2024) VisualCircuit: block library
+- [Óscar Martínez](https://github.com/TheRoboticsClub/gsoc2024-Oscar_Martinez) (GSoC 2024) BT-Studio: a tool for programming robots with Behavior Trees
+- [Zebin Huang](https://github.com/TheRoboticsClub/gsoc2024-ZebinHuang) (GSoC 2024) End-to-end autonomous vehicle driving based on text-based instructions: research project regarding Autonomous Driving + LLMs
 - [Prakhar Bansal](https://theroboticsclub.github.io/gsoc2023-Prakhar_Bansal/) (GSoC-2023) RoboticsAcademy: Cross-Platform Desktop Application using ElectronJS
 - [Siddheshsingh Tanwar](https://theroboticsclub.github.io/gsoc2023-Siddheshsingh_Tanwar/) (GSoC-2023) Dockerization of Visual Circuit
 - [Meiqi Zhao](https://theroboticsclub.github.io/gsoc2023-Meiqi_Zhao/) (GSoC-2023) Obstacle Avoidance for Autonomous Driving in CARLA Using Segmentation Deep Learning Models
