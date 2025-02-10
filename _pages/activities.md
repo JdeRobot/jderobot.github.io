@@ -15,8 +15,8 @@ sidebar:
 
 feature_row:
   - image_path: /assets/images/activities/GSoC.png
-    alt: "GSoC-2024"
-    title: "GSoC-2024"
+    alt: "GSoC"
+    title: "GSoC"
     excerpt: "Google Summer of Code is a global program focused on bringing more student developers into open source software development."
     url: "/activities/gsoc/"
     btn_class: "btn--primary"
