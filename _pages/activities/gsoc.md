@@ -10,7 +10,7 @@ classes: wide
 
 gsoc2025:
   - url: /activities/gsoc/2025
-    image_path: /assets/images/activities/gsoc/gsoc-generic-badge.png
+    image_path: /assets/images/activities/gsoc/gsoc-2025.jpg
     alt: "GSoC 2025"
     title: "GSoC 2025"
 
