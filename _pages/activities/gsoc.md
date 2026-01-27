@@ -10,7 +10,7 @@ classes: wide
 
 gsoc2026:
   - url: /activities/gsoc/2026
-    image_path: /assets/images/activities/gsoc/gsoc-2026.jpg
+    image_path: /assets/images/activities/gsoc/gsoc-2026.png
     alt: "GSoC 2026"
     title: "GSoC 2026"
 
