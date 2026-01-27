@@ -8,13 +8,17 @@ sidebar:
 classes: wide
 
 
-gsoc2025:
+gsoc2026:
+  - url: /activities/gsoc/2026
+    image_path: /assets/images/activities/gsoc/gsoc-2026.png
+    alt: "GSoC 2026"
+    title: "GSoC 2026"
+
+gallery:
   - url: /activities/gsoc/2025
     image_path: /assets/images/activities/gsoc/gsoc-2025.jpg
     alt: "GSoC 2025"
     title: "GSoC 2025"
-
-gallery:
   - url: /activities/gsoc/2024
     image_path: /assets/images/activities/gsoc/gsoc-2024.jpg
     alt: "GSoC 2024"
@@ -61,18 +65,24 @@ gallery:
 
 <!-- JdeRobot has been selected as mentoring organization for GSoC-2024. You can see the [**proposed projects here**](/activities/gsoc/2024): -->
 
-JdeRobot is applying as mentoring organization for GSoC-2025. You can see the [**proposed projects here**](/activities/gsoc/2025):
+JdeRobot is applying as mentoring organization for GSoC-2026. You can see the [**proposed projects here**](/activities/gsoc/2026):
 
-{% include gallery id="gsoc2025" layout="" %}
+{% include gallery id="gsoc2026" layout="" %}
 
 ## Previous GSoC projects
 
-**JdeRobot** has been selected **8 times** and 36 contributors from many **parts of the world** have collaborated in the open software development of our community from GSoC. Take a look at the previous projects and get to know the contributors involved.
+**JdeRobot** has been selected **10 times** and **52 contributors** from many **parts of the world** have collaborated in the open software development of our community from GSoC. Take a look at the previous projects and get to know the contributors involved.
 
 {% include gallery id="gallery" layout="half" %}
 
 ## Previous GSoC contributors
-
+- [Ashish Ramesh](https://github.com/TheRoboticsClub/gsoc2025-Ashish_Ramesh) (GSoC 2025) Robotics-Academy: support for solutions directly using ROS2 topics
+- [Abdallah Ibrahim Ismail](https://github.com/TheRoboticsClub/gsoc2025-Abdallah_Ibrahim_Ismail) (GSoC 2025) Robotics-Academy: CI & Testing
+- [Md. Shariar Kabir](https://github.com/TheRoboticsClub/gsoc2025-Md_Shariar_Kabir) (GSoC 2025) Robotics-Academy: new exercise on End-to-End Visual Control of an Autonomous Vehicle using DeepLearning
+- [Nikhil Gupta](https://github.com/TheRoboticsClub/gsoc2025-Nikhil_Gupta) (GSoC 2025) Robotics Academy: improvement of Gazebo scenarios and robot models
+- [Shu Xiao](https://github.com/TheRoboticsClub/gsoc2025-Shu_Xiao) (GSoC 2025) Robotics Academy: improvement of industrial robotics exercises with MoveIt2 and ROS2
+- [Javier Izquierdo](https://github.com/TheRoboticsClub/gsoc2025-Javier_Izquierdo) (GSoC 2025) BT-Studio: a tool for programming robots with Behavior Trees
+- [Sakhineti Praveena](https://github.com/TheRoboticsClub/gsoc2025-Sakhineti_Praveena) (GSoC 2025) Extend DetectionMetrics: GUI, CI Workflow, and Object Detection
 - [Prajyot Jadhav](https://github.com/TheRoboticsClub/gsoc2024-Prajyot_Jadhav) (GSoC 2024) Robotics-Academy: migration to Gazebo Fortress
 - [Mihir Gore](https://github.com/TheRoboticsClub/gsoc2024-Mihir_Gore) (GSoC 2024) Robotics-Academy: improve Deep Learning based exercises
 - [Pankaj Borade](https://github.com/TheRoboticsClub/gsoc2024-Pankaj_Borade) (SoC 2024) VisualCircuit: block library
