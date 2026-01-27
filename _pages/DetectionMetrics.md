@@ -11,8 +11,8 @@ _DetectionMetrics_ was originally developed to evaluate visual **object detectio
 
 At this point, the original name no longer reflected the scope of the toolkit. The project was therefore renamed to _**PerceptionMetrics**_.
 
-- Code: https://github.com/JdeRobot/PerceptionMetrics  
-- Docs: https://jderobot.github.io/PerceptionMetrics
+- Code: <https://github.com/JdeRobot/PerceptionMetrics>  
+- Docs: <https://jderobot.github.io/PerceptionMetrics>
 
 ## Looking for the original DetectionMetrics?
 
