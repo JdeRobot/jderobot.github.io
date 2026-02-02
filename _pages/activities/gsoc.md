@@ -10,7 +10,7 @@ classes: wide
 
 gsoc2026:
   - url: /activities/gsoc/2026
-    image_path: /assets/images/activities/gsoc/gsoc-2026.png
+    image_path: /assets/images/activities/gsoc/gsoc-2026.jpg
     alt: "GSoC 2026"
     title: "GSoC 2026"
 
@@ -54,7 +54,7 @@ gallery:
   - url: /activities/gsoc/2015
     image_path: /assets/images/activities/gsoc/gsoc-2015.jpg
     alt: "GSoC 2015"
-    title: "GSoC 2015"  
+    title: "GSoC 2015"
 ---
 
 ![](/assets/images/activities/GSoC_mini.png){: .align-right}
@@ -109,7 +109,7 @@ JdeRobot is applying as mentoring organization for GSoC-2026. You can see the [*
 - [Shreyas Gokhale](https://theroboticsclub.github.io/colab-gsoc2020-Shreyas_Gokhale/) (GSoC-2020) Multi-Robot exercises for Robotics Academy In ROS2.
 - [Yijia Wu](https://theroboticsclub.github.io/colab-gsoc2020-Yijia_Wu/) (GSoC-2020) Vision-based Industrial Robot Manipulation with MoveIt.
 - [Diego Charrez](https://theroboticsclub.github.io/colab-gsoc2020-Diego_Charrez/logbook/) (GSoC-2020) Reinforcement Learning for Autonomous Driving with Gazebo and OpenAI gym.
-- [Nikhil Khedekar](https://theroboticsclub.github.io/colab-gsoc2019-Nikhil_Khedekar/) (GSoC-2019) Migration to ROS of drones exercises on JdeRobot Academy. 
+- [Nikhil Khedekar](https://theroboticsclub.github.io/colab-gsoc2019-Nikhil_Khedekar/) (GSoC-2019) Migration to ROS of drones exercises on JdeRobot Academy.
 - [Shyngyskhan Abilkassov](https://theroboticsclub.github.io/colab-gsoc2019-Shyngyskhan_Abilkassov) (GSoC-2019) Amazon warehouse exercise on JdeRobot Academy
 - [Jeevan Kumar](https://theroboticsclub.github.io/colab-gsoc2019-Jeevan_Kumar/) (GSoC-2019) Improving DetectionSuite Deep Learning tool.
 - [Baidyanath Kundu](https://theroboticsclub.github.io/colab-gsoc2019-Baidyanath_Kundu/) (GSoC-2019) A parameterized automata Library for VisualStates tool.
