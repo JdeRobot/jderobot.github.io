@@ -10,6 +10,7 @@ layout: archive
 classes: wide
 ---
 
+- [Unibotics Robot Programming Challenge 2026](/activities/competitions/2026)
 
 Drones are aerial robots that have gained popularity in recent years. They were born in the military field and with the lowering of their costs have opened up possibilities for commercial use in several civil applications such as infrastructure monitoring, agriculture, surveillance, event recording, etc.. They are robots and so they are composed of sensors, actuators and processors on the hardware side. Its intelligence, however, lies on its software.
 
