@@ -36,6 +36,11 @@ projects:
     title: <a href='https://github.com/pawanw17' target='_blank'>Pawan Wadhwani</a>
     excerpt: "RoboticsAcademy, ROS2 RADI, Drones"
 
+  - image_path: /assets/images/community/contributors/anish.jpeg
+    alt: "Anish Kumar"
+    title: <a href='https://github.com/anishk85' target='_blank'>Anish Kumar</a>
+    excerpt: "RoboticsAcademy, multi-robot support, Drones"
+
   - image_path: /assets/images/community/contributors/ApoorvGarg-member.jpg
     alt: "Apoorv Garg"
     title: <a href='https://github.com/Apoorvgarg-creator' target='_blank'>Apoorv Garg</a>
