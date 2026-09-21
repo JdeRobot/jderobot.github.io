@@ -126,6 +126,11 @@ projects:
     title: <a href='https://github.com/jessiffmm' target='_blank'>Jessica Fernández</a>
     excerpt: "Smart TrafficSensor"
 
+  - image_path: /assets/images/community/contributors/jesus_perez.jpg
+    alt: "Jesús Perez"
+    title: <a href='https://github.com/jepear19' target='_blank'>Jesús Pérez</a>
+    excerpt: "RoboticsAcademy (industrial robots)"
+
   - image_path: /assets/images/community/contributors/jmplaza.jpg
     alt: "JoseMaría Cañas"
     title: <a href='https://gsyc.urjc.es/jmplaza/' target='_blank'>JoseMaría Cañas</a>
